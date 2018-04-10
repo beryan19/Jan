@@ -1,41 +1,7 @@
 
 #EXTINF:-1 tvg-logo="http://civiltarsulas.hu/uploads/icons/language/Français.png" group-title="LABEL",======FRANCE=======
 http://www.lengua.com/anthems/France.mp3
-#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTINF:-1,BeINSPORTS 3HD Fr
-http://2.primatv.club:8450/live/Fu7ltvi2218/A70ip18full/1456.ts
-#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTINF:-1,BeINMAX 04HD Fr
-http://2.primatv.club:8450/live/Fu7ltvi2218/A70ip18full/1457.ts
-#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTINF:-1,BeINMAX 05HD Fr
-http://2.primatv.club:8450/live/Fu7ltvi2218/A70ip18full/1458.ts
-#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTINF:-1,BeINMAX 06HD Fr
-http://2.primatv.club:8450/live/Fu7ltvi2218/A70ip18full/1459.ts
-#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTINF:-1,BeINMAX 07HD Fr
-http://2.primatv.club:8450/live/Fu7ltvi2218/A70ip18full/1460.ts
-#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTINF:-1,BeINMAX 08HD Fr
-http://2.primatv.club:8450/live/Fu7ltvi2218/A70ip18full/1461.ts
-#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTINF:-1,BeINMAX 09HD Fr
-http://2.primatv.club:8450/live/Fu7ltvi2218/A70ip18full/1462.ts
-#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTINF:-1,BeINMAX 10HD Fr
-http://2.primatv.club:8450/live/Fu7ltvi2218/A70ip18full/1463.ts
-#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTINF:-1,SFR Sport 1HD Fr
-http://2.primatv.club:8450/live/Fu7ltvi2218/A70ip18full/1464.ts
-#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTINF:-1,SFR Sport 2HD Fr
-http://2.primatv.club:8450/live/Fu7ltvi2218/A70ip18full/1465.ts
-#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTINF:-1,SFR Sport 3HD Fr
-http://2.primatv.club:8450/live/Fu7ltvi2218/A70ip18full/1466.ts
-#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTVLCOPT:http-user-agent=New#FreeV3X1....
+
 #EXTINF:-1,FR:6TER
 http://srvt.topiptv.org:80/live/Acc_AM.V3X1x/App65080/1678.ts
 #EXTVLCOPT:http-user-agent=New#FreeV3X1....
@@ -317,252 +283,376 @@ http://srvt.topiptv.org:80/live/Acc_AM.V3X1x/App65080/838.ts
 #EXTVLCOPT:http-user-agent=New#FreeV3X1....
 #EXTINF:-1,FR:BOING
 http://srvt.topiptv.org:80/live/Acc_AM.V3X1x/App65080/839.ts
+#EXTVLCOPT:http-user-agent=BoX@dash#
 #EXTINF:-1,•●★- FRANCE -★●•
 http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/4222.ts
+#EXTVLCOPT:http-user-agent=BoX@dash#
 #EXTINF:-1,FR:13 EME RUE
 http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/7155.ts
+#EXTVLCOPT:http-user-agent=BoX@dash#
 #EXTINF:-1,FR:6Ter HD
 http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/7156.ts
+#EXTVLCOPT:http-user-agent=BoX@dash#
 #EXTINF:-1,FR:AB Moteurs
 http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/7209.ts
+#EXTVLCOPT:http-user-agent=BoX@dash#
 #EXTINF:-1,FR:AB1 HD
 http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/7211.ts
+#EXTVLCOPT:http-user-agent=BoX@dash#
 #EXTINF:-1,FR:ACTION HD
 http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/7219.ts
+#EXTVLCOPT:http-user-agent=BoX@dash#
 #EXTINF:-1,FR:Animaux HD
 http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/7182.ts
+#EXTVLCOPT:http-user-agent=BoX@dash#
 #EXTINF:-1,FR:Animaux HD FR
 http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/7210.ts
+#EXTVLCOPT:http-user-agent=BoX@dash#
 #EXTINF:-1,FR:Arte HD FR
 http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/7157.ts
+#EXTVLCOPT:http-user-agent=BoX@dash#
 #EXTINF:-1,FR:BEINSPORTS 1HD
 http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/7232.ts
+#EXTVLCOPT:http-user-agent=BoX@dash#
 #EXTINF:-1,FR:BEINSPORTS 2HD
 http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/7231.ts
+#EXTVLCOPT:http-user-agent=BoX@dash#
 #EXTINF:-1,FR:BEINSPORTS 3HD
 http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/7230.ts
+#EXTVLCOPT:http-user-agent=BoX@dash#
 #EXTINF:-1,FR:BEINSPORTS MAX 4
 http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/7229.ts
+#EXTVLCOPT:http-user-agent=BoX@dash#
 #EXTINF:-1,FR:BEINSPORTS MAX 5
 http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/7228.ts
+#EXTVLCOPT:http-user-agent=BoX@dash#
 #EXTINF:-1,FR:BEINSPORTS MAX 6
 http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/7227.ts
+#EXTVLCOPT:http-user-agent=BoX@dash#
 #EXTINF:-1,FR:BEINSPORTS MAX 7
 http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/7226.ts
+#EXTVLCOPT:http-user-agent=BoX@dash#
 #EXTINF:-1,FR:BFM Bussiness
 http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/7162.ts
+#EXTVLCOPT:http-user-agent=BoX@dash#
 #EXTINF:-1,FR:BFM HD
 http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/7163.ts
+#EXTVLCOPT:http-user-agent=BoX@dash#
 #EXTINF:-1,FR:Boing
 http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/7161.ts
+#EXTVLCOPT:http-user-agent=BoX@dash#
 #EXTINF:-1,FR:Boomerang FR
 http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/7186.ts
+#EXTVLCOPT:http-user-agent=BoX@dash#
 #EXTINF:-1,FR:BOX OFFICE 1HD
 http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/7108.ts
+#EXTVLCOPT:http-user-agent=BoX@dash#
 #EXTINF:-1,FR:BOX OFFICE 2HD
 http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/7107.ts
+#EXTVLCOPT:http-user-agent=BoX@dash#
 #EXTINF:-1,FR:BOX OFFICE 3HD
 http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/7106.ts
+#EXTVLCOPT:http-user-agent=BoX@dash#
 #EXTINF:-1,FR:BOX OFFICE 4HD
 http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/7105.ts
+#EXTVLCOPT:http-user-agent=BoX@dash#
 #EXTINF:-1,FR:BOX OFFICE 5HD
 http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/7104.ts
+#EXTVLCOPT:http-user-agent=BoX@dash#
 #EXTINF:-1,FR:BOX OFFICE 6HD
 http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/7103.ts
+#EXTVLCOPT:http-user-agent=BoX@dash#
 #EXTINF:-1,FR:C News HD
 http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/7160.ts
+#EXTVLCOPT:http-user-agent=BoX@dash#
 #EXTINF:-1,FR:C Star HD
 http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/7159.ts
+#EXTVLCOPT:http-user-agent=BoX@dash#
 #EXTINF:-1,FR:C8 HD
 http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/7158.ts
+#EXTVLCOPT:http-user-agent=BoX@dash#
 #EXTINF:-1,FR:CANAL CINEMA HD
 http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/7222.ts
+#EXTVLCOPT:http-user-agent=BoX@dash#
 #EXTINF:-1,FR:CANAL  DECALE HD
 http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/7223.ts
+#EXTVLCOPT:http-user-agent=BoX@dash#
 #EXTINF:-1,FR:CANAL  Family
 http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/7224.ts
+#EXTVLCOPT:http-user-agent=BoX@dash#
 #EXTINF:-1,FR:CANAL  HD
 http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/7225.ts
+#EXTVLCOPT:http-user-agent=BoX@dash#
 #EXTINF:-1,FR:CANAL  SERIES HD
 http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/7221.ts
+#EXTVLCOPT:http-user-agent=BoX@dash#
 #EXTINF:-1,FR:Canal J
 http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/7167.ts
+#EXTVLCOPT:http-user-agent=BoX@dash#
 #EXTINF:-1,FR:Canal Sport HD
 http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/7220.ts
+#EXTVLCOPT:http-user-agent=BoX@dash#
 #EXTINF:-1,FR:Cartoon Network FR
 http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/7187.ts
+#EXTVLCOPT:http-user-agent=BoX@dash#
 #EXTINF:-1,FR:CCTV French
 http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/7154.ts
+#EXTVLCOPT:http-user-agent=BoX@dash#
 #EXTINF:-1,FR:Chasse et P
 http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/7183.ts
+#EXTVLCOPT:http-user-agent=BoX@dash#
 #EXTINF:-1,FR:Cherie 25 HD
 http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/7166.ts
+#EXTVLCOPT:http-user-agent=BoX@dash#
 #EXTINF:-1,FR:CIN FX
 http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/7174.ts
+#EXTVLCOPT:http-user-agent=BoX@dash#
 #EXTINF:-1,FR:CINE Classic
 http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/7171.ts
+#EXTVLCOPT:http-user-agent=BoX@dash#
 #EXTINF:-1,FR:Cine Club
 http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/7170.ts
+#EXTVLCOPT:http-user-agent=BoX@dash#
 #EXTINF:-1,FR:CINE EMOTION
 http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/7173.ts
+#EXTVLCOPT:http-user-agent=BoX@dash#
 #EXTINF:-1,FR:CINE FRISSON
 http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/7172.ts
+#EXTVLCOPT:http-user-agent=BoX@dash#
 #EXTINF:-1,FR:Cine Fx
 http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/7169.ts
+#EXTVLCOPT:http-user-agent=BoX@dash#
 #EXTINF:-1,FR:Cine Polar
 http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/7168.ts
+#EXTVLCOPT:http-user-agent=BoX@dash#
 #EXTINF:-1,FR:Comedie Plus
 http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/7165.ts
+#EXTVLCOPT:http-user-agent=BoX@dash#
 #EXTINF:-1,FR:Crime District
 http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/7164.ts
+#EXTVLCOPT:http-user-agent=BoX@dash#
 #EXTINF:-1,FR:D8
 http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/7184.ts
+#EXTVLCOPT:http-user-agent=BoX@dash#
 #EXTINF:-1,FR:Discovery FR
 http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/7181.ts
+#EXTVLCOPT:http-user-agent=BoX@dash#
 #EXTINF:-1,FR:Discovery Scie
 http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/7180.ts
+#EXTVLCOPT:http-user-agent=BoX@dash#
 #EXTINF:-1,FR:DISNEY CHANNEL
 http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/7191.ts
+#EXTVLCOPT:http-user-agent=BoX@dash#
 #EXTINF:-1,FR:Disney Cinema FR
 http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/7195.ts
+#EXTVLCOPT:http-user-agent=BoX@dash#
 #EXTINF:-1,FR:Disney Cinemagic
 http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/7192.ts
+#EXTVLCOPT:http-user-agent=BoX@dash#
 #EXTINF:-1,FR:Disney Junior
 http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/7193.ts
+#EXTVLCOPT:http-user-agent=BoX@dash#
 #EXTINF:-1,FR:Disney XD
 http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/7194.ts
+#EXTVLCOPT:http-user-agent=BoX@dash#
 #EXTINF:-1,FR:E! ENTERTAINMENT
 http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/7197.ts
+#EXTVLCOPT:http-user-agent=BoX@dash#
 #EXTINF:-1,FR:Entertainment FR
 http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/7175.ts
+#EXTVLCOPT:http-user-agent=BoX@dash#
 #EXTINF:-1,FR:Equidia HD
 http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/7153.ts
+#EXTVLCOPT:http-user-agent=BoX@dash#
 #EXTINF:-1,FR:Equidia life
 http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/7152.ts
+#EXTVLCOPT:http-user-agent=BoX@dash#
 #EXTINF:-1,FR:Equidia live
 http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/7151.ts
+#EXTVLCOPT:http-user-agent=BoX@dash#
 #EXTINF:-1,FR:Extreme Sports
 http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/7131.ts
+#EXTVLCOPT:http-user-agent=BoX@dash#
 #EXTINF:-1,FR:Foot 24
 http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/8854.ts
+#EXTVLCOPT:http-user-agent=BoX@dash#
 #EXTINF:-1,FR:Nati Geo wild FR
 http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/7179.ts
+#EXTVLCOPT:http-user-agent=BoX@dash#
 #EXTINF:-1,FR:Nati Geogr FR
 http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/7178.ts
+#EXTVLCOPT:http-user-agent=BoX@dash#
 #EXTINF:-1,FR:Nickelod Junior
 http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/7190.ts
+#EXTVLCOPT:http-user-agent=BoX@dash#
 #EXTINF:-1,FR:Nickelodeon FR
 http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/7189.ts
+#EXTVLCOPT:http-user-agent=BoX@dash#
 #EXTINF:-1,FR:NRJ 12 HD
 http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/7148.ts
+#EXTVLCOPT:http-user-agent=BoX@dash#
 #EXTINF:-1,FR:NT1 HD
 http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/7138.ts
+#EXTVLCOPT:http-user-agent=BoX@dash#
 #EXTINF:-1,FR:OCS City HD
 http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/7198.ts
+#EXTVLCOPT:http-user-agent=BoX@dash#
 #EXTINF:-1,FR:OCS Geants HD
 http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/7199.ts
+#EXTVLCOPT:http-user-agent=BoX@dash#
 #EXTINF:-1,FR:OCS Max HD
 http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/7200.ts
+#EXTVLCOPT:http-user-agent=BoX@dash#
 #EXTINF:-1,FR:Paris Premiere
 http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/7208.ts
+#EXTVLCOPT:http-user-agent=BoX@dash#
 #EXTINF:-1,FR:Piwi plus
 http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/7137.ts
+#EXTVLCOPT:http-user-agent=BoX@dash#
 #EXTINF:-1,FR:Planete
 http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/7202.ts
+#EXTVLCOPT:http-user-agent=BoX@dash#
 #EXTINF:-1,FR:PLANETE  A&E HD
 http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/7203.ts
+#EXTVLCOPT:http-user-agent=BoX@dash#
 #EXTINF:-1,FR:Planete CI+
 http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/7201.ts
+#EXTVLCOPT:http-user-agent=BoX@dash#
 #EXTINF:-1,FR:Rmc Decouverte HD
 http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/7134.ts
+#EXTVLCOPT:http-user-agent=BoX@dash#
 #EXTINF:-1,FR:RTL9
 http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/7204.ts
+#EXTVLCOPT:http-user-agent=BoX@dash#
 #EXTINF:-1,FR:RTS Deux
 http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/7125.ts
+#EXTVLCOPT:http-user-agent=BoX@dash#
 #EXTINF:-1,FR:RTS UN
 http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/7124.ts
+#EXTVLCOPT:http-user-agent=BoX@dash#
 #EXTINF:-1,FR:Science ET VIE HD
 http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/7123.ts
+#EXTVLCOPT:http-user-agent=BoX@dash#
 #EXTINF:-1,FR:Season
 http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/7122.ts
+#EXTVLCOPT:http-user-agent=BoX@dash#
 #EXTINF:-1,FR:SFR Sport1
 http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/7127.ts
+#EXTVLCOPT:http-user-agent=BoX@dash#
 #EXTINF:-1,FR:SFR Sport2
 http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/7126.ts
+#EXTVLCOPT:http-user-agent=BoX@dash#
 #EXTINF:-1,FR:SyFy FR
 http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/7121.ts
+#EXTVLCOPT:http-user-agent=BoX@dash#
 #EXTINF:-1,FR:TCM Cinema
 http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/7120.ts
+#EXTVLCOPT:http-user-agent=BoX@dash#
 #EXTINF:-1,FR:Teva
 http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/7119.ts
+#EXTVLCOPT:http-user-agent=BoX@dash#
 #EXTINF:-1,FR:TF1 HD
 http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/7212.ts
+#EXTVLCOPT:http-user-agent=BoX@dash#
 #EXTINF:-1,FR:Tiji
 http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/7118.ts
+#EXTVLCOPT:http-user-agent=BoX@dash#
 #EXTINF:-1,FR:TMC HD
 http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/7117.ts
+#EXTVLCOPT:http-user-agent=BoX@dash#
 #EXTINF:-1,FR:Toutel Histoire
 http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/7176.ts
+#EXTVLCOPT:http-user-agent=BoX@dash#
 #EXTINF:-1,FR:Trace Sport
 http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/7116.ts
+#EXTVLCOPT:http-user-agent=BoX@dash#
 #EXTINF:-1,FR:Trace Urban
 http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/7115.ts
+#EXTVLCOPT:http-user-agent=BoX@dash#
 #EXTINF:-1,FR:Trek HD
 http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/7114.ts
+#EXTVLCOPT:http-user-agent=BoX@dash#
 #EXTINF:-1,FR:TV Breizh
 http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/7113.ts
+#EXTVLCOPT:http-user-agent=BoX@dash#
 #EXTINF:-1,FR:TV5 Monde
 http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/7112.ts
+#EXTVLCOPT:http-user-agent=BoX@dash#
 #EXTINF:-1,FR:TV5 Monde Europe
 http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/7111.ts
+#EXTVLCOPT:http-user-agent=BoX@dash#
 #EXTINF:-1,FR:TV5 monde FBS
 http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/7110.ts
+#EXTVLCOPT:http-user-agent=BoX@dash#
 #EXTINF:-1,FR:TV5 Monde Maghreb
 http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/7109.ts
+#EXTVLCOPT:http-user-agent=BoX@dash#
 #EXTINF:-1,FR:Ushuaia
 http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/7206.ts
+#EXTVLCOPT:http-user-agent=BoX@dash#
 #EXTINF:-1,FR:VOYAGE HD
 http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/7205.ts
+#EXTVLCOPT:http-user-agent=BoX@dash#
 #EXTINF:-1,FR:W9
 http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/7207.ts
+#EXTVLCOPT:http-user-agent=BoX@dash#
 #EXTINF:-1,FR:France 2
 http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/7217.ts
+#EXTVLCOPT:http-user-agent=BoX@dash#
 #EXTINF:-1,FR:France 3
 http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/7216.ts
+#EXTVLCOPT:http-user-agent=BoX@dash#
 #EXTINF:-1,FR:France 4
 http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/7215.ts
+#EXTVLCOPT:http-user-agent=BoX@dash#
 #EXTINF:-1,FR:France 5
 http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/7214.ts
+#EXTVLCOPT:http-user-agent=BoX@dash#
 #EXTINF:-1,FR:France O
 http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/7218.ts
+#EXTVLCOPT:http-user-agent=BoX@dash#
 #EXTINF:-1,FR:France24 FR
 http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/7213.ts
+#EXTVLCOPT:http-user-agent=BoX@dash#
 #EXTINF:-1,FR:Game One
 http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/7130.ts
+#EXTVLCOPT:http-user-agent=BoX@dash#
 #EXTINF:-1,FR:Golf Channel FR
 http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/7129.ts
+#EXTVLCOPT:http-user-agent=BoX@dash#
 #EXTINF:-1,FR:Gulli HD
 http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/7185.ts
+#EXTVLCOPT:http-user-agent=BoX@dash#
 #EXTINF:-1,FR:HD 1 HD
 http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/7150.ts
+#EXTVLCOPT:http-user-agent=BoX@dash#
 #EXTINF:-1,FR:Histoire
 http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/7177.ts
+#EXTVLCOPT:http-user-agent=BoX@dash#
 #EXTINF:-1,FR:Info Sport
 http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/7149.ts
+#EXTVLCOPT:http-user-agent=BoX@dash#
 #EXTINF:-1,FR:LCI HD
 http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/7147.ts
+#EXTVLCOPT:http-user-agent=BoX@dash#
 #EXTINF:-1,FR:Lequipe 21
 http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/7146.ts
+#EXTVLCOPT:http-user-agent=BoX@dash#
 #EXTINF:-1,FR:Lequipe HD
 http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/7145.ts
+#EXTVLCOPT:http-user-agent=BoX@dash#
 #EXTINF:-1,FR:M6
 http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/7196.ts
+#EXTVLCOPT:http-user-agent=BoX@dash#
 #EXTINF:-1,FR:Mangas
 http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/7144.ts
+#EXTVLCOPT:http-user-agent=BoX@dash#
 #EXTINF:-1,FR:MCM
 http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/7143.ts
+#EXTVLCOPT:http-user-agent=BoX@dash#
 #EXTINF:-1,FR:MCM Top
 http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/7142.ts
+#EXTVLCOPT:http-user-agent=BoX@dash#
 #EXTINF:-1,FR:MTV France
 http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/7139.ts
 #EXTINF:-1,TF1
