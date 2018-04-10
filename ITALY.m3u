@@ -1,122 +1,181 @@
 
 #EXTINF:-1 tvg-logo="http://expatescort.com/public/img/flags/it.png" group-title="LABEL",~ Italy TV ~
 http://www.lengua.com/anthems/Italy.mp3
+#EXTVLCOPT:http-user-agent=BoX@dash#
 #EXTINF:-1,•●★- SKY IT -★●•
 http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/4201.ts
+#EXTVLCOPT:http-user-agent=BoX@dash#
 #EXTINF:-1,IT:CANALE 5 HD
 http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/7266.ts
+#EXTVLCOPT:http-user-agent=BoX@dash#
 #EXTINF:-1,IT:CIELO HD
 http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/7267.ts
+#EXTVLCOPT:http-user-agent=BoX@dash#
 #EXTINF:-1,IT:FOX
 http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/7284.ts
+#EXTVLCOPT:http-user-agent=BoX@dash#
 #EXTINF:-1,IT:FOX HD
 http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/7273.ts
+#EXTVLCOPT:http-user-agent=BoX@dash#
 #EXTINF:-1,IT:Fox Crime
 http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/7271.ts
+#EXTVLCOPT:http-user-agent=BoX@dash#
 #EXTINF:-1,IT:Fox Life
 http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/7272.ts
+#EXTVLCOPT:http-user-agent=BoX@dash#
 #EXTINF:-1,IT:FOX SPORTS
 http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/7286.ts
+#EXTVLCOPT:http-user-agent=BoX@dash#
 #EXTINF:-1,IT:Inter Channel
 http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/7234.ts
+#EXTVLCOPT:http-user-agent=BoX@dash#
 #EXTINF:-1,IT:ITALIA 1 HD
 http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/7270.ts
+#EXTVLCOPT:http-user-agent=BoX@dash#
 #EXTINF:-1,IT:ITALIA 2 HD
 http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/7269.ts
+#EXTVLCOPT:http-user-agent=BoX@dash#
 #EXTINF:-1,IT:Juventus TV
 http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/7235.ts
+#EXTVLCOPT:http-user-agent=BoX@dash#
 #EXTINF:-1,IT:Milan Channel
 http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/7233.ts
+#EXTVLCOPT:http-user-agent=BoX@dash#
 #EXTINF:-1,IT:RAI 1 HD
 http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/7265.ts
+#EXTVLCOPT:http-user-agent=BoX@dash#
 #EXTINF:-1,IT:RAI 2 HD
 http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/7264.ts
+#EXTVLCOPT:http-user-agent=BoX@dash#
 #EXTINF:-1,IT:RAI 3 HD
 http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/7263.ts
+#EXTVLCOPT:http-user-agent=BoX@dash#
 #EXTINF:-1,IT:RAI 4 HD
 http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/7262.ts
+#EXTVLCOPT:http-user-agent=BoX@dash#
 #EXTINF:-1,IT:RAI 5 HD
 http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/7261.ts
+#EXTVLCOPT:http-user-agent=BoX@dash#
 #EXTINF:-1,IT:RAI MOVIE HD
 http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/7260.ts
+#EXTVLCOPT:http-user-agent=BoX@dash#
 #EXTINF:-1,IT:Rai Sport 1 HD
 http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/7259.ts
+#EXTVLCOPT:http-user-agent=BoX@dash#
 #EXTINF:-1,IT:Rai Sport 2
 http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/7258.ts
+#EXTVLCOPT:http-user-agent=BoX@dash#
 #EXTINF:-1,IT:REAL MADRID TV
 http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/7237.ts
+#EXTVLCOPT:http-user-agent=BoX@dash#
 #EXTINF:-1,IT:REAL TIME
 http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/7268.ts
+#EXTVLCOPT:http-user-agent=BoX@dash#
 #EXTINF:-1,IT:Roma TV
 http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/7236.ts
+#EXTVLCOPT:http-user-agent=BoX@dash#
 #EXTINF:-1,IT:Sky 3D
 http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/7257.ts
+#EXTVLCOPT:http-user-agent=BoX@dash#
 #EXTINF:-1,IT:SKY CINEMA 1HD
 http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/7283.ts
+#EXTVLCOPT:http-user-agent=BoX@dash#
 #EXTINF:-1,IT:SKY CINEMA 24HD
 http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/7275.ts
+#EXTVLCOPT:http-user-agent=BoX@dash#
 #EXTINF:-1,IT:Sky Cinema Classic HD
 http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/7276.ts
+#EXTVLCOPT:http-user-agent=BoX@dash#
 #EXTINF:-1,IT:Sky Cinema Comedy HD
 http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/7277.ts
+#EXTVLCOPT:http-user-agent=BoX@dash#
 #EXTINF:-1,IT:Sky Cinema Cult HD
 http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/7278.ts
+#EXTVLCOPT:http-user-agent=BoX@dash#
 #EXTINF:-1,IT:Sky Cinema Family HD
 http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/7279.ts
+#EXTVLCOPT:http-user-agent=BoX@dash#
 #EXTINF:-1,IT:Sky Cinema Hits HD
 http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/7280.ts
+#EXTVLCOPT:http-user-agent=BoX@dash#
 #EXTINF:-1,IT:SKY CINEMA MAX HD
 http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/7281.ts
+#EXTVLCOPT:http-user-agent=BoX@dash#
 #EXTINF:-1,IT:Sky Cinema Passion HD
 http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/7282.ts
+#EXTVLCOPT:http-user-agent=BoX@dash#
 #EXTINF:-1,IT:Sky Primafila 01 HD
 http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/7256.ts
+#EXTVLCOPT:http-user-agent=BoX@dash#
 #EXTINF:-1,IT:Sky Primafila 02 HD
 http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/7255.ts
+#EXTVLCOPT:http-user-agent=BoX@dash#
 #EXTINF:-1,IT:Sky Primafila 03 HD
 http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/7254.ts
+#EXTVLCOPT:http-user-agent=BoX@dash#
 #EXTINF:-1,IT:Sky Primafila 04 HD
 http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/7253.ts
+#EXTVLCOPT:http-user-agent=BoX@dash#
 #EXTINF:-1,IT:Sky Primafila 05 HD
 http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/7252.ts
+#EXTVLCOPT:http-user-agent=BoX@dash#
 #EXTINF:-1,IT:Sky Primafila 06 HD
 http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/7251.ts
+#EXTVLCOPT:http-user-agent=BoX@dash#
 #EXTINF:-1,IT:Sky Primafila 07 HD
 http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/7250.ts
+#EXTVLCOPT:http-user-agent=BoX@dash#
 #EXTINF:-1,IT:Sky Primafila 08 HD
 http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/7249.ts
+#EXTVLCOPT:http-user-agent=BoX@dash#
 #EXTINF:-1,IT:Sky Primafila 09 HD
 http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/7248.ts
+#EXTVLCOPT:http-user-agent=BoX@dash#
 #EXTINF:-1,IT:Sky Primafila 10 HD
 http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/7247.ts
+#EXTVLCOPT:http-user-agent=BoX@dash#
 #EXTINF:-1,IT:Sky Primafila 11 HD
 http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/7246.ts
+#EXTVLCOPT:http-user-agent=BoX@dash#
 #EXTINF:-1,IT:Sky Primafila 12 HD
 http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/7245.ts
+#EXTVLCOPT:http-user-agent=BoX@dash#
 #EXTINF:-1,IT:Sky Primafila 13 HD
 http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/7244.ts
+#EXTVLCOPT:http-user-agent=BoX@dash#
 #EXTINF:-1,IT:Sky Primafila 14 HD
 http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/7243.ts
+#EXTVLCOPT:http-user-agent=BoX@dash#
 #EXTINF:-1,IT:Sky Primafila 15 HD
 http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/7242.ts
+#EXTVLCOPT:http-user-agent=BoX@dash#
 #EXTINF:-1,IT:Sky Primafila 16 HD
 http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/7241.ts
+#EXTVLCOPT:http-user-agent=BoX@dash#
 #EXTINF:-1,IT:Sky Primafila 17 HD
 http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/7240.ts
+#EXTVLCOPT:http-user-agent=BoX@dash#
 #EXTINF:-1,IT:Sky Primafila 18 HD
 http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/7239.ts
+#EXTVLCOPT:http-user-agent=BoX@dash#
 #EXTINF:-1,IT:Sky Sport 24
 http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/7288.ts
+#EXTVLCOPT:http-user-agent=BoX@dash#
 #EXTINF:-1,IT:Sky Sports 1
 http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/7291.ts
+#EXTVLCOPT:http-user-agent=BoX@dash#
 #EXTINF:-1,IT:Sky Sports 2
 http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/7290.ts
+#EXTVLCOPT:http-user-agent=BoX@dash#
 #EXTINF:-1,IT:Sky Sports 3
 http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/7289.ts
+#EXTVLCOPT:http-user-agent=BoX@dash#
 #EXTINF:-1,IT:Sky Sports F1
 http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/7287.ts
+#EXTVLCOPT:http-user-agent=BoX@dash#
 #EXTINF:-1,IT:Sky UNO
 http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/7274.ts
+#EXTVLCOPT:http-user-agent=BoX@dash#
 #EXTINF:-1,IT:Supercalcio
 http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/7285.ts
 #EXTINF:-1 tvg-logo="http://okteve.com/wp-content/uploads/media/895636cf89509fb3e35cba8a36ac58ac.jpeg" group-title="ITALY",Alto Adige TV
