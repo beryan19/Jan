@@ -35,194 +35,288 @@ http://2.primatv.club:8450/live/Fu7ltvi2218/A70ip18full/1465.ts
 #EXTINF:-1,SFR Sport 3HD Fr
 http://2.primatv.club:8450/live/Fu7ltvi2218/A70ip18full/1466.ts
 #EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTINF:-1,TF1
-http://2.primatv.club:8450/live/Fu7ltvi2218/A70ip18full/1428.ts
-#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTINF:-1,FRANCE 2
-http://2.primatv.club:8450/live/Fu7ltvi2218/A70ip18full/1430.ts
-#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTINF:-1,FRANCE 3
-http://2.primatv.club:8450/live/Fu7ltvi2218/A70ip18full/1431.ts
-#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTINF:-1,FRANCE 4
-http://2.primatv.club:8450/live/Fu7ltvi2218/A70ip18full/1432.ts
-#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTINF:-1,FRANCE 5
-http://2.primatv.club:8450/live/Fu7ltvi2218/A70ip18full/1433.ts
-#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTINF:-1,FRANCE O
-http://2.primatv.club:8450/live/Fu7ltvi2218/A70ip18full/1434.ts
-#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTINF:-1,M6
-http://2.primatv.club:8450/live/Fu7ltvi2218/A70ip18full/1429.ts
-#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTINF:-1,ACTION
-http://2.primatv.club:8450/live/Fu7ltvi2218/A70ip18full/1453.ts
-#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTINF:-1,CANAL FAMILY
-http://2.primatv.club:8450/live/Fu7ltvi2218/A70ip18full/1438.ts
-#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTINF:-1,CANAL DECALE
-http://2.primatv.club:8450/live/Fu7ltvi2218/A70ip18full/1437.ts
-#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTINF:-1,CINE PREMIER
-http://2.primatv.club:8450/live/Fu7ltvi2218/A70ip18full/1440.ts
-#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTINF:-1,CINE POLAR
-http://2.primatv.club:8450/live/Fu7ltvi2218/A70ip18full/1446.ts
-#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTINF:-1,CINE FX
-http://2.primatv.club:8450/live/Fu7ltvi2218/A70ip18full/1447.ts
-#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTINF:-1,CINE FRISSON
-http://2.primatv.club:8450/live/Fu7ltvi2218/A70ip18full/1441.ts
-#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTINF:-1,CINE FAMIZ
-http://2.primatv.club:8450/live/Fu7ltvi2218/A70ip18full/1445.ts
-#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTINF:-1,CINE EMOTION
-http://2.primatv.club:8450/live/Fu7ltvi2218/A70ip18full/1442.ts
-#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTINF:-1,CINE CLUB
-http://2.primatv.club:8450/live/Fu7ltvi2218/A70ip18full/1444.ts
-#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTINF:-1,CINE CLASSIC
-http://2.primatv.club:8450/live/Fu7ltvi2218/A70ip18full/1443.ts
-#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTINF:-1,OCS MAX
-http://2.primatv.club:8450/live/Fu7ltvi2218/A70ip18full/1451.ts
-#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTINF:-1,OCS GEANT
-http://2.primatv.club:8450/live/Fu7ltvi2218/A70ip18full/1449.ts
-#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTINF:-1,OCS CITY
-http://2.primatv.club:8450/live/Fu7ltvi2218/A70ip18full/1450.ts
-#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTINF:-1,OCS CHOC
-http://2.primatv.club:8450/live/Fu7ltvi2218/A70ip18full/1448.ts
-#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTINF:-1,COMEDIE
-http://2.primatv.club:8450/live/Fu7ltvi2218/A70ip18full/1452.ts
-#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTINF:-1,CANAL PLAY 1
-http://2.primatv.club:8450/live/Fu7ltvi2218/A70ip18full/1390.ts
-#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTINF:-1,CANAL PLAY 2
-http://2.primatv.club:8450/live/Fu7ltvi2218/A70ip18full/1391.ts
-#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTINF:-1,CANAL PLAY 3
-http://2.primatv.club:8450/live/Fu7ltvi2218/A70ip18full/1392.ts
-#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTINF:-1,CANAL PLAY 4
-http://2.primatv.club:8450/live/Fu7ltvi2218/A70ip18full/1393.ts
-#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTINF:-1,CANAL PLAY 5
-http://2.primatv.club:8450/live/Fu7ltvi2218/A70ip18full/1394.ts
-#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTINF:-1,ALACARTE 1
-http://2.primatv.club:8450/live/Fu7ltvi2218/A70ip18full/1395.ts
-#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTINF:-1,ALACARTE 2
-http://2.primatv.club:8450/live/Fu7ltvi2218/A70ip18full/1396.ts
-#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTINF:-1,ALACARTE 3
-http://2.primatv.club:8450/live/Fu7ltvi2218/A70ip18full/1397.ts
-#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTINF:-1,ALACARTE 4
-http://2.primatv.club:8450/live/Fu7ltvi2218/A70ip18full/1398.ts
-#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTINF:-1,ALACARTE 5
-http://2.primatv.club:8450/live/Fu7ltvi2218/A70ip18full/1399.ts
-#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTINF:-1,ANIMAUX
-http://2.primatv.club:8450/live/Fu7ltvi2218/A70ip18full/1424.ts
-#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTINF:-1,DISCOVRY-SCI
-http://2.primatv.club:8450/live/Fu7ltvi2218/A70ip18full/1423.ts
-#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTINF:-1,DISCOVRY
-http://2.primatv.club:8450/live/Fu7ltvi2218/A70ip18full/1422.ts
-#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTINF:-1,USHUAIA TV
-http://2.primatv.club:8450/live/Fu7ltvi2218/A70ip18full/1425.ts
-#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTINF:-1,SEASON
-http://2.primatv.club:8450/live/Fu7ltvi2218/A70ip18full/1427.ts
-#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTINF:-1,NATIONAL-GEO
-http://2.primatv.club:8450/live/Fu7ltvi2218/A70ip18full/1420.ts
-#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTINF:-1,NAT-GEO-WILD
-http://2.primatv.club:8450/live/Fu7ltvi2218/A70ip18full/1421.ts
-#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTINF:-1,CHASSE PECHE
-http://2.primatv.club:8450/live/Fu7ltvi2218/A70ip18full/1426.ts
-#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTINF:-1,France 24
-http://2.primatv.club:8450/live/Fu7ltvi2218/A70ip18full/1329.ts
-#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTINF:-1,Euronews
-http://2.primatv.club:8450/live/Fu7ltvi2218/A70ip18full/1330.ts
-#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTINF:-1,LCI
-http://2.primatv.club:8450/live/Fu7ltvi2218/A70ip18full/1401.ts
-#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTINF:-1,ITELE
-http://2.primatv.club:8450/live/Fu7ltvi2218/A70ip18full/1400.ts
-#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTINF:-1,INFOSPORT
-http://2.primatv.club:8450/live/Fu7ltvi2218/A70ip18full/1419.ts
-#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTINF:-1,FOOT 24
-http://2.primatv.club:8450/live/Fu7ltvi2218/A70ip18full/1418.ts
-
-
-#EXTINF:-1 tvg-logo="http://civiltarsulas.hu/uploads/icons/language/Français.png" group-title="LABEL",~ France TV ~
-http://www.lengua.com/anthems/France.mp3
-#EXTINF:-1,CanalSportHD
-http://185.115.33.86:8086/hls/CanalSportHD.m3u8?key=a1d080dbc4e5f5bc9a9b14d31a25bb86
-
-#EXTINF:-1,CanalHD
-http://185.115.33.86:8086/hls/CanalHD.m3u8?key=a1d080dbc4e5f5bc9a9b14d31a25bb86
-
-#EXTINF:-1,CanalJ
-http://185.115.33.88:8080/hls/CanalJ.m3u8?key=a1d080dbc4e5f5bc9a9b14d31a25bb86
-
-#EXTINF:-1,CanalSeriesHD
-http://185.115.33.88:8080/hls/CanalSeriesHD.m3u8?key=a1d080dbc4e5f5bc9a9b14d31a25bb86
-
-#EXTINF:-1,CanalDecaleHD
-http://185.115.33.88:8080/hls/CanalDecaleHD.m3u8?key=a1d080dbc4e5f5bc9a9b14d31a25bb86
-
-#EXTINF:-1,CanalCinemaHD
-http://185.115.33.88:8080/hls/CanalCinemaHD.m3u8?key=a1d080dbc4e5f5bc9a9b14d31a25bb86
-
-#EXTINF:-1,Canalplusfamily
-http://185.115.33.86:8086/hls/Canalplusfamily.m3u8?key=a1d080dbc4e5f5bc9a9b14d31a25bb86
-
-#EXTINF:-1,BeinSport1HD
-http://185.115.33.86:8086/hls/BeinSport1HD.m3u8?key=a1d080dbc4e5f5bc9a9b14d31a25bb86
-
-#EXTINF:-1,BeinSport2HD
-http://185.115.33.86:8086/hls/BeinSport2HD.m3u8?key=a1d080dbc4e5f5bc9a9b14d31a25bb86
-#EXTINF:-1,BeinSport3HD
-http://185.115.33.86:8086/hls/BeinSport3HD.m3u8?key=a1d080dbc4e5f5bc9a9b14d31a25bb86
-#EXTINF:-1,SFRSport1
-http://185.115.33.88:8080/hls/SFRSport1.m3u8?key=a1d080dbc4e5f5bc9a9b14d31a25bb86
-
-#EXTINF:-1,SFRSport2
-http://185.115.33.88:8080/hls/SFRSport2.m3u8?key=a1d080dbc4e5f5bc9a9b14d31a25bb86
-
-#EXTINF:-1,Srf_Sports_3
-http://185.115.33.88:8080/hls/FR_Srf_Sports_3_HD.m3u8?key=a1d080dbc4e5f5bc9a9b14d31a25bb86
-
-#EXTINF:-1,Srf_Sports_5
-http://185.115.33.88:8080/hls/FR_Srf_Sports_5_HD.m3u8?key=a1d080dbc4e5f5bc9a9b14d31a25bb86
-
-#EXTINF:-1,TF1
-http://185.115.33.210:8086/hls/TF1n.m3u8?key=a1d080dbc4e5f5bc9a9b14d31a25bb86
-
-
+#EXTVLCOPT:http-user-agent=New#FreeV3X1....
+#EXTINF:-1,FR:6TER
+http://srvt.topiptv.org:80/live/Acc_AM.V3X1x/App65080/1678.ts
+#EXTVLCOPT:http-user-agent=New#FreeV3X1....
+#EXTINF:-1,FR:C8
+http://srvt.topiptv.org:80/live/Acc_AM.V3X1x/App65080/1679.ts
+#EXTVLCOPT:http-user-agent=New#FreeV3X1....
+#EXTINF:-1,FR:CANAL J
+http://srvt.topiptv.org:80/live/Acc_AM.V3X1x/App65080/1693.ts
+#EXTVLCOPT:http-user-agent=New#FreeV3X1....
+#EXTINF:-1,FR:Euronews new
+http://srvt.topiptv.org:80/live/Acc_AM.V3X1x/App65080/1692.ts
+#EXTVLCOPT:http-user-agent=New#FreeV3X1....
+#EXTINF:-1,FR:Canal+ Cinema HD
+http://srvt.topiptv.org:80/live/Acc_AM.V3X1x/App65080/930.ts
+#EXTVLCOPT:http-user-agent=New#FreeV3X1....
+#EXTINF:-1,FR:Canal+ Decale HD
+http://srvt.topiptv.org:80/live/Acc_AM.V3X1x/App65080/822.ts
+#EXTVLCOPT:http-user-agent=New#FreeV3X1....
+#EXTINF:-1,FR:Canal+ Family HD
+http://srvt.topiptv.org:80/live/Acc_AM.V3X1x/App65080/821.ts
+#EXTVLCOPT:http-user-agent=New#FreeV3X1....
+#EXTINF:-1,FR:Canal+ Series HD
+http://srvt.topiptv.org:80/live/Acc_AM.V3X1x/App65080/819.ts
+#EXTVLCOPT:http-user-agent=New#FreeV3X1....
+#EXTINF:-1,FR:Canal+ Sport HD
+http://srvt.topiptv.org:80/live/Acc_AM.V3X1x/App65080/818.ts
+#EXTVLCOPT:http-user-agent=New#FreeV3X1....
+#EXTINF:-1,FR:ALTICE STUDIO
+http://srvt.topiptv.org:80/live/Acc_AM.V3X1x/App65080/1686.ts
+#EXTVLCOPT:http-user-agent=New#FreeV3X1....
+#EXTINF:-1,FR:CINE POLAR
+http://srvt.topiptv.org:80/live/Acc_AM.V3X1x/App65080/796.ts
+#EXTVLCOPT:http-user-agent=New#FreeV3X1....
+#EXTINF:-1,FR:Cine+ Classic HD
+http://srvt.topiptv.org:80/live/Acc_AM.V3X1x/App65080/812.ts
+#EXTVLCOPT:http-user-agent=New#FreeV3X1....
+#EXTINF:-1,Fr:CINE+ CLUB
+http://srvt.topiptv.org:80/live/Acc_AM.V3X1x/App65080/1923.ts
+#EXTVLCOPT:http-user-agent=New#FreeV3X1....
+#EXTINF:-1,Fr:CINE+ EMOTION
+http://srvt.topiptv.org:80/live/Acc_AM.V3X1x/App65080/1920.ts
+#EXTVLCOPT:http-user-agent=New#FreeV3X1....
+#EXTINF:-1,Fr:CINE+ FAMIZ
+http://srvt.topiptv.org:80/live/Acc_AM.V3X1x/App65080/1922.ts
+#EXTVLCOPT:http-user-agent=New#FreeV3X1....
+#EXTINF:-1,FR:CINE+ FRISSON
+http://srvt.topiptv.org:80/live/Acc_AM.V3X1x/App65080/1921.ts
+#EXTVLCOPT:http-user-agent=New#FreeV3X1....
+#EXTINF:-1,FR:Cine+ Premier HD
+http://srvt.topiptv.org:80/live/Acc_AM.V3X1x/App65080/813.ts
+#EXTVLCOPT:http-user-agent=New#FreeV3X1....
+#EXTINF:-1,FR:DISCOVERY
+http://srvt.topiptv.org:80/live/Acc_AM.V3X1x/App65080/1696.ts
+#EXTVLCOPT:http-user-agent=New#FreeV3X1....
+#EXTINF:-1,FR:DISCOVERY SCIENCE
+http://srvt.topiptv.org:80/live/Acc_AM.V3X1x/App65080/1695.ts
+#EXTVLCOPT:http-user-agent=New#FreeV3X1....
+#EXTINF:-1,FR:EQUIDIA LIFE
+http://srvt.topiptv.org:80/live/Acc_AM.V3X1x/App65080/808.ts
+#EXTVLCOPT:http-user-agent=New#FreeV3X1....
+#EXTINF:-1,FR:PARAMOUNT DECALE
+http://srvt.topiptv.org:80/live/Acc_AM.V3X1x/App65080/809.ts
+#EXTVLCOPT:http-user-agent=New#FreeV3X1....
+#EXTINF:-1,FR:EXTREME SPORTS
+http://srvt.topiptv.org:80/live/Acc_AM.V3X1x/App65080/1924.ts
+#EXTVLCOPT:http-user-agent=New#FreeV3X1....
+#EXTINF:-1,FR:France 5
+http://srvt.topiptv.org:80/live/Acc_AM.V3X1x/App65080/1685.ts
+#EXTVLCOPT:http-user-agent=New#FreeV3X1....
+#EXTINF:-1,Fr:GAME ONE
+http://srvt.topiptv.org:80/live/Acc_AM.V3X1x/App65080/1930.ts
+#EXTVLCOPT:http-user-agent=New#FreeV3X1....
+#EXTINF:-1,FR:HD1
+http://srvt.topiptv.org:80/live/Acc_AM.V3X1x/App65080/810.ts
+#EXTVLCOPT:http-user-agent=New#FreeV3X1....
+#EXTINF:-1,FR:HISTOIRE
+http://srvt.topiptv.org:80/live/Acc_AM.V3X1x/App65080/841.ts
+#EXTVLCOPT:http-user-agent=New#FreeV3X1....
+#EXTINF:-1,FR:M6 HD
+http://srvt.topiptv.org:80/live/Acc_AM.V3X1x/App65080/787.ts
+#EXTVLCOPT:http-user-agent=New#FreeV3X1....
+#EXTINF:-1,FR:Mangas
+http://srvt.topiptv.org:80/live/Acc_AM.V3X1x/App65080/785.ts
+#EXTVLCOPT:http-user-agent=New#FreeV3X1....
+#EXTINF:-1,Fr:MCM
+http://srvt.topiptv.org:80/live/Acc_AM.V3X1x/App65080/1926.ts
+#EXTVLCOPT:http-user-agent=New#FreeV3X1....
+#EXTINF:-1,Fr:MCM  TOP
+http://srvt.topiptv.org:80/live/Acc_AM.V3X1x/App65080/1927.ts
+#EXTVLCOPT:http-user-agent=New#FreeV3X1....
+#EXTINF:-1,Fr:MEZZO LIVE HD
+http://srvt.topiptv.org:80/live/Acc_AM.V3X1x/App65080/1929.ts
+#EXTVLCOPT:http-user-agent=New#FreeV3X1....
+#EXTINF:-1,FR:NATIONAL GEOGRAPHIC
+http://srvt.topiptv.org:80/live/Acc_AM.V3X1x/App65080/1697.ts
+#EXTVLCOPT:http-user-agent=New#FreeV3X1....
+#EXTINF:-1,FR:NRJ 12 HD
+http://srvt.topiptv.org:80/live/Acc_AM.V3X1x/App65080/782.ts
+#EXTVLCOPT:http-user-agent=New#FreeV3X1....
+#EXTINF:-1,FR:NT1
+http://srvt.topiptv.org:80/live/Acc_AM.V3X1x/App65080/811.ts
+#EXTVLCOPT:http-user-agent=New#FreeV3X1....
+#EXTINF:-1,FR:Paramount Channel HD
+http://srvt.topiptv.org:80/live/Acc_AM.V3X1x/App65080/669.ts
+#EXTVLCOPT:http-user-agent=New#FreeV3X1....
+#EXTINF:-1,FR:PIWI+
+http://srvt.topiptv.org:80/live/Acc_AM.V3X1x/App65080/1691.ts
+#EXTVLCOPT:http-user-agent=New#FreeV3X1....
+#EXTINF:-1,FR:PLANETE AE
+http://srvt.topiptv.org:80/live/Acc_AM.V3X1x/App65080/768.ts
+#EXTVLCOPT:http-user-agent=New#FreeV3X1....
+#EXTINF:-1,FR:PLANETE+
+http://srvt.topiptv.org:80/live/Acc_AM.V3X1x/App65080/767.ts
+#EXTVLCOPT:http-user-agent=New#FreeV3X1....
+#EXTINF:-1,FR:RMC DECOUVERTE
+http://srvt.topiptv.org:80/live/Acc_AM.V3X1x/App65080/798.ts
+#EXTVLCOPT:http-user-agent=New#FreeV3X1....
+#EXTINF:-1,FR:Science & VIE
+http://srvt.topiptv.org:80/live/Acc_AM.V3X1x/App65080/814.ts
+#EXTVLCOPT:http-user-agent=New#FreeV3X1....
+#EXTINF:-1,FR:SEASON
+http://srvt.topiptv.org:80/live/Acc_AM.V3X1x/App65080/797.ts
+#EXTVLCOPT:http-user-agent=New#FreeV3X1....
+#EXTINF:-1,FR:SFR SPORT 1
+http://srvt.topiptv.org:80/live/Acc_AM.V3X1x/App65080/786.ts
+#EXTVLCOPT:http-user-agent=New#FreeV3X1....
+#EXTINF:-1,FR:SYFY
+http://srvt.topiptv.org:80/live/Acc_AM.V3X1x/App65080/848.ts
+#EXTVLCOPT:http-user-agent=New#FreeV3X1....
+#EXTINF:-1,FR:TRACE URBAN
+http://srvt.topiptv.org:80/live/Acc_AM.V3X1x/App65080/840.ts
+#EXTVLCOPT:http-user-agent=New#FreeV3X1....
+#EXTINF:-1,FR:PARIS PREMIERE HD
+http://srvt.topiptv.org:80/live/Acc_AM.V3X1x/App65080/778.ts
+#EXTVLCOPT:http-user-agent=New#FreeV3X1....
+#EXTINF:-1,FR:Nickelodeon Junior
+http://srvt.topiptv.org:80/live/Acc_AM.V3X1x/App65080/717.ts
+#EXTVLCOPT:http-user-agent=New#FreeV3X1....
+#EXTINF:-1,FR:Nickelodeon
+http://srvt.topiptv.org:80/live/Acc_AM.V3X1x/App65080/716.ts
+#EXTVLCOPT:http-user-agent=New#FreeV3X1....
+#EXTINF:-1,FR:SFR SPORT 3
+http://srvt.topiptv.org:80/live/Acc_AM.V3X1x/App65080/715.ts
+#EXTVLCOPT:http-user-agent=New#FreeV3X1....
+#EXTINF:-1,FR:TF1 HD
+http://srvt.topiptv.org:80/live/Acc_AM.V3X1x/App65080/72.ts
+#EXTVLCOPT:http-user-agent=New#FreeV3X1....
+#EXTINF:-1,FR:BRAVA
+http://srvt.topiptv.org:80/live/Acc_AM.V3X1x/App65080/917.ts
+#EXTVLCOPT:http-user-agent=New#FreeV3X1....
+#EXTINF:-1,Fr:National Geo Wild
+http://srvt.topiptv.org:80/live/Acc_AM.V3X1x/App65080/920.ts
+#EXTVLCOPT:http-user-agent=New#FreeV3X1....
+#EXTINF:-1,Fr:Disney Channel
+http://srvt.topiptv.org:80/live/Acc_AM.V3X1x/App65080/925.ts
+#EXTVLCOPT:http-user-agent=New#FreeV3X1....
+#EXTINF:-1,Fr:Disney Junior
+http://srvt.topiptv.org:80/live/Acc_AM.V3X1x/App65080/926.ts
+#EXTVLCOPT:http-user-agent=New#FreeV3X1....
+#EXTINF:-1,Fr:Planete  CI
+http://srvt.topiptv.org:80/live/Acc_AM.V3X1x/App65080/927.ts
+#EXTVLCOPT:http-user-agent=New#FreeV3X1....
+#EXTINF:-1,FR:DISNEY XD
+http://srvt.topiptv.org:80/live/Acc_AM.V3X1x/App65080/928.ts
+#EXTVLCOPT:http-user-agent=New#FreeV3X1....
+#EXTINF:-1,FR:AB1
+http://srvt.topiptv.org:80/live/Acc_AM.V3X1x/App65080/758.ts
+#EXTVLCOPT:http-user-agent=New#FreeV3X1....
+#EXTINF:-1,FR:W9 HD
+http://srvt.topiptv.org:80/live/Acc_AM.V3X1x/App65080/759.ts
+#EXTVLCOPT:http-user-agent=New#FreeV3X1....
+#EXTINF:-1,FR:Ushuaia
+http://srvt.topiptv.org:80/live/Acc_AM.V3X1x/App65080/760.ts
+#EXTVLCOPT:http-user-agent=New#FreeV3X1....
+#EXTINF:-1,FR:MTV France
+http://srvt.topiptv.org:80/live/Acc_AM.V3X1x/App65080/761.ts
+#EXTVLCOPT:http-user-agent=New#FreeV3X1....
+#EXTINF:-1,FR:France 3
+http://srvt.topiptv.org:80/live/Acc_AM.V3X1x/App65080/378.ts
+#EXTVLCOPT:http-user-agent=New#FreeV3X1....
+#EXTINF:-1,FR:France 2
+http://srvt.topiptv.org:80/live/Acc_AM.V3X1x/App65080/377.ts
+#EXTVLCOPT:http-user-agent=New#FreeV3X1....
+#EXTINF:-1,Fr:L'EQUIPE 21
+http://srvt.topiptv.org:80/live/Acc_AM.V3X1x/App65080/376.ts
+#EXTVLCOPT:http-user-agent=New#FreeV3X1....
+#EXTINF:-1,Fr:INFOSPORT
+http://srvt.topiptv.org:80/live/Acc_AM.V3X1x/App65080/375.ts
+#EXTVLCOPT:http-user-agent=New#FreeV3X1....
+#EXTINF:-1,FR:TOONAMI dessin animé
+http://srvt.topiptv.org:80/live/Acc_AM.V3X1x/App65080/765.ts
+#EXTVLCOPT:http-user-agent=New#FreeV3X1....
+#EXTINF:-1,FR:TeleToon
+http://srvt.topiptv.org:80/live/Acc_AM.V3X1x/App65080/766.ts
+#EXTVLCOPT:http-user-agent=New#FreeV3X1....
+#EXTINF:-1,FR:CHERIE 25
+http://srvt.topiptv.org:80/live/Acc_AM.V3X1x/App65080/770.ts
+#EXTVLCOPT:http-user-agent=New#FreeV3X1....
+#EXTINF:-1,FR:CSTAR
+http://srvt.topiptv.org:80/live/Acc_AM.V3X1x/App65080/772.ts
+#EXTVLCOPT:http-user-agent=New#FreeV3X1....
+#EXTINF:-1,FR:RTL 9 HD
+http://srvt.topiptv.org:80/live/Acc_AM.V3X1x/App65080/773.ts
+#EXTVLCOPT:http-user-agent=New#FreeV3X1....
+#EXTINF:-1,FR:TMC
+http://srvt.topiptv.org:80/live/Acc_AM.V3X1x/App65080/777.ts
+#EXTVLCOPT:http-user-agent=New#FreeV3X1....
+#EXTINF:-1,FR:E! ENTERTAINMENT
+http://srvt.topiptv.org:80/live/Acc_AM.V3X1x/App65080/788.ts
+#EXTVLCOPT:http-user-agent=New#FreeV3X1....
+#EXTINF:-1,FR:SFR SPORT 2
+http://srvt.topiptv.org:80/live/Acc_AM.V3X1x/App65080/790.ts
+#EXTVLCOPT:http-user-agent=New#FreeV3X1....
+#EXTINF:-1,FR:13 EME RUE
+http://srvt.topiptv.org:80/live/Acc_AM.V3X1x/App65080/791.ts
+#EXTVLCOPT:http-user-agent=New#FreeV3X1....
+#EXTINF:-1,FR:GOLF+
+http://srvt.topiptv.org:80/live/Acc_AM.V3X1x/App65080/792.ts
+#EXTVLCOPT:http-user-agent=New#FreeV3X1....
+#EXTINF:-1,FR:France 4
+http://srvt.topiptv.org:80/live/Acc_AM.V3X1x/App65080/794.ts
+#EXTVLCOPT:http-user-agent=New#FreeV3X1....
+#EXTINF:-1,FR:FRANCE INFO
+http://srvt.topiptv.org:80/live/Acc_AM.V3X1x/App65080/795.ts
+#EXTVLCOPT:http-user-agent=New#FreeV3X1....
+#EXTINF:-1,FR:EUROSPORT 1
+http://srvt.topiptv.org:80/live/Acc_AM.V3X1x/App65080/799.ts
+#EXTVLCOPT:http-user-agent=New#FreeV3X1....
+#EXTINF:-1,FR:ELLE GIRL
+http://srvt.topiptv.org:80/live/Acc_AM.V3X1x/App65080/800.ts
+#EXTVLCOPT:http-user-agent=New#FreeV3X1....
+#EXTINF:-1,FR:ANIMAUX
+http://srvt.topiptv.org:80/live/Acc_AM.V3X1x/App65080/801.ts
+#EXTVLCOPT:http-user-agent=New#FreeV3X1....
+#EXTINF:-1,FR:DISNEY CINEMA
+http://srvt.topiptv.org:80/live/Acc_AM.V3X1x/App65080/802.ts
+#EXTVLCOPT:http-user-agent=New#FreeV3X1....
+#EXTINF:-1,FR:Gulli
+http://srvt.topiptv.org:80/live/Acc_AM.V3X1x/App65080/803.ts
+#EXTVLCOPT:http-user-agent=New#FreeV3X1....
+#EXTINF:-1,FR:COMEDIE+
+http://srvt.topiptv.org:80/live/Acc_AM.V3X1x/App65080/805.ts
+#EXTVLCOPT:http-user-agent=New#FreeV3X1....
+#EXTINF:-1,FR:Cine FX
+http://srvt.topiptv.org:80/live/Acc_AM.V3X1x/App65080/815.ts
+#EXTVLCOPT:http-user-agent=New#FreeV3X1....
+#EXTINF:-1,FR:Chasse & Peche
+http://srvt.topiptv.org:80/live/Acc_AM.V3X1x/App65080/816.ts
+#EXTVLCOPT:http-user-agent=New#FreeV3X1....
+#EXTINF:-1,FR:Cartoon NetWork
+http://srvt.topiptv.org:80/live/Acc_AM.V3X1x/App65080/817.ts
+#EXTVLCOPT:http-user-agent=New#FreeV3X1....
+#EXTINF:-1,FR:TIJI
+http://srvt.topiptv.org:80/live/Acc_AM.V3X1x/App65080/823.ts
+#EXTVLCOPT:http-user-agent=New#FreeV3X1....
+#EXTINF:-1,FR:Canal+ HD
+http://srvt.topiptv.org:80/live/Acc_AM.V3X1x/App65080/825.ts
+#EXTVLCOPT:http-user-agent=New#FreeV3X1....
+#EXTINF:-1,FR:TV BREIZH
+http://srvt.topiptv.org:80/live/Acc_AM.V3X1x/App65080/826.ts
+#EXTVLCOPT:http-user-agent=New#FreeV3X1....
+#EXTINF:-1,FR:BoomeRang
+http://srvt.topiptv.org:80/live/Acc_AM.V3X1x/App65080/827.ts
+#EXTVLCOPT:http-user-agent=New#FreeV3X1....
+#EXTINF:-1,FR:VOYAGE
+http://srvt.topiptv.org:80/live/Acc_AM.V3X1x/App65080/833.ts
+#EXTVLCOPT:http-user-agent=New#FreeV3X1....
+#EXTINF:-1,FR:SFR SPORT 5
+http://srvt.topiptv.org:80/live/Acc_AM.V3X1x/App65080/834.ts
+#EXTVLCOPT:http-user-agent=New#FreeV3X1....
+#EXTINF:-1,FR:Action HD
+http://srvt.topiptv.org:80/live/Acc_AM.V3X1x/App65080/835.ts
+#EXTVLCOPT:http-user-agent=New#FreeV3X1....
+#EXTINF:-1,FR:TCM CINEMA
+http://srvt.topiptv.org:80/live/Acc_AM.V3X1x/App65080/836.ts
+#EXTVLCOPT:http-user-agent=New#FreeV3X1....
+#EXTINF:-1,FR:EUROSPORT 2
+http://srvt.topiptv.org:80/live/Acc_AM.V3X1x/App65080/838.ts
+#EXTVLCOPT:http-user-agent=New#FreeV3X1....
+#EXTINF:-1,FR:BOING
+http://srvt.topiptv.org:80/live/Acc_AM.V3X1x/App65080/839.ts
 
 #EXTINF:-1,TF1
 http://185.115.33.210:8086/hls/TF1n.m3u8?key=859d5abb2987ff85da175f919a22b754
