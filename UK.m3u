@@ -2,226 +2,337 @@
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PKF0ejC.png" group-title="UK",Arise News
 http://contributionstreams.ashttp9.visionip.tv/live/visiontv-contributionstreams-arise-tv-hsslive-25f-16x9-SD/chunklist.m3u8
+#EXTVLCOPT:http-user-agent=BoX@dash#
 #EXTINF:-1,•●★- SKY UK -★●•
 http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/4203.ts
+#EXTVLCOPT:http-user-agent=BoX@dash#
 #EXTINF:-1,UK:Sky Sports 1
 http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10220.ts
+#EXTVLCOPT:http-user-agent=BoX@dash#
 #EXTINF:-1,UK:Sky Sports 2
 http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10219.ts
+#EXTVLCOPT:http-user-agent=BoX@dash#
 #EXTINF:-1,UK:Sky Sports 3
 http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10218.ts
+#EXTVLCOPT:http-user-agent=BoX@dash#
 #EXTINF:-1,UK:Sky Sports 4
 http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10217.ts
+#EXTVLCOPT:http-user-agent=BoX@dash#
 #EXTINF:-1,UK:Sky Sports 5
 http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10216.ts
+#EXTVLCOPT:http-user-agent=BoX@dash#
 #EXTINF:-1,UK : ROK
 http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/2813.ts
+#EXTVLCOPT:http-user-agent=BoX@dash#
 #EXTINF:-1,UK : RTEONE
 http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/2812.ts
+#EXTVLCOPT:http-user-agent=BoX@dash#
 #EXTINF:-1,UK : RTETWO
 http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/2811.ts
+#EXTVLCOPT:http-user-agent=BoX@dash#
 #EXTINF:-1,UK : SAMAA
 http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/2810.ts
+#EXTVLCOPT:http-user-agent=BoX@dash#
 #EXTINF:-1,UK : SANGAT
 http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/2809.ts
+#EXTVLCOPT:http-user-agent=BoX@dash#
 #EXTINF:-1,UK : SIKH CHANNEL
 http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/2808.ts
+#EXTVLCOPT:http-user-agent=BoX@dash#
 #EXTINF:-1,UK:ABC
 http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/7545.ts
+#EXTVLCOPT:http-user-agent=BoX@dash#
 #EXTINF:-1,UK:ABC News
 http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/7544.ts
+#EXTVLCOPT:http-user-agent=BoX@dash#
 #EXTINF:-1,UK:ANIMAL PLANET
 http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/7512.ts
+#EXTVLCOPT:http-user-agent=BoX@dash#
 #EXTINF:-1,UK:BBC 1 HD
 http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/7542.ts
+#EXTVLCOPT:http-user-agent=BoX@dash#
 #EXTINF:-1,UK:BBC 2 HD
 http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/7541.ts
+#EXTVLCOPT:http-user-agent=BoX@dash#
 #EXTINF:-1,UK:BBC 3 HD
 http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/7540.ts
+#EXTVLCOPT:http-user-agent=BoX@dash#
 #EXTINF:-1,UK:BBC 4 HD
 http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/7539.ts
+#EXTVLCOPT:http-user-agent=BoX@dash#
 #EXTINF:-1,UK:BBC Earth
 http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/7538.ts
+#EXTVLCOPT:http-user-agent=BoX@dash#
 #EXTINF:-1,UK:BBC Entertainment
 http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/7533.ts
+#EXTVLCOPT:http-user-agent=BoX@dash#
 #EXTINF:-1,UK:BBC News
 http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/7543.ts
+#EXTVLCOPT:http-user-agent=BoX@dash#
 #EXTINF:-1,UK: BOX OFFICE 3D
 http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/8094.ts
+#EXTVLCOPT:http-user-agent=BoX@dash#
 #EXTINF:-1,UK: BOX OFFICE PPV
 http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/8095.ts
+#EXTVLCOPT:http-user-agent=BoX@dash#
 #EXTINF:-1,UK:BBC Parliament
 http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/7534.ts
+#EXTVLCOPT:http-user-agent=BoX@dash#
 #EXTINF:-1,UK:BT Sports 1 HD
 http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/7498.ts
+#EXTVLCOPT:http-user-agent=BoX@dash#
 #EXTINF:-1,UK:BT Sports 2 HD
 http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/7497.ts
+#EXTVLCOPT:http-user-agent=BoX@dash#
 #EXTINF:-1,UK:BT Sports 3 HD
 http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/7496.ts
+#EXTVLCOPT:http-user-agent=BoX@dash#
 #EXTINF:-1,UK:BT Sports ESPN
 http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/7495.ts
+#EXTVLCOPT:http-user-agent=BoX@dash#
 #EXTINF:-1,UK:BT Sports Europe HD
 http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/7494.ts
+#EXTVLCOPT:http-user-agent=BoX@dash#
 #EXTINF:-1,UK:BT Sports Extra 1
 http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/7493.ts
+#EXTVLCOPT:http-user-agent=BoX@dash#
 #EXTINF:-1,UK:BT Sports Extra 2
 http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/7492.ts
+#EXTVLCOPT:http-user-agent=BoX@dash#
 #EXTINF:-1,UK:BT Sports Extra 3
 http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/7491.ts
+#EXTVLCOPT:http-user-agent=BoX@dash#
 #EXTINF:-1,UK:BT Sports Extra 4
 http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/7490.ts
+#EXTVLCOPT:http-user-agent=BoX@dash#
 #EXTINF:-1,UK:BT Sports Extra 5
 http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/7489.ts
+#EXTVLCOPT:http-user-agent=BoX@dash#
 #EXTINF:-1,UK:Cbeeies
 http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/7555.ts
+#EXTVLCOPT:http-user-agent=BoX@dash#
 #EXTINF:-1,UK:CBN
 http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/7559.ts
+#EXTVLCOPT:http-user-agent=BoX@dash#
 #EXTINF:-1,UK:CBS ACTION
 http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/7556.ts
+#EXTVLCOPT:http-user-agent=BoX@dash#
 #EXTINF:-1,UK:CBS Drama
 http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/7557.ts
+#EXTVLCOPT:http-user-agent=BoX@dash#
 #EXTINF:-1,UK:CBS Reality
 http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/7558.ts
+#EXTVLCOPT:http-user-agent=BoX@dash#
 #EXTINF:-1,UK:Challenge
 http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/7465.ts
+#EXTVLCOPT:http-user-agent=BoX@dash#
 #EXTINF:-1,UK:Channel 4 HD
 http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/7464.ts
+#EXTVLCOPT:http-user-agent=BoX@dash#
 #EXTINF:-1,UK:Channel 5 HD
 http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/7463.ts
+#EXTVLCOPT:http-user-agent=BoX@dash#
 #EXTINF:-1,UK:CHELSEA TV
 http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/7483.ts
+#EXTVLCOPT:http-user-agent=BoX@dash#
 #EXTINF:-1,UK:Comedy Central
 http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/7513.ts
+#EXTVLCOPT:http-user-agent=BoX@dash#
 #EXTINF:-1,UK:Comedy Central Extra UK
 http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/7466.ts
+#EXTVLCOPT:http-user-agent=BoX@dash#
 #EXTINF:-1,UK:Comedy Central Uk
 http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/7467.ts
+#EXTVLCOPT:http-user-agent=BoX@dash#
 #EXTINF:-1,UK:Crime & Investigiation
 http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/7514.ts
+#EXTVLCOPT:http-user-agent=BoX@dash#
 #EXTINF:-1,UK:Dave
 http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/7524.ts
+#EXTVLCOPT:http-user-agent=BoX@dash#
 #EXTINF:-1,UK:DISCOVERY
 http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/7515.ts
+#EXTVLCOPT:http-user-agent=BoX@dash#
 #EXTINF:-1,UK:DISCOVERY HISTORY
 http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/7516.ts
+#EXTVLCOPT:http-user-agent=BoX@dash#
 #EXTINF:-1,UK:DISCOVERY HOME HEALTH
 http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/7517.ts
+#EXTVLCOPT:http-user-agent=BoX@dash#
 #EXTINF:-1,UK:Discovery Investigation
 http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/7518.ts
+#EXTVLCOPT:http-user-agent=BoX@dash#
 #EXTINF:-1,UK:DISCOVERY SCIENCES
 http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/7520.ts
+#EXTVLCOPT:http-user-agent=BoX@dash#
 #EXTINF:-1,UK:DISCOVERY TURBO
 http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/7521.ts
+#EXTVLCOPT:http-user-agent=BoX@dash#
 #EXTINF:-1,UK:DMAX
 http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/7508.ts
+#EXTVLCOPT:http-user-agent=BoX@dash#
 #EXTINF:-1,UK:E4
 http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/7523.ts
+#EXTVLCOPT:http-user-agent=BoX@dash#
 #EXTINF:-1,UK:Eden
 http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/7477.ts
+#EXTVLCOPT:http-user-agent=BoX@dash#
 #EXTINF:-1,UK:EUROSPORT 1
 http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/7486.ts
+#EXTVLCOPT:http-user-agent=BoX@dash#
 #EXTINF:-1,UK:EUROSPORT 2
 http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/7485.ts
+#EXTVLCOPT:http-user-agent=BoX@dash#
 #EXTINF:-1,UK:EWTN
 http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/7471.ts
+#EXTVLCOPT:http-user-agent=BoX@dash#
 #EXTINF:-1,UK:Film 4 HD
 http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/7554.ts
+#EXTVLCOPT:http-user-agent=BoX@dash#
 #EXTINF:-1,UK:Fine Living Network
 http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/7468.ts
+#EXTVLCOPT:http-user-agent=BoX@dash#
 #EXTINF:-1,UK:Fox UK
 http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/7522.ts
+#EXTVLCOPT:http-user-agent=BoX@dash#
 #EXTINF:-1,UK:Gold
 http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/7525.ts
+#EXTVLCOPT:http-user-agent=BoX@dash#
 #EXTINF:-1,UK:Good Food
 http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/7507.ts
+#EXTVLCOPT:http-user-agent=BoX@dash#
 #EXTINF:-1,UK:HD-Eir Sports 1
 http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/7488.ts
+#EXTVLCOPT:http-user-agent=BoX@dash#
 #EXTINF:-1,UK:History Channel
 http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/7510.ts
+#EXTVLCOPT:http-user-agent=BoX@dash#
 #EXTINF:-1,UK:Home
 http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/7472.ts
+#EXTVLCOPT:http-user-agent=BoX@dash#
 #EXTINF:-1,UK:ITV 1
 http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/7532.ts
+#EXTVLCOPT:http-user-agent=BoX@dash#
 #EXTINF:-1,UK:ITV 2
 http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/7531.ts
+#EXTVLCOPT:http-user-agent=BoX@dash#
 #EXTINF:-1,UK:ITV 3
 http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/7530.ts
+#EXTVLCOPT:http-user-agent=BoX@dash#
 #EXTINF:-1,UK:ITV 4
 http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/7529.ts
+#EXTVLCOPT:http-user-agent=BoX@dash#
 #EXTINF:-1,UK:ITV BE
 http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/7528.ts
+#EXTVLCOPT:http-user-agent=BoX@dash#
 #EXTINF:-1,UK:ITV ENCORE
 http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/7527.ts
+#EXTVLCOPT:http-user-agent=BoX@dash#
 #EXTINF:-1,UK:LIVERPOOL TV
 http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/7482.ts
+#EXTVLCOPT:http-user-agent=BoX@dash#
 #EXTINF:-1,UK:Mototrs TV
 http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/7480.ts
+#EXTVLCOPT:http-user-agent=BoX@dash#
 #EXTINF:-1,UK:MTV
 http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/7526.ts
+#EXTVLCOPT:http-user-agent=BoX@dash#
 #EXTINF:-1,UK:MUTV
 http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/7484.ts
+#EXTVLCOPT:http-user-agent=BoX@dash#
 #EXTINF:-1,UK:Nat Geo Wild
 http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/7511.ts
+#EXTVLCOPT:http-user-agent=BoX@dash#
 #EXTINF:-1,UK:National Geographic
 http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/7509.ts
+#EXTVLCOPT:http-user-agent=BoX@dash#
 #EXTINF:-1,UK:QVC Beauty
 http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/7475.ts
+#EXTVLCOPT:http-user-agent=BoX@dash#
 #EXTINF:-1,UK:QVC Extra
 http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/7474.ts
+#EXTVLCOPT:http-user-agent=BoX@dash#
 #EXTINF:-1,UK:QVC Style
 http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/7473.ts
+#EXTVLCOPT:http-user-agent=BoX@dash#
 #EXTINF:-1,UK:QVC U.K.
 http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/7476.ts
+#EXTVLCOPT:http-user-agent=BoX@dash#
 #EXTINF:-1,UK:Racing
 http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/7481.ts
+#EXTVLCOPT:http-user-agent=BoX@dash#
 #EXTINF:-1,UK:RTE ONE HD
 http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/7479.ts
+#EXTVLCOPT:http-user-agent=BoX@dash#
 #EXTINF:-1,UK:RTE TWO HD
 http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/7478.ts
+#EXTVLCOPT:http-user-agent=BoX@dash#
 #EXTINF:-1,UK:Sky Arts
 http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/7560.ts
+#EXTVLCOPT:http-user-agent=BoX@dash#
 #EXTINF:-1,UK:Sky Movies Action HD
 http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/7568.ts
+#EXTVLCOPT:http-user-agent=BoX@dash#
 #EXTINF:-1,UK:Sky Movies Comedy HD
 http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/7564.ts
+#EXTVLCOPT:http-user-agent=BoX@dash#
 #EXTINF:-1,UK:Sky Movies Disney HD
 http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/7565.ts
+#EXTVLCOPT:http-user-agent=BoX@dash#
 #EXTINF:-1,UK:Sky Movies Drama HD
 http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/7566.ts
+#EXTVLCOPT:http-user-agent=BoX@dash#
 #EXTINF:-1,UK:Sky Movies Family HD
 http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/7567.ts
+#EXTVLCOPT:http-user-agent=BoX@dash#
 #EXTINF:-1,UK:Sky Movies Premiere HD
 http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/7563.ts
+#EXTVLCOPT:http-user-agent=BoX@dash#
 #EXTINF:-1,UK:Sky Movies Sci-Fi&Horror HD
 http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/7562.ts
+#EXTVLCOPT:http-user-agent=BoX@dash#
 #EXTINF:-1,UK:Sky Movies Select HD
 http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/7561.ts
+#EXTVLCOPT:http-user-agent=BoX@dash#
 #EXTINF:-1,UK:SKY SPORTS F1 HD
 http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/7500.ts
+#EXTVLCOPT:http-user-agent=BoX@dash#
 #EXTINF:-1,UK:Sky Sports HD (ACTION)
 http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/7504.ts
+#EXTVLCOPT:http-user-agent=BoX@dash#
 #EXTINF:-1,UK:Sky Sports HD (CRICKET)
 http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/7505.ts
+#EXTVLCOPT:http-user-agent=BoX@dash#
 #EXTINF:-1,UK:Sky Sports HD (GOLF)
 http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/7503.ts
+#EXTVLCOPT:http-user-agent=BoX@dash#
 #EXTINF:-1,UK:Sky Sports HD (MAIN EVENT)
 http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/7506.ts
+#EXTVLCOPT:http-user-agent=BoX@dash#
 #EXTINF:-1,UK:Sky Sports HD (PREMIER LEAGUE)
 http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/7502.ts
+#EXTVLCOPT:http-user-agent=BoX@dash#
 #EXTINF:-1,UK:SKY SPORTS MIX HD
 http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/7501.ts
+#EXTVLCOPT:http-user-agent=BoX@dash#
 #EXTINF:-1,UK:Sky Sports News HD
 http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/7499.ts
+#EXTVLCOPT:http-user-agent=BoX@dash#
 #EXTINF:-1,UK:SyFy UK
 http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/7470.ts
+#EXTVLCOPT:http-user-agent=BoX@dash#
 #EXTINF:-1,UK:TCM
 http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/7551.ts
+#EXTVLCOPT:http-user-agent=BoX@dash#
 #EXTINF:-1,UK:TRUE MOVIES 1
 http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/7553.ts
+#EXTVLCOPT:http-user-agent=BoX@dash#
 #EXTINF:-1,UK:TRUE MOVIES 2
 http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/7552.ts
+#EXTVLCOPT:http-user-agent=BoX@dash#
 #EXTINF:-1,UK:Yesterday
 http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/7550.ts
+#EXTVLCOPT:http-user-agent=BoX@dash#
 #EXTINF:-1,UK : ZEE
 http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/2807.ts
 #EXTINF:-1 tvg-logo="http://www.cartoonnetwork.com/static/images/global/ogLogo.png" group-title="UK",Cartoon Network
