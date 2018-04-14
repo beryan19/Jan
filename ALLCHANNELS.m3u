@@ -1,1998 +1,635 @@
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,beIN MOVIES 1HD
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/2450.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,beIN MOVIES 2HD
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/2449.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,beIN MOVIES 3HD
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/2448.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,beIN MOVIES 4HD
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/2447.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,beIN Fine Living Network
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/9826.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: beIN DTX
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/5787.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,•●★- OSN -★●•
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/4215.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,OSN Ya Hala! Aloula HD
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/3789.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,OSN Ya Hala! HD
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/3787.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,OSN Yahala Aloula 2 HD
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/3788.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
+#EXTM3U
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/1.0.0 (Linux;Android 6.0) ExoPlayerLib
+#EXTINF:-1,============= ISLAMIC Channels =============
+http://arabapps.live:8000/live/mobachiirr/f6mV0N9HKD/495.ts
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/1.0.0 (Linux;Android 6.0) ExoPlayerLib
+#EXTINF:-1,AR-D:Mekka Quran
+http://arabapps.live:8000/live/mobachiirr/f6mV0N9HKD/527.ts
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/1.0.0 (Linux;Android 6.0) ExoPlayerLib
+#EXTINF:-1,Islamic-Makkah-tv
+http://arabapps.live:8000/live/mobachiirr/f6mV0N9HKD/301.ts
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/1.0.0 (Linux;Android 6.0) ExoPlayerLib
+#EXTINF:-1,Islamic-Islamic-Noor-Dubai
+http://arabapps.live:8000/live/mobachiirr/f6mV0N9HKD/300.ts
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/1.0.0 (Linux;Android 6.0) ExoPlayerLib
+#EXTINF:-1,Islamic-FR
+http://arabapps.live:8000/live/mobachiirr/f6mV0N9HKD/297.ts
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/1.0.0 (Linux;Android 6.0) ExoPlayerLib
+#EXTINF:-1,Islamic-Iqra-AR
+http://arabapps.live:8000/live/mobachiirr/f6mV0N9HKD/299.ts
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/1.0.0 (Linux;Android 6.0) ExoPlayerLib
+#EXTINF:-1,AR-D:saudi 1
+http://arabapps.live:8000/live/mobachiirr/f6mV0N9HKD/597.ts
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/1.0.0 (Linux;Android 6.0) ExoPlayerLib
+#EXTINF:-1,AR-D:Wesal
+http://arabapps.live:8000/live/mobachiirr/f6mV0N9HKD/529.ts
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/1.0.0 (Linux;Android 6.0) ExoPlayerLib
+#EXTINF:-1,================== OSN Channels ===================
+http://arabapps.live:8000/live/mobachiirr/f6mV0N9HKD/618.ts
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/1.0.0 (Linux;Android 6.0) ExoPlayerLib
+#EXTINF:-1,OSN YAHALA HD
+http://arabapps.live:8000/live/mobachiirr/f6mV0N9HKD/610.ts
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/1.0.0 (Linux;Android 6.0) ExoPlayerLib
+#EXTINF:-1,OSN YAHALA Al Oula HD
+http://arabapps.live:8000/live/mobachiirr/f6mV0N9HKD/609.ts
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/1.0.0 (Linux;Android 6.0) ExoPlayerLib
 #EXTINF:-1,OSN Yahala Cinema HD
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/3786.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,OSN ART Aflam 1
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/3778.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,OSN ART Aflam 2
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/3777.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,OSN ART Cinema
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/3776.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,OSN ART Hekayat 1
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/3775.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,OSN ART Hekayat 2
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/3774.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,OSN AD Nat Geo HD
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/3796.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,OSN Al Safwa
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/3781.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,OSN Al Yawm
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/3782.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,OSN AMC HD
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/3758.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,OSN Animal Planet HD
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/3798.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,OSN BBC First HD
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/3740.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,OSN Box Office 1
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/3706.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,OSN Box Office 3
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/3704.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,OSN CARTOON NETWORK
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/3710.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,OSN CINEMA 1
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/3780.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,OSN CINEMA 2
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/3779.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,OSN Comedy Central HD
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/3760.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,OSN Crime & Investigation
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/3791.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,OSN Discovery Family HD
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/3802.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,OSN DISCOVERY HD
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/3806.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,OSN DISCOVERY ID HD
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/3803.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,OSN Discovery Life HD
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/3804.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,OSN Discovery Sc HD
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/3805.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,OSN DISNEY CHANNEL HD+
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/3714.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,OSN Disney Channel HD
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/3715.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,OSN Disney Junior
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/3716.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,OSN Disney XD
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/3718.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,OSN DMAX
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/3793.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,OSN Duka Box
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/3792.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,OSN FASHION
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/3721.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,OSN Fight HD
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/3811.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,OSN Fight Network
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/3812.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,OSN FilmBox
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/3749.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,OSN Fine Living HD
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/3725.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,OSN First HBO HD
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/3743.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,OSN Food Network
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/3724.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,OSN Fox Family Movies HD
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/3752.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,OSN FOX HD
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/3755.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,OSN Fox Movies Action HD
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/3753.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,OSN Fuel
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/3809.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,OSN FX HD
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/3756.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,OSN H2
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/3794.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,OSN History HD
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/3795.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,OSN ITV Choice HD
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/3722.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,OSN JIM JAM
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/3708.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,OSN MBC + Drama HD
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/3785.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,OSN MBC Drama+ HD
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/846.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,OSN MBC P Variety HD
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/845.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,OSN Mov First HD 2
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/3772.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,OSN Movies Action 2
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/3770.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,OSN Movies Action HD
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/3771.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,OSN MOVIES COMEDY  2
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/3766.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,OSN Movies Comedy HD
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/3767.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
+http://arabapps.live:8000/live/mobachiirr/f6mV0N9HKD/608.ts
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/1.0.0 (Linux;Android 6.0) ExoPlayerLib
+#EXTINF:-1,Osn Movies Drama HD
+http://arabapps.live:8000/live/mobachiirr/f6mV0N9HKD/611.ts
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/1.0.0 (Linux;Android 6.0) ExoPlayerLib
 #EXTINF:-1,OSN Movies Family HD
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/3761.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,OSN MOVIES FESTIVAL HD
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/3763.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,OSN Movies First HD
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/3773.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,OSN Movies HD
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/3769.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,OSN Movies HD 2
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/3768.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,OSN MOVIES Kids HD
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/3762.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,OSN Movies Thriller  2
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/3764.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,OSN Movies Thriller HD
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/3765.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,OSN MTV Classic HD
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/3735.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,OSN Music Now
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/3737.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,OSN MY Cinema
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/3739.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,OSN Myme
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/3729.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,OSN Nat Geo HD
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/3801.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,OSN Nat Geo People HD
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/3800.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,OSN Nat Geo Wild HD
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/3799.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,OSN NEWS
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/3728.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,OSN Nick Junior
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/3713.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,OSN Nickelodeon HD
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/3711.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,OSN On Demand Extra 1HD
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/3692.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,OSN On Demand Extra 2HD
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/3691.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,OSN OSN Kid Zone TV
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/3747.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,OSN Outdoor HD
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/3797.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,OSN Paremount Channel
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/3730.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,OSN Planet Earth HD
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/3731.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,OSN SeeVii Al Aoula HD
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/824.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,OSN SeeVii Beelink HD
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/822.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,OSN SeeVii Drama HD
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/823.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,OSN SeeVii PRIME 1
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/820.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,OSN SeeVii PRIME2
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/819.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,OSN SeeVii PRIME3
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/818.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,OSN SeeVii Shamiya HD
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/821.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,OSN Series Com HD
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/3742.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,OSN Series First HD+
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/3744.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,OSN Series First HD
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/3745.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
+http://arabapps.live:8000/live/mobachiirr/f6mV0N9HKD/614.ts
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/1.0.0 (Linux;Android 6.0) ExoPlayerLib
+#EXTINF:-1,OSN Movies Fastival HD
+http://arabapps.live:8000/live/mobachiirr/f6mV0N9HKD/613.ts
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/1.0.0 (Linux;Android 6.0) ExoPlayerLib
+#EXTINF:-1,OSN Movies Kids HD
+http://arabapps.live:8000/live/mobachiirr/f6mV0N9HKD/619.ts
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/1.0.0 (Linux;Android 6.0) ExoPlayerLib
 #EXTINF:-1,OSN Series HD
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/3746.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,OSN Abu Dhabi Sports 1HD
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/831.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,OSN Abu Dhabi Sports 2HD
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/830.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,OSN Abu Dhabi Sports 3HD
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/829.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,OSN Abu Dhabi Sports 4HD
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/828.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,OSN Sports 3 HD
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/3818.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,OSN Sports 4 HD
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/3817.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,OSN Sports 5HD
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/3814.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,OSN Sports Action 2 HD
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/3819.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,OSN Star world HD
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/3750.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,OSN Sundance
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/3757.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,OSN Syfy HD
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/3759.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,OSN TEN CRICKET
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/3815.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,OSN TLC HD
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/3723.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,OSN Trace TV
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/3727.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,OSN Travel
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/3790.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,OSN ULTIMATE COMBAT FIGHTING
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/3810.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,OSN VH1
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/3736.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,OSN WORLD FASHION HD
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/3720.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,OSN WWE Network HD
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/3813.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,OSN Home Cinema 1
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/3703.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,OSN Home Cinema 2
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/3702.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,OSN Home Cinema 3
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/3701.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,OSN Home Cinema 4
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/3700.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,OSN Home Cinema 5
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/3699.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,OSN Home Cinema 6
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/3698.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,OSN Home Cinema 7
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/3697.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,OSN Home Cinema 8
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/3696.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,OSN Home Cinema 9
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/3695.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,OSN Home Cinema 10
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/3694.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,•●★- MyHD -★●•
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10221.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,MyHD MBC1 HD
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/7102.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,MyHD MBC3 HD
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/7100.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,MyHD MBC4 HD
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/7099.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,MyHD MBC 1 4K
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/8013.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,MyHD MBC 2 4K
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/8012.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,MyHD MBC 3 4K
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/8011.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,MyHD MBC 4 4K
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/8010.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,MyHD MBC Action 4K
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/8009.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,MyHD MBC  Drama 4K
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/8005.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,MyHD MBC Bollywood 4K
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/8007.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,MyHD MBC Max 4K
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/8008.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,MyHD MBC Variety 4K
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/8004.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,MyHD AMC HD
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/7071.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,MyHD Animal Planet HD
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/7060.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,MyHD BBC English HD
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/7063.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,MyHD Cinemachi kids HD
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/7065.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,MyHD CNN HD
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/7064.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,MyHD Discovery SC HD
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/7059.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,MyHD DMAX
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/7057.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,MyHD DTX HD
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/7056.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,MyHD Duka Box
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/7055.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,MyHD DW HD
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/7062.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,MyHD Fight Box HD
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/7052.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,MyHD FilmBox
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/7070.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,MyHD FilmBox Arthouse
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/7069.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,MyHD FIX FOXI
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/7068.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,MyHD Fox Family Movies HD
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/7073.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,MyHD FOX HD
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/7076.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,MyHD Fox Movies Action HD
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/7074.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,MyHD FX HD
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/7077.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,MyHD GULLI ARABIC
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/7067.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,MyHD MBC  DRAMA HD
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/7094.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,MyHD MBC Action HD
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/7098.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,MyHD MBC BOLLYWOOD HD
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/7096.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,MyHD MBC MAX HD
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/7097.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,MyHD MBC Variety HD
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/7093.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,MyHD MY Cinema
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/7072.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,MyHD Myme Music HD
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/7050.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,MyHD MyZen HD
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/7053.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,MyHD Nahar Drama HD
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/7086.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,MyHD Nahar One HD
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/7085.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,MyHD Planet Earth HD
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/7054.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,MyHD Quest
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/7061.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,MyHD Rotana  Masriah HD
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/7088.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,MyHD Rotana Aflam HD
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/7092.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,MyHD Rotana Cenima HD
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/7091.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,MyHD Rotana Classic HD
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/7090.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,MyHD Rotana Kalijiyah HD
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/7089.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,MyHD SeeVii Al Aoula HD
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/7084.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,MyHD SeeVii Beelink HD
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/7083.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,MyHD SeeVii Drama HD
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/7082.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,MyHD SeeVii PRIME1
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/7080.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,MyHD SeeVii PRIME2
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/7079.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,MyHD SeeVii PRIME3
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/7078.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,MyHD SeeVii Shamiya HD
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/7081.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,MyHD Travel HD
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/7058.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,MyHD: Cinemachi kids HD
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/3707.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,MyHD Wow Sport HD
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/7051.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,•●★- ARABIC -★●•
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/4214.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,MBC-SPORTS
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/847.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,MBC MAX HD
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/837.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,MBC Pro Sports 1 HD
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/844.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,MBC Pro Sports 2 HD
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/843.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,MBC Pro Sports 3 HD
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/842.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,MBC MASR
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/833.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AlKASS 1 HD
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/3867.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AlKASS 2 HD
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/3868.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AlKASS 3 HD
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/3869.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AlKASS 4 HD
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/3870.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: 2M
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10551.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: 7BESHA
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10499.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: Abu Dhabi Al Riyadiya 1
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10497.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: Abu Dhabi Al Riyadiya 2
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10496.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: Abu Dhabi drama
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10495.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: Abu Dhabi Sports 1 HD
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10672.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: Abu Dhabi Sports 2 HD
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10671.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: AbudhabiTV HD
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10550.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: ADALEMARAT HD
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10665.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: Aden TV
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10494.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: Afak
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10493.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: Aghani
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10492.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: AGHAPY
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10491.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: AHEL AL QURAN
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10490.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: AJAL TV
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10664.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: AK EKHBARIA
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10278.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: Al Adalah TV
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10452.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: Al Ahly TV
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10489.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: Al Alam
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10663.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: Al Amaken Drama
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10451.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: Al Anbar
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10450.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: AL AQSA
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10488.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: AL ARABY TV
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10487.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: al asema
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10486.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: AL ASSEMA
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10485.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: AL BAIT BAITAK CINEMA
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10484.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: AL BASIRA
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10483.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: Al Bawadi
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10449.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: Al Ebaa TV
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10448.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: Al Eiman TV
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10482.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: AL EKHBARIYA AL SYRIA
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10481.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: AL EKHBARYA SY
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10480.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: AL EMARAT TV
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10479.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: Al Falstiniah
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10478.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: Al Ghad Al Mushreq
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10477.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: Al Ghad TV
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10476.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: AL HADATH
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10475.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: AL HIWAR TV
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10474.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: Al HiwAR: Ettounsi
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10662.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: Al Horreya
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10473.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: Al Jadeed
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10648.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: AL Jadeed 2
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10472.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: AL JAMEELA
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10471.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: Al jazeera D
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10470.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: AL JAZEERA DOCUMENTRY
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10469.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: AL JAZEERA HD
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10652.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: AL JAZEERA MUBASHER
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10468.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: Al Jesr TV
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10467.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: Al Kahera Wal Nas 1
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10466.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: AL KAHERA WAL NAS 2
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10465.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: Al Ma3ali TV
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10647.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: Al Maaly
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10447.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: Al Manar
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10453.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: Al Masirah TV
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10464.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: Al Mayadeen
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10646.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: AL MEEDAN
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10463.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: AL NADA
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10462.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: Al NAHAR DRAMA
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10446.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: Al Nahar One
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10445.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: AL QUDS
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10461.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: AL RAHMA
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10460.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: AL RAI
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10645.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: Al Rayyan Al Qadeem
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10459.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: Al Rayyan HD
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10458.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: AL RESALA
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10457.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: AL Riadia
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10642.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: Al Sabah TV
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10444.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: AL SERAJ
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10456.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: Al Shahed TV
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10443.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: Al SHAREYYAH
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10442.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: AL SHARJAH
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10455.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: al tunisia
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10644.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: AL WAAD CHANNEL
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10454.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: ALAAN TV
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10441.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: AlAfasy
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10440.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: ALALAM NEWS
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10439.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: Alaoula layoune
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10661.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: Alarabiya
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10660.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: Alaraby hadath
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10659.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: ALASKANDRIA
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10438.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: Albait Baitak Cinem
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10658.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: ALDELTA
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10437.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: ALEKHBARIYA NEWS
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10657.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: Alerth Alnbawi
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/7735.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: ALERTH-ALNBAWI
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10436.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: ALFURSAN
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10435.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: algeria 3
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10656.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: Algerie 2 Canal
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/7742.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: Algerie 4
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10655.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: ALHAQIQA
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10434.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: alhayat
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10654.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: alhayat 2
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10433.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: Alhayat Mosalsalat
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/7741.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: Alhayat Muslsalat
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10432.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: Alhayat We Alnas
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10431.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: ALIMAN TV
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10430.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: Aljanoubiya
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10653.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: ALJAZEERA INTERNATIONAL
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10429.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: ALJAZEERA News
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/9312.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: ALKAHERA
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10428.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: Alkarma
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10427.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: ALKASS1 HD
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10669.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: ALKASS2 HD
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10668.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: ALKASS3 HD
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10667.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: ALKASS4 HD
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10666.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: ALKOFIYA
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10426.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: ALMASRAWIA AFLAM
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10425.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: ALMOSARE3
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10424.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: AlMoutawasetTV
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10651.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: ALORDON ALYOOM
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10423.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: ALOSTORA
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10422.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: Alpha Alyum
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10421.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: Alpha cinema 1
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10420.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: Alpha Musalsal HD
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10419.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: Alpha Safwa
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10418.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: Alqanat 9
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10417.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: ALQASSIM
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10416.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: AlRafideen 1
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10415.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: ALRESALAH
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10650.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: ALSA3EED
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10414.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: AlSaeedah
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10413.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: ALSHARGIYA
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10649.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: Altaghier
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10412.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: ALTHAQAFIAH 1
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10411.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: Alwakaa
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10279.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: Alwalaa TV
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10410.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: Alwesam TV
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10409.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: Alyaoum Aflam
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10408.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: Alyaoum Cinema
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10407.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: Alyaum TV
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10406.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: An Najah NBC
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10405.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: ANN SYRIA
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10404.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: Arabica TV
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10403.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: ARIRANG
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10402.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: Armenia 1 TV
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10401.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: Armenia TV
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10400.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: ARRABIA TV
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10643.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: art aflam 1
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10637.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: art aflam 2
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10641.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: ART Cinema
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10640.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: ART HEKAYAT 2
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10639.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: ART HEKAYAT1
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10638.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: ART HIKAYAT 1
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10399.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: ART HIKAYAT 2
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10398.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: attassia tv
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10636.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: Awdeh
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10397.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: Awhad
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10396.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: AZHARI
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10395.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: B4U Aflam
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10521.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: B4U Plus
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10520.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: BahiaTV
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10519.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: BAHRAIN
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10518.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: BAHRAIN INTERNATIONAL
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10517.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: BAHRAIN TV
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10635.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: BAREM
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10634.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: BBC ARABIC
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10516.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: bein SPORTS News HD
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10548.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: BELAD HARAMEN
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10515.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: BELQEES
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10514.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: BIN OTHAIMEEN
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10513.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: Cairo Drama
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10512.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: Canal algerie
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10633.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: CartoonNetworkArabic
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10632.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: CBC
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10631.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: CBC Drama
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10630.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: CBC EXTRA
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10511.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: CBC Sofra
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10629.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: CIMA ALI BABA
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10510.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: CIMA TUBE
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10509.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: Cima TV
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10508.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: Cima Wast Elbalad
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10507.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: CINEMA 1
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10506.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: CINEMA 2
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10505.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: CINEMA PRO
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10504.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: CINEMA TUBE
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10503.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: CNA
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10502.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: CNBC ARABIYA
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10501.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: CNL
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10500.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: D Cinema
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10540.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: D Movies
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10539.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: DJAZAIRIA
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/7738.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: dmc
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10353.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: dmc drama
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10352.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: dmc sports
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10547.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: Dream2
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10538.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: DUBAI DRAMA
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10628.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: DUBAI NOUR
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10627.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: DUBAI ONE
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10626.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: DUBAI RACING
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10625.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: Dubai Racing 2
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10624.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: Dubai Sports
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/7736.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: Dubai Sports 3
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10623.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: DUBAI SPORTS 4
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10546.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: DUBAI TV
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10622.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: DUBAI ZAMAN
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10537.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: DW TV ARABIA
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10536.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: DzairNews
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10621.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: E cinema
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10535.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: Echorouk News
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/7737.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: ECHOROUK TV
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10620.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: Echourouk
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/9316.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: ECHOUROUKBENNA
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10619.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: El djazairia
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10617.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: El Heddaf TV
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10618.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: EL SHARQ
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10534.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: ElKeraza
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10533.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: ELMOLED TV
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10532.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: Ennahar TV alg
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10616.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: ENTV
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/9317.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: ESC MASER
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10531.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: Ettounsi
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/7744.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: Ettounsia TV
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10615.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: EURO NEWS ARABIC
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10530.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: Family Drama
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10529.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: FRANCE 24 ARABIC
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10528.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: FRANCE 24 EN
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10527.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: FRANCE 24 FR
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10614.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: Free Syria
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10526.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: Fujairah TV
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10351.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: FUNoon
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10350.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: FUTURE TV
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10613.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: GALI KURDISTAN
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10394.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: GALI KURDISTAN ARAB
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10349.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: Hala TV
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10348.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: Halab Today
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10347.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: hanibal
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10612.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: HAREEM ELSULTAN
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10346.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: Hawas TV
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10345.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: HEBRON SAT TV
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10344.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: Heya TV
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10343.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: ifilm arabic
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10393.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: IMAGINE MOVIES
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10342.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: IQRA
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10611.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: IRAQIA SPORT
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10545.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: JAWNA
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10341.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: JORDAN NOW
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10340.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: JORDAN SPORTS
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10544.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: JORDAN TV
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10339.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: JSC LIVE
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10338.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: KAIFA
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10337.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: Karameesh
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10610.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: kbc algeria
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10609.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: Kentron
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10336.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: KTO
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10335.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: KTV Al Arabi
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10334.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: KTV CH1
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10333.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: KTV CH2
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10332.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: KTV Ethraa
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10331.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: KTV SPORT HD
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10543.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: Ktv sport Plus
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10542.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: KUWAIT 2
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10608.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: KUWAIT TV
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10607.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: LBC Europe
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10330.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: LBC SAT
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10606.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: LDC
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10329.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: LDC Lebanon
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10605.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: LEBANON
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10604.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: Lebanon TV
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/9310.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: Libya 1
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10603.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: LIBYA 218
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10328.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: Libya 24
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10327.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: LIBYA ALHADATH
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10326.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: Libya Alhrar
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10392.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: LIBYA ALRASMEYA
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10325.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: LIBYA ONE
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10602.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: Libya Panorama TV
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10324.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: Libya Today TV
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10323.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: LIBYAS CHANNEL
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10322.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: Logos TV
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10321.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: LPC HD
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10280.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: LTC
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10320.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: LTV
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10319.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: LuaLua TV
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10318.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: M CLASSIC
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10317.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: MAAN TV
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10316.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: MAJAN
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10315.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: MAJD KIDS
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10601.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: MAN
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10600.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: Manaseer
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10314.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: Manhaj
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10313.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: Mariam TV
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10312.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: MASDAR
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10391.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: Maspero Zaman
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10311.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: MAZAKIZH
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10310.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: MAZZIKA
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/7739.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: MBC Drama Plus HD
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10525.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: MBC MASR 2
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10524.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: MBC pro 1
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10226.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: MBC Sports Pro 4
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10541.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: MECCA
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10309.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: Mecca Quran
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/7743.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: Medi 1
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10599.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: Mehwar TV
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10308.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: MEKAMELEEN TV
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10307.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: MEKKA
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10598.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: MELODY CLASSIC
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10306.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: MENHAG ALNBOWA
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10305.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: MIRACLE
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10304.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: MISR AL ZERA3EYA
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10303.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: Misr ELBald
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10302.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: MOGA Cinema
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10301.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: MOGA COMEDY TV
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10597.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: MOSALSALAT TUBE
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10300.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: MTA 3 Al Arabiyah
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10299.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: MTA Muslim TV
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10298.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: MTV Lebanon
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10596.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: MTV LEBONAN
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10297.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: MUSAWA
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10296.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: MUSIC AL ARRAB
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10295.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: Music alremas
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10294.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: NABA TV
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10293.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: NABAA TV
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10595.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: NAHAR DRAMA
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10594.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: NAT GEO AD HD
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10593.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: NBN
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10292.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: Neelain Sports HD
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10225.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: nessma
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10592.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: Nile Cinema
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10291.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: Nile Comedy
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10290.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: Nile Culture
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10289.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: NILE DRAMA
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10591.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: Nile Family
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10288.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: Nile News
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10287.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: Nile Sport
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10354.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: NILE TV
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10590.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: NOON tv
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10589.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: NOOR DUBAI
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10286.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: NOOR JORDAN
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10285.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: NOUR
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10284.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: NOUR AL SHAM
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10390.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: Nour Al Sharq
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10389.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: Nour Koddass
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10388.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: NOURSAT
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10387.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: NOURSAT ALCHABAB
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10386.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: NRT arabic
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10385.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: OMAN
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10384.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: OMAN TV Culture HD
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10383.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: OMAN TV General HD
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10382.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: OMAN TV Live HD
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10381.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: ON Drama
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10380.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: ON E
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10379.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: ON SPORT 1
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10378.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: ONTV LIVE
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10377.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: ORIENT
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10376.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: OSN Ad Sport 1 HD
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10523.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: OSN Ad Sport 2 HD
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10522.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: OSN Cinema 1 HD
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10355.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: OSN Cinema 2 HD
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10356.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: OTV
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10375.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: Palestine Live
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10374.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: Palestine News
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10373.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: Palestine Sport
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10224.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: PALESTINE-TODAY
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10372.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: PALESTINIAN TV
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10371.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: Panorama Comedy
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10588.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: Panorama Drama
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10587.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: Panorama Drama 2
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10586.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: PANORAMA DRAMA1
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10370.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: Panorama Film
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10585.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: PANORAMA FOOD
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10369.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: PANORAMA YOM TV
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10368.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: PEACE
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10367.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: PUBLI TOOLS TV
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10366.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: QATAR TODAY
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10365.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: QATAR TV
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10364.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: QOU.EDU
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10363.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: Quest TV
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10362.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: ROTANA
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10361.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: Rotana Aflam HD
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10360.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: ROTANA CINEMA
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10581.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: Rotana Cinema EGY
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10281.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: Rotana Classic
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10584.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: ROTANA CLIP
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10282.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: ROTANA KHALIJIAH
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10283.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: ROTANA KHALYJIA
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10583.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: ROTANA MASR IYA
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10359.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: ROTANA MASR YIA
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10582.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: ROTONA CLIP
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10580.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: ROYA HD
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10277.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: RT ARAB
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10276.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: RT ARABIC
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10579.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: RT-TODAY
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10275.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: Rushd TV
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10274.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: Sada El Balad
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10273.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: Sada El Balad plus 1
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10272.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: SADA ELBALAAD DRAMA
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10271.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: Sada Elbalad 2
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10578.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: Sada Elbalad Drama
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10577.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: SAFA TV
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10270.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: SAMA DUBAI
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10576.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: SAMA TV
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10269.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: Samira TV
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10575.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: Sanad TV
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10268.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: SAT-7 ARABIC
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10267.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: SAUDI CH QURAN
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10266.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: SAUDI CH SUNNAH
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10265.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: Saudi Sport
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10574.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: SAUDI SPORTS
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10223.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: SAUDI1
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10573.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: SAUDI2
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10572.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: SAUDI24
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10264.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: SCOPE
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10263.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: SEEVII Alola HD
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10262.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: Seevii Drama HD
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10261.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: SEEVII shamiya HD
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10260.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: SELAA
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10259.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: SEMSEM
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10571.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: SHA3BEYAT
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10258.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: SHANPOO AFLAM
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10257.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: SHANTTV
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10256.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: Sheba TV
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10255.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: SKY NEWS
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10570.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: spacetoon
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10569.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: STAR CINEMA 1
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10254.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: STAR CINEMA 2
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10253.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: SUHAIL TV
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10252.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: SUNNA
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10568.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: SYRIA AOULA
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10566.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: SYRIA DRAMA
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10565.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: SYRIA NEWS
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10567.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: Syria Satellite
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10358.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: SYRIA TV
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10564.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: T DRAMA
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10251.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: TACTAC MAROC
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10250.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: TAHA
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/7740.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: Tal2a Hendy
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10249.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: TAMAZIGHT
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10563.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: Tanasuh Libye
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10562.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: TATT7
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10248.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: TEBA
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10247.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: TELELIBAN
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10246.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: Ten
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10561.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: The Savior
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10245.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: TIME CINEMA
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10357.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: Time Comedy
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10560.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: TNN Tunisia
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10559.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: TOKTOK AFLAM
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10244.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: TOKTOK CIMA
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10243.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: TOYOR AL JANAH
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10558.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: TRT Arapca
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10242.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: TRT ET TURKIYYE
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10241.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: TRT-ELARIBIYE
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10240.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: Tunisia 2
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/9318.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: tunisia first tv
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10557.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: Tunisia Nat 1
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10555.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: TUNISIA NATIONAL 2
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10556.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: UBER AFLAM
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10239.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: UBER CIMA
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10238.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: UBER CLASSIC
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10237.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: UBER DRAMA
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10236.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: UBER FILM
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10235.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: Varzish Sport HD
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10222.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: WANASAH
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10234.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: WATAN TV
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10233.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: WESAL
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10554.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: YAS Sports
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10670.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: YEMEN
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10232.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: Yemen Education TV
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10231.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: YEMEN SHAHAB
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10230.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: YEMEN TODAY TV
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10229.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: zaitouna
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10553.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: ZARQA ALYOUM
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10228.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: ZEE AFLAM
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10552.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: ZEE ALWAN
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10549.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR: ZWINA BALADNA
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/10227.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR:Al-Arabiya
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/9311.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR:ALFATH Quran
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/9314.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,AR:Toyor AlJanah
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/9313.ts
+http://arabapps.live:8000/live/mobachiirr/f6mV0N9HKD/612.ts
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/1.0.0 (Linux;Android 6.0) ExoPlayerLib
+#EXTINF:-1,OSN Star Movies HD
+http://arabapps.live:8000/live/mobachiirr/f6mV0N9HKD/616.ts
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/1.0.0 (Linux;Android 6.0) ExoPlayerLib
+#EXTINF:-1,OSN Star World HD
+http://arabapps.live:8000/live/mobachiirr/f6mV0N9HKD/617.ts
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/1.0.0 (Linux;Android 6.0) ExoPlayerLib
+#EXTINF:-1,OSN WWE HD
+http://arabapps.live:8000/live/mobachiirr/f6mV0N9HKD/615.ts
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/1.0.0 (Linux;Android 6.0) ExoPlayerLib
+#EXTINF:-1,beIN MOVIES-HD1
+http://arabapps.live:8000/live/mobachiirr/f6mV0N9HKD/1063.ts
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/1.0.0 (Linux;Android 6.0) ExoPlayerLib
+#EXTINF:-1,beIN MOVIES-HD2
+http://arabapps.live:8000/live/mobachiirr/f6mV0N9HKD/1062.ts
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/1.0.0 (Linux;Android 6.0) ExoPlayerLib
+#EXTINF:-1,beIN MOVIES-HD3
+http://arabapps.live:8000/live/mobachiirr/f6mV0N9HKD/1061.ts
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/1.0.0 (Linux;Android 6.0) ExoPlayerLib
+#EXTINF:-1,beIN MOVIES-HD4
+http://arabapps.live:8000/live/mobachiirr/f6mV0N9HKD/1060.ts
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/1.0.0 (Linux;Android 6.0) ExoPlayerLib
+#EXTINF:-1,beIN Series 1 HD
+http://arabapps.live:8000/live/mobachiirr/f6mV0N9HKD/1073.ts
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/1.0.0 (Linux;Android 6.0) ExoPlayerLib
+#EXTINF:-1,beIN SERIES-HD1
+http://arabapps.live:8000/live/mobachiirr/f6mV0N9HKD/1059.ts
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/1.0.0 (Linux;Android 6.0) ExoPlayerLib
+#EXTINF:-1,beIN SERIES-HD2
+http://arabapps.live:8000/live/mobachiirr/f6mV0N9HKD/1058.ts
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/1.0.0 (Linux;Android 6.0) ExoPlayerLib
+#EXTINF:-1,The_Holy_Quran_Maher_Al-Muaiqly
+http://arabapps.live:8000/live/mobachiirr/f6mV0N9HKD/1057.ts
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/1.0.0 (Linux;Android 6.0) ExoPlayerLib
+#EXTINF:-1,The_Holy_Quran_Saad_Al_Ghamidi
+http://arabapps.live:8000/live/mobachiirr/f6mV0N9HKD/1056.ts
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/1.0.0 (Linux;Android 6.0) ExoPlayerLib
+#EXTINF:-1,World Cup 2018 Makan
+http://arabapps.live:8000/live/mobachiirr/f6mV0N9HKD/864.ts
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/1.0.0 (Linux;Android 6.0) ExoPlayerLib
+#EXTINF:-1,Osn AlSafwa HD
+http://arabapps.live:8000/live/mobachiirr/f6mV0N9HKD/1041.ts
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/1.0.0 (Linux;Android 6.0) ExoPlayerLib
+#EXTINF:-1,Osn Animal Planet HD
+http://arabapps.live:8000/live/mobachiirr/f6mV0N9HKD/1042.ts
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/1.0.0 (Linux;Android 6.0) ExoPlayerLib
+#EXTINF:-1,Osn Cinema 1 HD
+http://arabapps.live:8000/live/mobachiirr/f6mV0N9HKD/1043.ts
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/1.0.0 (Linux;Android 6.0) ExoPlayerLib
+#EXTINF:-1,Osn Cinema 2 HD
+http://arabapps.live:8000/live/mobachiirr/f6mV0N9HKD/1044.ts
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/1.0.0 (Linux;Android 6.0) ExoPlayerLib
+#EXTINF:-1,Osn Discovery HD
+http://arabapps.live:8000/live/mobachiirr/f6mV0N9HKD/1039.ts
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/1.0.0 (Linux;Android 6.0) ExoPlayerLib
+#EXTINF:-1,Osn Discovery Science HD
+http://arabapps.live:8000/live/mobachiirr/f6mV0N9HKD/1040.ts
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/1.0.0 (Linux;Android 6.0) ExoPlayerLib
+#EXTINF:-1,OSN Fix Foxi
+http://arabapps.live:8000/live/mobachiirr/f6mV0N9HKD/945.ts
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/1.0.0 (Linux;Android 6.0) ExoPlayerLib
+#EXTINF:-1,Osn Fox Family Movies HD
+http://arabapps.live:8000/live/mobachiirr/f6mV0N9HKD/1036.ts
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/1.0.0 (Linux;Android 6.0) ExoPlayerLib
+#EXTINF:-1,Osn Fox HD
+http://arabapps.live:8000/live/mobachiirr/f6mV0N9HKD/1038.ts
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/1.0.0 (Linux;Android 6.0) ExoPlayerLib
+#EXTINF:-1,OSN Fox Movies Action HD
+http://arabapps.live:8000/live/mobachiirr/f6mV0N9HKD/1035.ts
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/1.0.0 (Linux;Android 6.0) ExoPlayerLib
+#EXTINF:-1,Osn Fox Movies HD
+http://arabapps.live:8000/live/mobachiirr/f6mV0N9HKD/1037.ts
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/1.0.0 (Linux;Android 6.0) ExoPlayerLib
+#EXTINF:-1,OSN Movies Action HD
+http://arabapps.live:8000/live/mobachiirr/f6mV0N9HKD/943.ts
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/1.0.0 (Linux;Android 6.0) ExoPlayerLib
+#EXTINF:-1,OSN Movies Comedy HD
+http://arabapps.live:8000/live/mobachiirr/f6mV0N9HKD/1020.ts
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/1.0.0 (Linux;Android 6.0) ExoPlayerLib
+#EXTINF:-1,Osn Movies HD
+http://arabapps.live:8000/live/mobachiirr/f6mV0N9HKD/1045.ts
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/1.0.0 (Linux;Android 6.0) ExoPlayerLib
+#EXTINF:-1,OSN Movies HD Box Office 1
+http://arabapps.live:8000/live/mobachiirr/f6mV0N9HKD/1077.ts
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/1.0.0 (Linux;Android 6.0) ExoPlayerLib
+#EXTINF:-1,OSN Movies HD Box Office 2
+http://arabapps.live:8000/live/mobachiirr/f6mV0N9HKD/1076.ts
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/1.0.0 (Linux;Android 6.0) ExoPlayerLib
+#EXTINF:-1,OSN Movies HD Box Office 3
+http://arabapps.live:8000/live/mobachiirr/f6mV0N9HKD/1075.ts
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/1.0.0 (Linux;Android 6.0) ExoPlayerLib
+#EXTINF:-1,Osn Movies Premiere 1 HD
+http://arabapps.live:8000/live/mobachiirr/f6mV0N9HKD/1046.ts
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/1.0.0 (Linux;Android 6.0) ExoPlayerLib
+#EXTINF:-1,Osn Movies Premiere 2 HD
+http://arabapps.live:8000/live/mobachiirr/f6mV0N9HKD/1047.ts
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/1.0.0 (Linux;Android 6.0) ExoPlayerLib
+#EXTINF:-1,OSN Movies Thriller
+http://arabapps.live:8000/live/mobachiirr/f6mV0N9HKD/944.ts
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/1.0.0 (Linux;Android 6.0) ExoPlayerLib
+#EXTINF:-1,OSN Nat Geo People HD
+http://arabapps.live:8000/live/mobachiirr/f6mV0N9HKD/941.ts
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/1.0.0 (Linux;Android 6.0) ExoPlayerLib
+#EXTINF:-1,OSN Nat Geo Wild HD
+http://arabapps.live:8000/live/mobachiirr/f6mV0N9HKD/942.ts
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/1.0.0 (Linux;Android 6.0) ExoPlayerLib
+#EXTINF:-1,OSN Nickelodeon HD
+http://arabapps.live:8000/live/mobachiirr/f6mV0N9HKD/1074.ts
+
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/1.0.0 (Linux;Android 6.0) ExoPlayerLib
+#EXTINF:-1,============= MBC Channels =============
+http://arabapps.live:8000/live/mobachiirr/f6mV0N9HKD/493.ts
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/1.0.0 (Linux;Android 6.0) ExoPlayerLib
+#EXTINF:-1,AR:MBC_1
+http://arabapps.live:8000/live/mobachiirr/f6mV0N9HKD/260.ts
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/1.0.0 (Linux;Android 6.0) ExoPlayerLib
+#EXTINF:-1,AR:MBC_2
+http://arabapps.live:8000/live/mobachiirr/f6mV0N9HKD/259.ts
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/1.0.0 (Linux;Android 6.0) ExoPlayerLib
+#EXTINF:-1,AR:MBC_3
+http://arabapps.live:8000/live/mobachiirr/f6mV0N9HKD/255.ts
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/1.0.0 (Linux;Android 6.0) ExoPlayerLib
+#EXTINF:-1,AR:MBC-4
+http://arabapps.live:8000/live/mobachiirr/f6mV0N9HKD/256.ts
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/1.0.0 (Linux;Android 6.0) ExoPlayerLib
+#EXTINF:-1,AR:MBC Action
+http://arabapps.live:8000/live/mobachiirr/f6mV0N9HKD/499.ts
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/1.0.0 (Linux;Android 6.0) ExoPlayerLib
+#EXTINF:-1,AR:MBC_Drama
+http://arabapps.live:8000/live/mobachiirr/f6mV0N9HKD/261.ts
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/1.0.0 (Linux;Android 6.0) ExoPlayerLib
+#EXTINF:-1,AR:MBC+Drama
+http://arabapps.live:8000/live/mobachiirr/f6mV0N9HKD/500.ts
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/1.0.0 (Linux;Android 6.0) ExoPlayerLib
+#EXTINF:-1,AR:MBC_Masr2
+http://arabapps.live:8000/live/mobachiirr/f6mV0N9HKD/262.ts
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/1.0.0 (Linux;Android 6.0) ExoPlayerLib
+#EXTINF:-1,AR:MBC_MASR
+http://arabapps.live:8000/live/mobachiirr/f6mV0N9HKD/263.ts
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/1.0.0 (Linux;Android 6.0) ExoPlayerLib
+#EXTINF:-1,AR:MBC-MAX
+http://arabapps.live:8000/live/mobachiirr/f6mV0N9HKD/257.ts
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/1.0.0 (Linux;Android 6.0) ExoPlayerLib
+#EXTINF:-1,AR:MBC_Bollywood
+http://arabapps.live:8000/live/mobachiirr/f6mV0N9HKD/254.ts
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/1.0.0 (Linux;Android 6.0) ExoPlayerLib
+#EXTINF:-1,AR-D:MBC
+http://arabapps.live:8000/live/mobachiirr/f6mV0N9HKD/606.ts
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/1.0.0 (Linux;Android 6.0) ExoPlayerLib
+#EXTINF:-1,AR-D:MBC2
+http://arabapps.live:8000/live/mobachiirr/f6mV0N9HKD/605.ts
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/1.0.0 (Linux;Android 6.0) ExoPlayerLib
+#EXTINF:-1,AR-D:MBC 3
+http://arabapps.live:8000/live/mobachiirr/f6mV0N9HKD/607.ts
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/1.0.0 (Linux;Android 6.0) ExoPlayerLib
+#EXTINF:-1,AR-D:MBC4
+http://arabapps.live:8000/live/mobachiirr/f6mV0N9HKD/604.ts
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/1.0.0 (Linux;Android 6.0) ExoPlayerLib
+#EXTINF:-1,AR-D:MBC Action
+http://arabapps.live:8000/live/mobachiirr/f6mV0N9HKD/603.ts
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/1.0.0 (Linux;Android 6.0) ExoPlayerLib
+#EXTINF:-1,AR-D:MBC bollowd
+http://arabapps.live:8000/live/mobachiirr/f6mV0N9HKD/601.ts
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/1.0.0 (Linux;Android 6.0) ExoPlayerLib
+#EXTINF:-1,AR-D:MBC Drama
+http://arabapps.live:8000/live/mobachiirr/f6mV0N9HKD/600.ts
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/1.0.0 (Linux;Android 6.0) ExoPlayerLib
+#EXTINF:-1,AR-D:MBC Masr
+http://arabapps.live:8000/live/mobachiirr/f6mV0N9HKD/599.ts
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/1.0.0 (Linux;Android 6.0) ExoPlayerLib
+#EXTINF:-1,AR-D:MBC Masr-2
+http://arabapps.live:8000/live/mobachiirr/f6mV0N9HKD/598.ts
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/1.0.0 (Linux;Android 6.0) ExoPlayerLib
+#EXTINF:-1,AR:MBC_PROSPORT1
+http://arabapps.live:8000/live/mobachiirr/f6mV0N9HKD/253.ts
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/1.0.0 (Linux;Android 6.0) ExoPlayerLib
+#EXTINF:-1,AR:MBC_PROSPORT2
+http://arabapps.live:8000/live/mobachiirr/f6mV0N9HKD/252.ts
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/1.0.0 (Linux;Android 6.0) ExoPlayerLib
+#EXTINF:-1,AR:MBC_PROSPORT3
+http://arabapps.live:8000/live/mobachiirr/f6mV0N9HKD/251.ts
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/1.0.0 (Linux;Android 6.0) ExoPlayerLib
+#EXTINF:-1,AR:MBC_PROSPORT4
+http://arabapps.live:8000/live/mobachiirr/f6mV0N9HKD/250.ts
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/1.0.0 (Linux;Android 6.0) ExoPlayerLib
+#EXTINF:-1,AR-D:MBC MAX
+http://arabapps.live:8000/live/mobachiirr/f6mV0N9HKD/602.ts
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/1.0.0 (Linux;Android 6.0) ExoPlayerLib
+#EXTINF:-1,============= AR CHANNELS =============
+http://arabapps.live:8000/live/mobachiirr/f6mV0N9HKD/490.ts
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/1.0.0 (Linux;Android 6.0) ExoPlayerLib
+#EXTINF:-1,AR-D:masrya
+http://arabapps.live:8000/live/mobachiirr/f6mV0N9HKD/558.ts
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/1.0.0 (Linux;Android 6.0) ExoPlayerLib
+#EXTINF:-1,AR-D:masrya1
+http://arabapps.live:8000/live/mobachiirr/f6mV0N9HKD/557.ts
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/1.0.0 (Linux;Android 6.0) ExoPlayerLib
+#EXTINF:-1,AR-Sharjah
+http://arabapps.live:8000/live/mobachiirr/f6mV0N9HKD/286.ts
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/1.0.0 (Linux;Android 6.0) ExoPlayerLib
+#EXTINF:-1,AR-PBC TV LIVE
+http://arabapps.live:8000/live/mobachiirr/f6mV0N9HKD/294.ts
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/1.0.0 (Linux;Android 6.0) ExoPlayerLib
+#EXTINF:-1,AR-PBC TV
+http://arabapps.live:8000/live/mobachiirr/f6mV0N9HKD/295.ts
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/1.0.0 (Linux;Android 6.0) ExoPlayerLib
+#EXTINF:-1,AR-MAAN TV
+http://arabapps.live:8000/live/mobachiirr/f6mV0N9HKD/293.ts
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/1.0.0 (Linux;Android 6.0) ExoPlayerLib
+#EXTINF:-1,AR-FRANCE 24 (AR)
+http://arabapps.live:8000/live/mobachiirr/f6mV0N9HKD/284.ts
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/1.0.0 (Linux;Android 6.0) ExoPlayerLib
+#EXTINF:-1,AR-DW arabic
+http://arabapps.live:8000/live/mobachiirr/f6mV0N9HKD/290.ts
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/1.0.0 (Linux;Android 6.0) ExoPlayerLib
+#EXTINF:-1,AR-CBC SOFRA
+http://arabapps.live:8000/live/mobachiirr/f6mV0N9HKD/311.ts
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/1.0.0 (Linux;Android 6.0) ExoPlayerLib
+#EXTINF:-1,AR-Almanar
+http://arabapps.live:8000/live/mobachiirr/f6mV0N9HKD/285.ts
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/1.0.0 (Linux;Android 6.0) ExoPlayerLib
+#EXTINF:-1,AR-AlKahera Wal Nas
+http://arabapps.live:8000/live/mobachiirr/f6mV0N9HKD/310.ts
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/1.0.0 (Linux;Android 6.0) ExoPlayerLib
+#EXTINF:-1,AR-Aljazeer
+http://arabapps.live:8000/live/mobachiirr/f6mV0N9HKD/292.ts
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/1.0.0 (Linux;Android 6.0) ExoPlayerLib
+#EXTINF:-1,AR-Al Hayat 2 (Egypt)
+http://arabapps.live:8000/live/mobachiirr/f6mV0N9HKD/307.ts
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/1.0.0 (Linux;Android 6.0) ExoPlayerLib
+#EXTINF:-1,AR-Al Hayat (Egypt)
+http://arabapps.live:8000/live/mobachiirr/f6mV0N9HKD/308.ts
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/1.0.0 (Linux;Android 6.0) ExoPlayerLib
+#EXTINF:-1,AR-Al Aan TV
+http://arabapps.live:8000/live/mobachiirr/f6mV0N9HKD/288.ts
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/1.0.0 (Linux;Android 6.0) ExoPlayerLib
+#EXTINF:-1,AR- Aljazeera Doc
+http://arabapps.live:8000/live/mobachiirr/f6mV0N9HKD/291.ts
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/1.0.0 (Linux;Android 6.0) ExoPlayerLib
+#EXTINF:-1,AL_MAJD_KIDS
+http://arabapps.live:8000/live/mobachiirr/f6mV0N9HKD/443.ts
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/1.0.0 (Linux;Android 6.0) ExoPlayerLib
+#EXTINF:-1,almajd
+http://arabapps.live:8000/live/mobachiirr/f6mV0N9HKD/442.ts
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/1.0.0 (Linux;Android 6.0) ExoPlayerLib
+#EXTINF:-1,art_aflam_1
+http://arabapps.live:8000/live/mobachiirr/f6mV0N9HKD/444.ts
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/1.0.0 (Linux;Android 6.0) ExoPlayerLib
+#EXTINF:-1,art_aflam_2
+http://arabapps.live:8000/live/mobachiirr/f6mV0N9HKD/445.ts
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/1.0.0 (Linux;Android 6.0) ExoPlayerLib
+#EXTINF:-1,ART_Cinema
+http://arabapps.live:8000/live/mobachiirr/f6mV0N9HKD/446.ts
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/1.0.0 (Linux;Android 6.0) ExoPlayerLib
+#EXTINF:-1,art_hekayat
+http://arabapps.live:8000/live/mobachiirr/f6mV0N9HKD/447.ts
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/1.0.0 (Linux;Android 6.0) ExoPlayerLib
+#EXTINF:-1,art_hekayat_2
+http://arabapps.live:8000/live/mobachiirr/f6mV0N9HKD/448.ts
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/1.0.0 (Linux;Android 6.0) ExoPlayerLib
+#EXTINF:-1,SeeVii Al oula HD
+http://arabapps.live:8000/live/mobachiirr/f6mV0N9HKD/451.ts
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/1.0.0 (Linux;Android 6.0) ExoPlayerLib
+#EXTINF:-1,SeeVii Beelink HD
+http://arabapps.live:8000/live/mobachiirr/f6mV0N9HKD/452.ts
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/1.0.0 (Linux;Android 6.0) ExoPlayerLib
+#EXTINF:-1,SeeVii Drama HD
+http://arabapps.live:8000/live/mobachiirr/f6mV0N9HKD/453.ts
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/1.0.0 (Linux;Android 6.0) ExoPlayerLib
+#EXTINF:-1,Alfajer
+http://arabapps.live:8000/live/mobachiirr/f6mV0N9HKD/303.ts
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/1.0.0 (Linux;Android 6.0) ExoPlayerLib
+#EXTINF:-1,Bethlehem TV
+http://arabapps.live:8000/live/mobachiirr/f6mV0N9HKD/302.ts
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/1.0.0 (Linux;Android 6.0) ExoPlayerLib
+#EXTINF:-1,AR-D:Abu Dhabi drama
+http://arabapps.live:8000/live/mobachiirr/f6mV0N9HKD/575.ts
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/1.0.0 (Linux;Android 6.0) ExoPlayerLib
+#EXTINF:-1,ALG-Algeria
+http://arabapps.live:8000/live/mobachiirr/f6mV0N9HKD/841.ts
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/1.0.0 (Linux;Android 6.0) ExoPlayerLib
+#EXTINF:-1,ALG-Almagharibia
+http://arabapps.live:8000/live/mobachiirr/f6mV0N9HKD/834.ts
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/1.0.0 (Linux;Android 6.0) ExoPlayerLib
+#EXTINF:-1,ALG-Echorouk-Benna
+http://arabapps.live:8000/live/mobachiirr/f6mV0N9HKD/832.ts
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/1.0.0 (Linux;Android 6.0) ExoPlayerLib
+#EXTINF:-1,ALG-Echorouk.News
+http://arabapps.live:8000/live/mobachiirr/f6mV0N9HKD/833.ts
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/1.0.0 (Linux;Android 6.0) ExoPlayerLib
+#EXTINF:-1,ALG-ELBILAD
+http://arabapps.live:8000/live/mobachiirr/f6mV0N9HKD/835.ts
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/1.0.0 (Linux;Android 6.0) ExoPlayerLib
+#EXTINF:-1,ALG-Ennahar-tv
+http://arabapps.live:8000/live/mobachiirr/f6mV0N9HKD/831.ts
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/1.0.0 (Linux;Android 6.0) ExoPlayerLib
+#EXTINF:-1,ALG-samiratv
+http://arabapps.live:8000/live/mobachiirr/f6mV0N9HKD/829.ts
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/1.0.0 (Linux;Android 6.0) ExoPlayerLib
+#EXTINF:-1,ALG-Algeria1
+http://arabapps.live:8000/live/mobachiirr/f6mV0N9HKD/903.ts
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/1.0.0 (Linux;Android 6.0) ExoPlayerLib
+#EXTINF:-1,ALG-Echorouk TV
+http://arabapps.live:8000/live/mobachiirr/f6mV0N9HKD/902.ts
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/1.0.0 (Linux;Android 6.0) ExoPlayerLib
+#EXTINF:-1,AR-AlHiwarEttounsi
+http://arabapps.live:8000/live/mobachiirr/f6mV0N9HKD/818.ts
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/1.0.0 (Linux;Android 6.0) ExoPlayerLib
+#EXTINF:-1,AR-ALJANOUBIA
+http://arabapps.live:8000/live/mobachiirr/f6mV0N9HKD/815.ts
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/1.0.0 (Linux;Android 6.0) ExoPlayerLib
+#EXTINF:-1,AR-attassiatv
+http://arabapps.live:8000/live/mobachiirr/f6mV0N9HKD/819.ts
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/1.0.0 (Linux;Android 6.0) ExoPlayerLib
+#EXTINF:-1,AR-D:Alfajer-1
+http://arabapps.live:8000/live/mobachiirr/f6mV0N9HKD/522.ts
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/1.0.0 (Linux;Android 6.0) ExoPlayerLib
+#EXTINF:-1,AR-D:Alfajer-2
+http://arabapps.live:8000/live/mobachiirr/f6mV0N9HKD/521.ts
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/1.0.0 (Linux;Android 6.0) ExoPlayerLib
+#EXTINF:-1,AR-D:Alfajer-3
+http://arabapps.live:8000/live/mobachiirr/f6mV0N9HKD/520.ts
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/1.0.0 (Linux;Android 6.0) ExoPlayerLib
+#EXTINF:-1,AR-D:Alfajer-4
+http://arabapps.live:8000/live/mobachiirr/f6mV0N9HKD/519.ts
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/1.0.0 (Linux;Android 6.0) ExoPlayerLib
+#EXTINF:-1,AR-D:bethlehemtv
+http://arabapps.live:8000/live/mobachiirr/f6mV0N9HKD/526.ts
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/1.0.0 (Linux;Android 6.0) ExoPlayerLib
+#EXTINF:-1,AR-D:NAS
+http://arabapps.live:8000/live/mobachiirr/f6mV0N9HKD/524.ts
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/1.0.0 (Linux;Android 6.0) ExoPlayerLib
+#EXTINF:-1,AR-D:Raya
+http://arabapps.live:8000/live/mobachiirr/f6mV0N9HKD/517.ts
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/1.0.0 (Linux;Android 6.0) ExoPlayerLib
+#EXTINF:-1,AR-D:Raya*
+http://arabapps.live:8000/live/mobachiirr/f6mV0N9HKD/518.ts
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/1.0.0 (Linux;Android 6.0) ExoPlayerLib
+#EXTINF:-1,AR-hanibal
+http://arabapps.live:8000/live/mobachiirr/f6mV0N9HKD/820.ts
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/1.0.0 (Linux;Android 6.0) ExoPlayerLib
+#EXTINF:-1,AR-MTunisia
+http://arabapps.live:8000/live/mobachiirr/f6mV0N9HKD/816.ts
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/1.0.0 (Linux;Android 6.0) ExoPlayerLib
+#EXTINF:-1,AR-NESSMA
+http://arabapps.live:8000/live/mobachiirr/f6mV0N9HKD/821.ts
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/1.0.0 (Linux;Android 6.0) ExoPlayerLib
+#EXTINF:-1,AR-TELVZATV
+http://arabapps.live:8000/live/mobachiirr/f6mV0N9HKD/822.ts
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/1.0.0 (Linux;Android 6.0) ExoPlayerLib
+#EXTINF:-1,AR-TunisieNATIONAL1
+http://arabapps.live:8000/live/mobachiirr/f6mV0N9HKD/826.ts
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/1.0.0 (Linux;Android 6.0) ExoPlayerLib
+#EXTINF:-1,AR-TunisieNATIONAL2
+http://arabapps.live:8000/live/mobachiirr/f6mV0N9HKD/825.ts
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/1.0.0 (Linux;Android 6.0) ExoPlayerLib
+#EXTINF:-1,AR-Tunisna
+http://arabapps.live:8000/live/mobachiirr/f6mV0N9HKD/823.ts
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/1.0.0 (Linux;Android 6.0) ExoPlayerLib
+#EXTINF:-1,AR-zaitouna
+http://arabapps.live:8000/live/mobachiirr/f6mV0N9HKD/824.ts
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/1.0.0 (Linux;Android 6.0) ExoPlayerLib
+#EXTINF:-1,BERBERE TELEVISION
+http://arabapps.live:8000/live/mobachiirr/f6mV0N9HKD/828.ts
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/1.0.0 (Linux;Android 6.0) ExoPlayerLib
+#EXTINF:-1,AR-D:Salam
+http://arabapps.live:8000/live/mobachiirr/f6mV0N9HKD/525.ts
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/1.0.0 (Linux;Android 6.0) ExoPlayerLib
+#EXTINF:-1,2M Maroc
+http://arabapps.live:8000/live/mobachiirr/f6mV0N9HKD/861.ts
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/1.0.0 (Linux;Android 6.0) ExoPlayerLib
+#EXTINF:-1,AR:SNRT-8
+http://arabapps.live:8000/live/mobachiirr/f6mV0N9HKD/501.ts
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/1.0.0 (Linux;Android 6.0) ExoPlayerLib
+#EXTINF:-1,AR:SNRT-2-LAAYOUNE
+http://arabapps.live:8000/live/mobachiirr/f6mV0N9HKD/506.ts
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/1.0.0 (Linux;Android 6.0) ExoPlayerLib
+#EXTINF:-1,AR:SNRT-3-ARRIADIA
+http://dmiptv.noip.me:8000/live/carino/vLGFmRffmC/1039.ts
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/1.0.0 (Linux;Android 6.0) ExoPlayerLib
+#EXTINF:-1,AR:SNRT-4-ARRABIAA-dec
+http://arabapps.live:8000/live/mobachiirr/f6mV0N9HKD/504.ts
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/1.0.0 (Linux;Android 6.0) ExoPlayerLib
+#EXTINF:-1,AR:SNRT-5-AL_MAGHRIBIA
+http://arabapps.live:8000/live/mobachiirr/f6mV0N9HKD/503.ts
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/1.0.0 (Linux;Android 6.0) ExoPlayerLib
+#EXTINF:-1,AR:SNRT-6
+http://arabapps.live:8000/live/mobachiirr/f6mV0N9HKD/502.ts
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/1.0.0 (Linux;Android 6.0) ExoPlayerLib
+#EXTINF:-1,AR:SNRT-AL-AOULA
+http://arabapps.live:8000/live/mobachiirr/f6mV0N9HKD/507.ts
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/1.0.0 (Linux;Android 6.0) ExoPlayerLib
+#EXTINF:-1,AR-D:Abu Dhabi TV
+http://arabapps.live:8000/live/mobachiirr/f6mV0N9HKD/576.ts
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/1.0.0 (Linux;Android 6.0) ExoPlayerLib
+#EXTINF:-1,AR-D:ABU DHABI TV sd
+http://arabapps.live:8000/live/mobachiirr/f6mV0N9HKD/577.ts
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/1.0.0 (Linux;Android 6.0) ExoPlayerLib
+#EXTINF:-1,AR-D:Ajyal
+http://arabapps.live:8000/live/mobachiirr/f6mV0N9HKD/516.ts
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/1.0.0 (Linux;Android 6.0) ExoPlayerLib
+#EXTINF:-1,AR-D:ajyial
+http://arabapps.live:8000/live/mobachiirr/f6mV0N9HKD/539.ts
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/1.0.0 (Linux;Android 6.0) ExoPlayerLib
+#EXTINF:-1,AR-D:Al Arabiya
+http://arabapps.live:8000/live/mobachiirr/f6mV0N9HKD/591.ts
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/1.0.0 (Linux;Android 6.0) ExoPlayerLib
+#EXTINF:-1,AR-D:AL ARABIYA sd
+http://arabapps.live:8000/live/mobachiirr/f6mV0N9HKD/590.ts
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/1.0.0 (Linux;Android 6.0) ExoPlayerLib
+#EXTINF:-1,AR-D:al dhafra
+http://arabapps.live:8000/live/mobachiirr/f6mV0N9HKD/560.ts
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/1.0.0 (Linux;Android 6.0) ExoPlayerLib
+#EXTINF:-1,AR-D:Al Ekhbaria
+http://arabapps.live:8000/live/mobachiirr/f6mV0N9HKD/594.ts
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/1.0.0 (Linux;Android 6.0) ExoPlayerLib
+#EXTINF:-1,AR-D:Al Hadath
+http://arabapps.live:8000/live/mobachiirr/f6mV0N9HKD/593.ts
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/1.0.0 (Linux;Android 6.0) ExoPlayerLib
+#EXTINF:-1,AR-D:AL HADATH sd
+http://arabapps.live:8000/live/mobachiirr/f6mV0N9HKD/592.ts
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/1.0.0 (Linux;Android 6.0) ExoPlayerLib
+#EXTINF:-1,AR-D:Al Jadeed
+http://arabapps.live:8000/live/mobachiirr/f6mV0N9HKD/572.ts
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/1.0.0 (Linux;Android 6.0) ExoPlayerLib
+#EXTINF:-1,AR-D:AL RESALAH
+http://arabapps.live:8000/live/mobachiirr/f6mV0N9HKD/528.ts
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/1.0.0 (Linux;Android 6.0) ExoPlayerLib
+#EXTINF:-1,AR-D:Al Sharjah tv
+http://arabapps.live:8000/live/mobachiirr/f6mV0N9HKD/534.ts
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/1.0.0 (Linux;Android 6.0) ExoPlayerLib
+#EXTINF:-1,AR-D:Al Sharqyia
+http://arabapps.live:8000/live/mobachiirr/f6mV0N9HKD/533.ts
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/1.0.0 (Linux;Android 6.0) ExoPlayerLib
+#EXTINF:-1,AR-D:Al Wosta
+http://arabapps.live:8000/live/mobachiirr/f6mV0N9HKD/532.ts
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/1.0.0 (Linux;Android 6.0) ExoPlayerLib
+#EXTINF:-1,AR-D:Alaan tv
+http://arabapps.live:8000/live/mobachiirr/f6mV0N9HKD/568.ts
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/1.0.0 (Linux;Android 6.0) ExoPlayerLib
+#EXTINF:-1,AR-D:AlfajerInt
+http://arabapps.live:8000/live/mobachiirr/f6mV0N9HKD/523.ts
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/1.0.0 (Linux;Android 6.0) ExoPlayerLib
+#EXTINF:-1,AR-D:alhayat2
+http://arabapps.live:8000/live/mobachiirr/f6mV0N9HKD/549.ts
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/1.0.0 (Linux;Android 6.0) ExoPlayerLib
+#EXTINF:-1,AR-D:aljazeera
+http://arabapps.live:8000/live/mobachiirr/f6mV0N9HKD/588.ts
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/1.0.0 (Linux;Android 6.0) ExoPlayerLib
+#EXTINF:-1,AR-D:aljazeera hd
+http://arabapps.live:8000/live/mobachiirr/f6mV0N9HKD/589.ts
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/1.0.0 (Linux;Android 6.0) ExoPlayerLib
+#EXTINF:-1,AR-D:alkahera walnas
+http://arabapps.live:8000/live/mobachiirr/f6mV0N9HKD/550.ts
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/1.0.0 (Linux;Android 6.0) ExoPlayerLib
+#EXTINF:-1,AR-D:almajlis
+http://arabapps.live:8000/live/mobachiirr/f6mV0N9HKD/562.ts
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/1.0.0 (Linux;Android 6.0) ExoPlayerLib
+#EXTINF:-1,AR-D:alnahar
+http://arabapps.live:8000/live/mobachiirr/f6mV0N9HKD/552.ts
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/1.0.0 (Linux;Android 6.0) ExoPlayerLib
+#EXTINF:-1,AR-D:alnahar drama
+http://arabapps.live:8000/live/mobachiirr/f6mV0N9HKD/551.ts
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/1.0.0 (Linux;Android 6.0) ExoPlayerLib
+#EXTINF:-1,AR-D:Alri tv
+http://arabapps.live:8000/live/mobachiirr/f6mV0N9HKD/536.ts
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/1.0.0 (Linux;Android 6.0) ExoPlayerLib
+#EXTINF:-1,AR-D:b4u aflam
+http://arabapps.live:8000/live/mobachiirr/f6mV0N9HKD/559.ts
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/1.0.0 (Linux;Android 6.0) ExoPlayerLib
+#EXTINF:-1,AR-D:bahrin
+http://arabapps.live:8000/live/mobachiirr/f6mV0N9HKD/561.ts
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/1.0.0 (Linux;Android 6.0) ExoPlayerLib
+#EXTINF:-1,AR-D:bbc arabic
+http://arabapps.live:8000/live/mobachiirr/f6mV0N9HKD/587.ts
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/1.0.0 (Linux;Android 6.0) ExoPlayerLib
+#EXTINF:-1,AR-D:cbc
+http://arabapps.live:8000/live/mobachiirr/f6mV0N9HKD/556.ts
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/1.0.0 (Linux;Android 6.0) ExoPlayerLib
+#EXTINF:-1,AR-D:cbc drama
+http://arabapps.live:8000/live/mobachiirr/f6mV0N9HKD/554.ts
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/1.0.0 (Linux;Android 6.0) ExoPlayerLib
+#EXTINF:-1,AR-D:cbc news
+http://arabapps.live:8000/live/mobachiirr/f6mV0N9HKD/553.ts
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/1.0.0 (Linux;Android 6.0) ExoPlayerLib
+#EXTINF:-1,AR-D:cbc sofra
+http://arabapps.live:8000/live/mobachiirr/f6mV0N9HKD/555.ts
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/1.0.0 (Linux;Android 6.0) ExoPlayerLib
+#EXTINF:-1,AR-D:DUBAI AL OULA sd
+http://arabapps.live:8000/live/mobachiirr/f6mV0N9HKD/581.ts
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/1.0.0 (Linux;Android 6.0) ExoPlayerLib
+#EXTINF:-1,AR-D:DUBAI ONE
+http://arabapps.live:8000/live/mobachiirr/f6mV0N9HKD/578.ts
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/1.0.0 (Linux;Android 6.0) ExoPlayerLib
+#EXTINF:-1,AR-D:Emarat
+http://arabapps.live:8000/live/mobachiirr/f6mV0N9HKD/574.ts
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/1.0.0 (Linux;Android 6.0) ExoPlayerLib
+#EXTINF:-1,AR-D:france 24
+http://arabapps.live:8000/live/mobachiirr/f6mV0N9HKD/585.ts
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/1.0.0 (Linux;Android 6.0) ExoPlayerLib
+#EXTINF:-1,AR-D:funoontv
+http://arabapps.live:8000/live/mobachiirr/f6mV0N9HKD/582.ts
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/1.0.0 (Linux;Android 6.0) ExoPlayerLib
+#EXTINF:-1,AR-D:future
+http://arabapps.live:8000/live/mobachiirr/f6mV0N9HKD/570.ts
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/1.0.0 (Linux;Android 6.0) ExoPlayerLib
+#EXTINF:-1,AR-D:Hawas
+http://arabapps.live:8000/live/mobachiirr/f6mV0N9HKD/567.ts
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/1.0.0 (Linux;Android 6.0) ExoPlayerLib
+#EXTINF:-1,AR-D:jordon
+http://arabapps.live:8000/live/mobachiirr/f6mV0N9HKD/566.ts
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/1.0.0 (Linux;Android 6.0) ExoPlayerLib
+#EXTINF:-1,AR-D:kuwait 1
+http://arabapps.live:8000/live/mobachiirr/f6mV0N9HKD/565.ts
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/1.0.0 (Linux;Android 6.0) ExoPlayerLib
+#EXTINF:-1,AR-D:kuwait 2
+http://arabapps.live:8000/live/mobachiirr/f6mV0N9HKD/564.ts
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/1.0.0 (Linux;Android 6.0) ExoPlayerLib
+#EXTINF:-1,AR-D:kuwait qurain
+http://arabapps.live:8000/live/mobachiirr/f6mV0N9HKD/563.ts
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/1.0.0 (Linux;Android 6.0) ExoPlayerLib
+#EXTINF:-1,AR-D:MTV Lebanon
+http://arabapps.live:8000/live/mobachiirr/f6mV0N9HKD/573.ts
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/1.0.0 (Linux;Android 6.0) ExoPlayerLib
+#EXTINF:-1,AR-D:national geographic
+http://arabapps.live:8000/live/mobachiirr/f6mV0N9HKD/538.ts
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/1.0.0 (Linux;Android 6.0) ExoPlayerLib
+#EXTINF:-1,AR-D:national geographic*
+http://arabapps.live:8000/live/mobachiirr/f6mV0N9HKD/537.ts
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/1.0.0 (Linux;Android 6.0) ExoPlayerLib
+#EXTINF:-1,AR-D:Syria Drama HD
+http://arabapps.live:8000/live/mobachiirr/f6mV0N9HKD/569.ts
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/1.0.0 (Linux;Android 6.0) ExoPlayerLib
+#EXTINF:-1,AR-D:SAMA DUBAI
+http://arabapps.live:8000/live/mobachiirr/f6mV0N9HKD/579.ts
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/1.0.0 (Linux;Android 6.0) ExoPlayerLib
+#EXTINF:-1,AR-D:nile cinema
+http://arabapps.live:8000/live/mobachiirr/f6mV0N9HKD/545.ts
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/1.0.0 (Linux;Android 6.0) ExoPlayerLib
+#EXTINF:-1,AR-D:nile drama
+http://arabapps.live:8000/live/mobachiirr/f6mV0N9HKD/546.ts
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/1.0.0 (Linux;Android 6.0) ExoPlayerLib
+#EXTINF:-1,AR-D:nile family
+http://arabapps.live:8000/live/mobachiirr/f6mV0N9HKD/547.ts
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/1.0.0 (Linux;Android 6.0) ExoPlayerLib
+#EXTINF:-1,AR-D:oman tv
+http://arabapps.live:8000/live/mobachiirr/f6mV0N9HKD/535.ts
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/1.0.0 (Linux;Android 6.0) ExoPlayerLib
+#EXTINF:-1,AR-D:panorama drama
+http://arabapps.live:8000/live/mobachiirr/f6mV0N9HKD/543.ts
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/1.0.0 (Linux;Android 6.0) ExoPlayerLib
+#EXTINF:-1,AR-D:panorama drama 2
+http://arabapps.live:8000/live/mobachiirr/f6mV0N9HKD/542.ts
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/1.0.0 (Linux;Android 6.0) ExoPlayerLib
+#EXTINF:-1,AR-D:panorama food
+http://arabapps.live:8000/live/mobachiirr/f6mV0N9HKD/544.ts
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/1.0.0 (Linux;Android 6.0) ExoPlayerLib
+#EXTINF:-1,AR-D:RO
+http://arabapps.live:8000/live/mobachiirr/f6mV0N9HKD/531.ts
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/1.0.0 (Linux;Android 6.0) ExoPlayerLib
+#EXTINF:-1,AR-D:RT arabic
+http://arabapps.live:8000/live/mobachiirr/f6mV0N9HKD/584.ts
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/1.0.0 (Linux;Android 6.0) ExoPlayerLib
+#EXTINF:-1,AR-D:RT arabic sd
+http://arabapps.live:8000/live/mobachiirr/f6mV0N9HKD/583.ts
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/1.0.0 (Linux;Android 6.0) ExoPlayerLib
+#EXTINF:-1,AR-D:sada albalad
+http://arabapps.live:8000/live/mobachiirr/f6mV0N9HKD/548.ts
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/1.0.0 (Linux;Android 6.0) ExoPlayerLib
+#EXTINF:-1,AR-D:saudi sport 1
+http://arabapps.live:8000/live/mobachiirr/f6mV0N9HKD/596.ts
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/1.0.0 (Linux;Android 6.0) ExoPlayerLib
+#EXTINF:-1,AR-D:saudi thaqafia
+http://arabapps.live:8000/live/mobachiirr/f6mV0N9HKD/530.ts
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/1.0.0 (Linux;Android 6.0) ExoPlayerLib
+#EXTINF:-1,AR-D:spacetoon
+http://arabapps.live:8000/live/mobachiirr/f6mV0N9HKD/540.ts
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/1.0.0 (Linux;Android 6.0) ExoPlayerLib
+#EXTINF:-1,SAUDI Sp_24
+http://arabapps.live:8000/live/mobachiirr/f6mV0N9HKD/595.ts
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/1.0.0 (Linux;Android 6.0) ExoPlayerLib
+#EXTINF:-1,AR-D:LDC
+http://arabapps.live:8000/live/mobachiirr/f6mV0N9HKD/571.ts
