@@ -1,634 +1,191 @@
 
 #EXTINF:-1 tvg-logo="http://expatescort.com/public/img/flags/de.png" group-title="LABEL",~ Germany TV ~
 http://www.lengua.com/anthems/Germany.mp3
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,•●★- SKY DE -★●•
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/4200.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,DE:3Sat 4K
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/7048.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,DE:A&E HD DE
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/6875.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,DE:ANIXE HD
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/6878.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,DE:ARD
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/6908.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,DE:ARTE
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/6885.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,DE:Arte 4K
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/7047.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,DE:AXN
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/6887.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,DE:BAYERN FC TV 4K
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/7012.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,DE:Boomerang DE
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/6869.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,DE:Cartoon Network DE
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/6871.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,DE:CHELSEA TV
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/6953.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,DE:Das Erste 4K
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/7046.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,DE:Discovery 4K
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/7045.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,DE:DISNEY CHANNEL DE
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/6868.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,DE:Disney Cinemacig 4K
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/7044.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,DE:Disney Junior 4K
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/7043.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,DE:E! Entertainment 4K
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/7042.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,DE:Europort 2 Xtra 4K
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/7041.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,DE:Eurosport 1 4K
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/7040.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,DE:EuroSport 1 HD DE
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/6936.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,DE:Eurosport 2 4K
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/7039.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,DE:EuroSport 2 HD DE
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/6935.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,DE:Family TV
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/6872.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,DE:FILM CLUB HD 1
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/6921.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,DE:FILM CLUB HD 2
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/6920.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,DE:FILM CLUB HD 3
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/6919.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,DE:FILM CLUB HD 4
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/6918.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,DE:FILM CLUB HD 5
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/6917.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,DE:FOX
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/7003.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,DE:FOX  1
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/6992.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,DE:Fox 4K
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/7038.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,DE:Fox Crime
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/6990.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,DE:Fox Life
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/6991.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,DE:Fox Serie
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/6884.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,DE:FOX SPORTS
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/7005.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,DE:History 4K
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/7037.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,DE:HISTORY HD DE
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/6909.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,DE:Inter Channel
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/6950.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,DE:ITALIA 1 HD
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/6989.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,DE:ITALIA 2 HD
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/6988.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,DE:Jukebox
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/6873.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,DE:Kabel 1
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/6891.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,DE:kabel Doku
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/6889.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,DE:Kabel Eins 4K
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/7036.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,DE:Kabel Eins HD
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/6888.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,DE:Kabel Journal
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/6890.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,DE:KiKa 4K
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/7035.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,DE:Milan Channel
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/6949.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,DE:MUTV
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/6955.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,DE:MUTV 4K
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/7011.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,DE:Nat Geo 4K
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/7034.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,DE:Nat Geo Wild 4K
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/7033.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,DE:NATIONAL GEO DE
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/6916.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,DE:NATIONAL GEO WILD DE
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/6915.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,DE:NICK JUNIOR DE
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/6867.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,DE:NICKLODEON DE
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/6866.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,DE:One 4K
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/7032.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,DE:ORF1
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/6898.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,DE:ORF 2 HD
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/6897.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,DE:Phoenix 4K
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/7031.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,DE:PRO 7
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/6896.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,DE:Pro 7 4K
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/7030.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,DE:PRO MAX 7
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/6892.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,DE:Pro Sieben MAXX HD
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/6895.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,DE:Pro7 Fun HD
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/6894.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,DE:ProSieben HD
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/6893.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,DE:RAI 2 HD
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/6983.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,DE:RAI 3 HD
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/6982.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,DE:RAI 4 HD
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/6981.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,DE:RAI 5 HD
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/6980.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,DE:RAI MOVIE HD
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/6979.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,DE:Rai Sport 1 HD
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/6978.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,DE:Rai Sport 2
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/6977.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,DE:RBB 4K
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/7029.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,DE:REAL MADRID TV
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/6956.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,DE:Roma TV
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/6952.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,DE:RTL
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/6903.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,DE:RTL 4K
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/7028.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,DE:RTL Crime 4K
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/7027.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,DE:RTL Living HD
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/6899.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,DE:RTL PASSION HD
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/6900.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,DE:RTL2
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/6902.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,DE:Sat 1 4K
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/7026.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,DE:Sat 1 HD
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/6904.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,DE:Sky Sport 24
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/7007.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,DE:Servus TV 4K
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/7025.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,DE:Sixx
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/6886.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,DE:SKY 13 STREET HD
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/6910.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,DE:Sky 3D
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/6976.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,DE:SKY ATLANTIC HD
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/6929.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,DE:Sky Bundesliga 1HD
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/6946.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,DE:Sky Bundesliga 2HD
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/6945.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,DE:Sky Bundesliga 5HD
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/6942.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,DE:Sky Bundesliga 6HD
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/6941.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,DE:SKY CINEMA 1HD
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/7002.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,DE:SKY CINEMA 24HD
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/6994.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,DE:Sky Cinema Classic HD
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/6995.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,DE:Sky Cinema Comedy HD
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/6996.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,DE: Sky Cinema Cult HD
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/6997.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,DE:Sky Cinema Family HD
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/6998.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,DE:SKY CINEMA HD
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/6933.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,DE:Sky Cinema Hits HD
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/6999.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,DE:SKY CINEMA MAX HD
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/7000.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,DE:Sky Cinema Passion HD
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/7001.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,DE:SKY COMEDY HD
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/6931.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,DE:SKY DISCOVERY CHANNEL HD
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/6912.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,DE:SKY DISNEY CINEMAGIC
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/6911.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,DE:SKY EMOTION
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/6932.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,DE:SKY HITS
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/6930.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,DE:SKY KRIMI HD
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/6928.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,DE:SKY MGM HD
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/6927.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,DE:SKY NATGEO WILD HD
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/6914.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,DE:13th Street 4K
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/7049.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,DE:SKY NATIONAL GEOGRAPHIC HD
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/6913.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,DE:SKY SELECT 1 HD
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/6926.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,DE:SKY SELECT 2 HD
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/6925.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,DE:SKY SELECT 3 HD
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/6924.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,DE:SKY SELECT 4 HD
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/6923.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,DE:SKY SELECT 5 HD
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/6922.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,DE:Sky Sport 1 4K
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/7024.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,DE:Sky Sport 2 4K
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/7023.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,DE:Sky Sport Bundesliga 4K
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/7022.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,DE:SKY SPORT HD 1
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/6948.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,DE:SKY SPORT HD 2
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/6947.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,DE:Sky Sports 1
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/7010.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,DE:Sky Sports 2
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/7009.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,DE:Sky Sports 3
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/7008.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,DE:Sky Sports F1
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/7006.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,DE:Sky UNO
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/6993.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,DE:Spiegel Gesichte 4K
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/7021.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,DE:Sport Digital HD
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/6934.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,DE:SUPER RTL
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/6901.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,DE:Supercalcio
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/7004.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,DE:SyFy 4K
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/7020.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,DE:TNT Comedy
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/6883.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,DE:TNT Comedy 4K
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/7019.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,DE:TNT FILME
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/6882.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,DE:TNT Serie
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/6881.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,DE:TNT Serie 4K
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/7018.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,DE:Universal HD DE
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/6880.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,DE:VOX 4K
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/7017.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,DE:ZDF 4K
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/7016.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,DE:ZDF info
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/6906.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,DE:ZDF Info 4K
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/7015.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,DE:ZDF Neo 4K
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/7014.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,DE:Zee One
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/6874.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,DE:Zee One 4K
-http://195.154.154.33:25461/live/EfaTvz6p0B/tTqQFVcjZy/7013.ts
-#EXTVLCOPT:http-user-agent=New#FreeV3X1....
+
+#EXTVLCOPT:http-user-agent=New#FreeV3X2...
 #EXTINF:-1,DE:ZDF Neo
 http://srvt.topiptv.org:80/live/Acc_AM.V3X1x/App65080/1489.ts
-#EXTVLCOPT:http-user-agent=New#FreeV3X1....
+#EXTVLCOPT:http-user-agent=New#FreeV3X2...
 #EXTINF:-1,DE:SIXX HD
 http://srvt.topiptv.org:80/live/Acc_AM.V3X1x/App65080/1490.ts
-#EXTVLCOPT:http-user-agent=New#FreeV3X1....
+#EXTVLCOPT:http-user-agent=New#FreeV3X2...
 #EXTINF:-1,DE:ZDF info
 http://srvt.topiptv.org:80/live/Acc_AM.V3X1x/App65080/1491.ts
-#EXTVLCOPT:http-user-agent=New#FreeV3X1....
+#EXTVLCOPT:http-user-agent=New#FreeV3X2...
 #EXTINF:-1,DE:ZDF HD
 http://srvt.topiptv.org:80/live/Acc_AM.V3X1x/App65080/1492.ts
-#EXTVLCOPT:http-user-agent=New#FreeV3X1....
+#EXTVLCOPT:http-user-agent=New#FreeV3X2...
 #EXTINF:-1,DE:ZDF 3 SAT
 http://srvt.topiptv.org:80/live/Acc_AM.V3X1x/App65080/1493.ts
-#EXTVLCOPT:http-user-agent=New#FreeV3X1....
+#EXTVLCOPT:http-user-agent=New#FreeV3X2...
 #EXTINF:-1,DE:Sky Bundesliga 2
 http://srvt.topiptv.org:80/live/Acc_AM.V3X1x/App65080/1732.ts
-#EXTVLCOPT:http-user-agent=New#FreeV3X1....
+#EXTVLCOPT:http-user-agent=New#FreeV3X2...
 #EXTINF:-1,DE:HR HD
 http://srvt.topiptv.org:80/live/Acc_AM.V3X1x/App65080/1698.ts
-#EXTVLCOPT:http-user-agent=New#FreeV3X1....
+#EXTVLCOPT:http-user-agent=New#FreeV3X2...
 #EXTINF:-1,DE:Sky Cinema Star Wars
 http://srvt.topiptv.org:80/live/Acc_AM.V3X1x/App65080/1496.ts
-#EXTVLCOPT:http-user-agent=New#FreeV3X1....
+#EXTVLCOPT:http-user-agent=New#FreeV3X2...
 #EXTINF:-1,DE:VIVA Comedy
 http://srvt.topiptv.org:80/live/Acc_AM.V3X1x/App65080/1731.ts
-#EXTVLCOPT:http-user-agent=New#FreeV3X1....
+#EXTVLCOPT:http-user-agent=New#FreeV3X2...
 #EXTINF:-1,DE:Wdr HD
 http://srvt.topiptv.org:80/live/Acc_AM.V3X1x/App65080/846.ts
-#EXTVLCOPT:http-user-agent=New#FreeV3X1....
+#EXTVLCOPT:http-user-agent=New#FreeV3X2...
 #EXTINF:-1,DE:VOX HD
 http://srvt.topiptv.org:80/live/Acc_AM.V3X1x/App65080/847.ts
-#EXTVLCOPT:http-user-agent=New#FreeV3X1....
+#EXTVLCOPT:http-user-agent=New#FreeV3X2...
 #EXTINF:-1,DE:SAT 1 Bayern
 http://srvt.topiptv.org:80/live/Acc_AM.V3X1x/App65080/849.ts
-#EXTVLCOPT:http-user-agent=New#FreeV3X1....
+#EXTVLCOPT:http-user-agent=New#FreeV3X2...
 #EXTINF:-1,DE:Super RTL
 http://srvt.topiptv.org:80/live/Acc_AM.V3X1x/App65080/850.ts
-#EXTVLCOPT:http-user-agent=New#FreeV3X1....
+#EXTVLCOPT:http-user-agent=New#FreeV3X2...
 #EXTINF:-1,DE:Disney Cinemagic FHD
 http://srvt.topiptv.org:80/live/Acc_AM.V3X1x/App65080/851.ts
-#EXTVLCOPT:http-user-agent=New#FreeV3X1....
+#EXTVLCOPT:http-user-agent=New#FreeV3X2...
 #EXTINF:-1,DE:Sky Sport Austria HD
 http://srvt.topiptv.org:80/live/Acc_AM.V3X1x/App65080/852.ts
-#EXTVLCOPT:http-user-agent=New#FreeV3X1....
+#EXTVLCOPT:http-user-agent=New#FreeV3X2...
 #EXTINF:-1,DE:Sky NatGeo Wild HD
 http://srvt.topiptv.org:80/live/Acc_AM.V3X1x/App65080/868.ts
-#EXTVLCOPT:http-user-agent=New#FreeV3X1....
+#EXTVLCOPT:http-user-agent=New#FreeV3X2...
 #EXTINF:-1,DE:Classica
 http://srvt.topiptv.org:80/live/Acc_AM.V3X1x/App65080/869.ts
-#EXTVLCOPT:http-user-agent=New#FreeV3X1....
+#EXTVLCOPT:http-user-agent=New#FreeV3X2...
 #EXTINF:-1,DE:Sky Sport News HD
 http://srvt.topiptv.org:80/live/Acc_AM.V3X1x/App65080/870.ts
-#EXTVLCOPT:http-user-agent=New#FreeV3X1....
+#EXTVLCOPT:http-user-agent=New#FreeV3X2...
 #EXTINF:-1,DE:Sky Cinema Hits HD
 http://srvt.topiptv.org:80/live/Acc_AM.V3X1x/App65080/871.ts
-#EXTVLCOPT:http-user-agent=New#FreeV3X1....
+#EXTVLCOPT:http-user-agent=New#FreeV3X2...
 #EXTINF:-1,DE:Disney cinemagic HD
 http://srvt.topiptv.org:80/live/Acc_AM.V3X1x/App65080/872.ts
-#EXTVLCOPT:http-user-agent=New#FreeV3X1....
+#EXTVLCOPT:http-user-agent=New#FreeV3X2...
 #EXTINF:-1,DE:Sky Fox HD
 http://srvt.topiptv.org:80/live/Acc_AM.V3X1x/App65080/873.ts
-#EXTVLCOPT:http-user-agent=New#FreeV3X1....
+#EXTVLCOPT:http-user-agent=New#FreeV3X2...
 #EXTINF:-1,DE:Sky Emotion
 http://srvt.topiptv.org:80/live/Acc_AM.V3X1x/App65080/874.ts
-#EXTVLCOPT:http-user-agent=New#FreeV3X1....
+#EXTVLCOPT:http-user-agent=New#FreeV3X2...
 #EXTINF:-1,DE:DMAX
 http://srvt.topiptv.org:80/live/Acc_AM.V3X1x/App65080/875.ts
-#EXTVLCOPT:http-user-agent=New#FreeV3X1....
+#EXTVLCOPT:http-user-agent=New#FreeV3X2...
 #EXTINF:-1,DE:Sky Syfy HD
 http://srvt.topiptv.org:80/live/Acc_AM.V3X1x/App65080/876.ts
-#EXTVLCOPT:http-user-agent=New#FreeV3X1....
+#EXTVLCOPT:http-user-agent=New#FreeV3X2...
 #EXTINF:-1,DE:Sky Comedy
 http://srvt.topiptv.org:80/live/Acc_AM.V3X1x/App65080/877.ts
-#EXTVLCOPT:http-user-agent=New#FreeV3X1....
+#EXTVLCOPT:http-user-agent=New#FreeV3X2...
 #EXTINF:-1,DE:N-TV
 http://srvt.topiptv.org:80/live/Acc_AM.V3X1x/App65080/878.ts
-#EXTVLCOPT:http-user-agent=New#FreeV3X1....
+#EXTVLCOPT:http-user-agent=New#FreeV3X2...
 #EXTINF:-1,DE:Sky Cinema 24
 http://srvt.topiptv.org:80/live/Acc_AM.V3X1x/App65080/879.ts
-#EXTVLCOPT:http-user-agent=New#FreeV3X1....
+#EXTVLCOPT:http-user-agent=New#FreeV3X2...
 #EXTINF:-1,DE:Sky Cinema HD
 http://srvt.topiptv.org:80/live/Acc_AM.V3X1x/App65080/880.ts
-#EXTVLCOPT:http-user-agent=New#FreeV3X1....
+#EXTVLCOPT:http-user-agent=New#FreeV3X2...
 #EXTINF:-1,DE:Sky Cinema +1
 http://srvt.topiptv.org:80/live/Acc_AM.V3X1x/App65080/881.ts
-#EXTVLCOPT:http-user-agent=New#FreeV3X1....
+#EXTVLCOPT:http-user-agent=New#FreeV3X2...
 #EXTINF:-1,DE:Sky BundesLiga 1 HD
 http://srvt.topiptv.org:80/live/Acc_AM.V3X1x/App65080/882.ts
-#EXTVLCOPT:http-user-agent=New#FreeV3X1....
+#EXTVLCOPT:http-user-agent=New#FreeV3X2...
 #EXTINF:-1,DE:ORF 2 HD
 http://srvt.topiptv.org:80/live/Acc_AM.V3X1x/App65080/883.ts
-#EXTVLCOPT:http-user-agent=New#FreeV3X1....
+#EXTVLCOPT:http-user-agent=New#FreeV3X2...
 #EXTINF:-1,DE:Sky Action HD
 http://srvt.topiptv.org:80/live/Acc_AM.V3X1x/App65080/884.ts
-#EXTVLCOPT:http-user-agent=New#FreeV3X1....
+#EXTVLCOPT:http-user-agent=New#FreeV3X2...
 #EXTINF:-1,DE:Sky NatGeo HD
 http://srvt.topiptv.org:80/live/Acc_AM.V3X1x/App65080/885.ts
-#EXTVLCOPT:http-user-agent=New#FreeV3X1....
+#EXTVLCOPT:http-user-agent=New#FreeV3X2...
 #EXTINF:-1,DE:Spiegel Geschichte HD
 http://srvt.topiptv.org:80/live/Acc_AM.V3X1x/App65080/887.ts
-#EXTVLCOPT:http-user-agent=New#FreeV3X1....
+#EXTVLCOPT:http-user-agent=New#FreeV3X2...
 #EXTINF:-1,DE:RTL Nitro
 http://srvt.topiptv.org:80/live/Acc_AM.V3X1x/App65080/888.ts
-#EXTVLCOPT:http-user-agent=New#FreeV3X1....
+#EXTVLCOPT:http-user-agent=New#FreeV3X2...
 #EXTINF:-1,DE:RTL II
 http://srvt.topiptv.org:80/live/Acc_AM.V3X1x/App65080/889.ts
-#EXTVLCOPT:http-user-agent=New#FreeV3X1....
+#EXTVLCOPT:http-user-agent=New#FreeV3X2...
 #EXTINF:-1,DE:RTL PASSION
 http://srvt.topiptv.org:80/live/Acc_AM.V3X1x/App65080/890.ts
-#EXTVLCOPT:http-user-agent=New#FreeV3X1....
+#EXTVLCOPT:http-user-agent=New#FreeV3X2...
 #EXTINF:-1,DE:RTL 2 HD
 http://srvt.topiptv.org:80/live/Acc_AM.V3X1x/App65080/891.ts
-#EXTVLCOPT:http-user-agent=New#FreeV3X1....
+#EXTVLCOPT:http-user-agent=New#FreeV3X2...
 #EXTINF:-1,DE:ProSieben
 http://srvt.topiptv.org:80/live/Acc_AM.V3X1x/App65080/892.ts
-#EXTVLCOPT:http-user-agent=New#FreeV3X1....
+#EXTVLCOPT:http-user-agent=New#FreeV3X2...
 #EXTINF:-1,DE:PRO7 MAXX
 http://srvt.topiptv.org:80/live/Acc_AM.V3X1x/App65080/893.ts
-#EXTVLCOPT:http-user-agent=New#FreeV3X1....
+#EXTVLCOPT:http-user-agent=New#FreeV3X2...
 #EXTINF:-1,DE:ProSieben Maxx HD
 http://srvt.topiptv.org:80/live/Acc_AM.V3X1x/App65080/894.ts
-#EXTVLCOPT:http-user-agent=New#FreeV3X1....
+#EXTVLCOPT:http-user-agent=New#FreeV3X2...
 #EXTINF:-1,DE:Phoenix
 http://srvt.topiptv.org:80/live/Acc_AM.V3X1x/App65080/895.ts
-#EXTVLCOPT:http-user-agent=New#FreeV3X1....
+#EXTVLCOPT:http-user-agent=New#FreeV3X2...
 #EXTINF:-1,DE:RTL Crime
 http://srvt.topiptv.org:80/live/Acc_AM.V3X1x/App65080/896.ts
-#EXTVLCOPT:http-user-agent=New#FreeV3X1....
+#EXTVLCOPT:http-user-agent=New#FreeV3X2...
 #EXTINF:-1,DE:ORF Eins
 http://srvt.topiptv.org:80/live/Acc_AM.V3X1x/App65080/897.ts
-#EXTVLCOPT:http-user-agent=New#FreeV3X1....
+#EXTVLCOPT:http-user-agent=New#FreeV3X2...
 #EXTINF:-1,DE:Heimatkanal
 http://srvt.topiptv.org:80/live/Acc_AM.V3X1x/App65080/898.ts
-#EXTVLCOPT:http-user-agent=New#FreeV3X1....
+#EXTVLCOPT:http-user-agent=New#FreeV3X2...
 #EXTINF:-1,DE:National Geographic
 http://srvt.topiptv.org:80/live/Acc_AM.V3X1x/App65080/899.ts
-#EXTVLCOPT:http-user-agent=New#FreeV3X1....
+#EXTVLCOPT:http-user-agent=New#FreeV3X2...
 #EXTINF:-1,DE:N24 HD
 http://srvt.topiptv.org:80/live/Acc_AM.V3X1x/App65080/901.ts
-#EXTVLCOPT:http-user-agent=New#FreeV3X1....
+#EXTVLCOPT:http-user-agent=New#FreeV3X2...
 #EXTINF:-1,DE:Sky Nostalgie HD
 http://srvt.topiptv.org:80/live/Acc_AM.V3X1x/App65080/902.ts
-#EXTVLCOPT:http-user-agent=New#FreeV3X1....
+#EXTVLCOPT:http-user-agent=New#FreeV3X2...
 #EXTINF:-1,DE:Kika
 http://srvt.topiptv.org:80/live/Acc_AM.V3X1x/App65080/903.ts
-#EXTVLCOPT:http-user-agent=New#FreeV3X1....
+#EXTVLCOPT:http-user-agent=New#FreeV3X2...
 #EXTINF:-1,DE:kabel eins Doku
 http://srvt.topiptv.org:80/live/Acc_AM.V3X1x/App65080/904.ts
-#EXTVLCOPT:http-user-agent=New#FreeV3X1....
+#EXTVLCOPT:http-user-agent=New#FreeV3X2...
 #EXTINF:-1,DE:FOX HD
 http://srvt.topiptv.org:80/live/Acc_AM.V3X1x/App65080/905.ts
-#EXTVLCOPT:http-user-agent=New#FreeV3X1....
+#EXTVLCOPT:http-user-agent=New#FreeV3X2...
 #EXTINF:-1,Kr:IRIB IR
 http://srvt.topiptv.org:80/live/Acc_AM.V3X1x/App65080/908.ts
-#EXTVLCOPT:http-user-agent=New#FreeV3X1....
+#EXTVLCOPT:http-user-agent=New#FreeV3X2...
 #EXTINF:-1,DE:Sat 1
 http://srvt.topiptv.org:80/live/Acc_AM.V3X1x/App65080/909.ts
-#EXTVLCOPT:http-user-agent=New#FreeV3X1....
+#EXTVLCOPT:http-user-agent=New#FreeV3X2...
 #EXTINF:-1,DE:BR
 http://srvt.topiptv.org:80/live/Acc_AM.V3X1x/App65080/910.ts
-#EXTVLCOPT:http-user-agent=New#FreeV3X1....
+#EXTVLCOPT:http-user-agent=New#FreeV3X2...
 #EXTINF:-1,DE:13th Street HD
 http://srvt.topiptv.org:80/live/Acc_AM.V3X1x/App65080/911.ts
-#EXTVLCOPT:http-user-agent=New#FreeV3X1....
+#EXTVLCOPT:http-user-agent=New#FreeV3X2...
 #EXTINF:-1,DE:Atlantic HD
 http://srvt.topiptv.org:80/live/Acc_AM.V3X1x/App65080/912.ts
-#EXTVLCOPT:http-user-agent=New#FreeV3X1....
+#EXTVLCOPT:http-user-agent=New#FreeV3X2...
 #EXTINF:-1,DE:Das Erste
 http://srvt.topiptv.org:80/live/Acc_AM.V3X1x/App65080/913.ts
-#EXTVLCOPT:http-user-agent=New#FreeV3X1....
+#EXTVLCOPT:http-user-agent=New#FreeV3X2...
 #EXTINF:-1,DE:ARD HD
 http://srvt.topiptv.org:80/live/Acc_AM.V3X1x/App65080/914.ts
-#EXTVLCOPT:http-user-agent=New#FreeV3X1....
+#EXTVLCOPT:http-user-agent=New#FreeV3X2...
 #EXTINF:-1,DE:ANIXE Serie HD
 http://srvt.topiptv.org:80/live/Acc_AM.V3X1x/App65080/915.ts
-#EXTVLCOPT:http-user-agent=New#FreeV3X1....
+#EXTVLCOPT:http-user-agent=New#FreeV3X2...
 #EXTINF:-1,RU:Россия 24
 http://srvt.topiptv.org:80/live/Acc_AM.V3X1x/App65080/25.ts
-#EXTVLCOPT:http-user-agent=New#FreeV3X1....
+#EXTVLCOPT:http-user-agent=New#FreeV3X2...
 #EXTINF:-1,Ar:Al Nahar Sport
 http://srvt.topiptv.org:80/live/Acc_AM.V3X1x/App65080/1633.ts
-#EXTVLCOPT:http-user-agent=New#FreeV3X1....
+#EXTVLCOPT:http-user-agent=New#FreeV3X2...
 #EXTINF:-1,DE:Quran Hidayah
 http://srvt.topiptv.org:80/live/Acc_AM.V3X1x/App65080/1747.ts
 
