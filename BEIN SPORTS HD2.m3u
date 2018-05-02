@@ -6,65 +6,31 @@
 http://185.148.147.68:25461/live/AndrTV-IPTV/AndrTVIPTV8855/12.ts
 
 #EXTINF:-1,BEIN 1HD
-http://31.223.180.226:1935/live/be1/hossam.m3u8
+http://185.115.33.83:8086/hls/beinHD1.m3u8?key=f5c70ee3d1d34bd04a5bdad44291909a
 
 #EXTINF:-1,BEIN 2HD
-http://31.223.180.226:1935/live/be2/hossam.m3u8
+http://185.115.33.83:8086/hls/beinHD2.m3u8?key=f5c70ee3d1d34bd04a5bdad44291909a
 
 #EXTINF:-1,BEIN 3HD
-http://31.223.180.226:1935/live/be3/hossam.m3u8
+http://185.115.33.83:8086/hls/beinHD3.m3u8?key=f5c70ee3d1d34bd04a5bdad44291909a
 
 #EXTINF:-1,BEIN 4HD
-http://31.223.180.226:1935/live/be4/hossam.m3u8
+http://185.115.33.83:8086/hls/beinHD4.m3u8?key=f5c70ee3d1d34bd04a5bdad44291909a
 
 #EXTINF:-1,BEIN 5HD
-http://31.223.180.226:1935/live/be5/hossam.m3u8
+http://185.115.33.83:8086/hls/beinHD5.m3u8?key=f5c70ee3d1d34bd04a5bdad44291909a
 
 #EXTINF:-1,BEIN 6HD
-http://31.223.180.226:1935/live/be6/hossam.m3u8
+http://185.115.33.83:8086/hls/beinHD6.m3u8?key=f5c70ee3d1d34bd04a5bdad44291909a
 
 #EXTINF:-1,BEIN 7HD
-http://31.223.180.226:1935/live/be7/hossam.m3u8
+http://185.115.33.83:8086/hls/beinHD7.m3u8?key=f5c70ee3d1d34bd04a5bdad44291909a
 
 #EXTINF:-1,BEIN 8HD
-http://31.223.180.226:1935/live/be8/hossam.m3u8
+http://185.115.33.83:8086/hls/beinHD8.m3u8?key=f5c70ee3d1d34bd04a5bdad44291909a
 
 #EXTINF:-1,BEIN 9HD
-http://31.223.180.226:1935/live/be9/hossam.m3u8
+http://185.115.33.83:8086/hls/beinHD9.m3u8?key=f5c70ee3d1d34bd04a5bdad44291909a
 
 #EXTINF:-1,BEIN 10HD
-http://31.223.180.226:1935/live/be10/hossam.m3u8
-
-
-#EXTINF:-1,========BeIN Sports HD2=========
-http://185.148.147.68:25461/live/AndrTV-IPTV/AndrTVIPTV8855/12.ts
-#EXTINF:-1,Bein Sports 1
-httphost://$http-raw=http://www.247bay.tv/hembedplayer/beinospori1si/2/600/420$http-refferer=http://arembed.com/live.php?ch=Bein_Sports1
-#EXTINF:-1,Bein Sports 2
-httphost://$http-raw=http://www.247bay.tv/hembedplayer/beinosi3io/2/600/420$http-refferer=http://arembed.com/live.php?ch=Bein_Sports3
-#EXTINF:-1,Bein Sports 4
-httphost://$http-raw=http://www.247bay.tv/hembedplayer/beinosi4/2/600/420$http-refferer=http://arembed.com/live.php?ch=Bein_Sports4
-#EXTINF:-1,Bein Sports 5
-httphost://$http-raw=http://www.247bay.tv/hembedplayer/beinosi5oi/2/600/420$http-refferer=http://arembed.com/live.php?ch=Bein_Sports5
-#EXTINF:-1,Bein Sports 6
-httphost://$http-raw=http://www.247bay.tv/hembedplayer/beinoso6/2/600/420$http-refferer=http://arembed.com/live.php?ch=Bein_Sports6
-#EXTINF:-1,Bein Sports 7
-httphost://$http-raw=http://www.247bay.tv/hembedplayer/brionois7/2/600/420$http-refferer=http://arembed.com/live.php?ch=Bein_Sports7
-#EXTINF:-1,Bein Sports 8
-httphost://$http-raw=http://www.247bay.tv/hembedplayer/beinois8wo/2/600/420$http-refferer=http://arembed.com/live.php?ch=Bein_Sports8
-#EXTINF:-1,Bein Sports 9
-httphost://$http-raw=http://www.247bay.tv/hembedplayer/beinosio9/2/600/420$http-refferer=http://arembed.com/live.php?ch=Bein_Sports9
-#EXTINF:-1,Bein Sports 10
-httphost://$http-raw=http://www.247bay.tv/hembedplayer/beinosi10/2/600/420$http-refferer=http://arembed.com/live.php?ch=Bein_Sports10
-#EXTINF:-1,Bein Sports 11
-httphost://$http-raw=http://www.247bay.tv/hembedplayer/beinospori1si/2/600/420$http-refferer=http://arembed.com/live.php?ch=Bein_Sports11
-#EXTINF:-1,Bein Sports 12
-httphost://$http-raw=http://www.247bay.tv/hembedplayer/beinion2iso/2/600/420$http-refferer=http://arembed.com/live.php?ch=Bein_Sports12
-#EXTINF:-1,===BeIN Sports MobiKora 460p===
-http://185.148.147.68:25461/live/AndrTV-IPTV/AndrTVIPTV8855/12.ts
-#EXTINF:-1,Bein Sports 1
-httphost://$http-raw=http://www.247bay.tv/hembedplayer/kljhdtbset/2/1166/587$http-refferer=http://cast.coolkora.com/bein-sports-hd-channels/bein-hd1
-#EXTINF:-1,Bein Sports 2
-httphost://$http-raw=http://www.247bay.tv/hembedplayer/ujuyjjuy6/2/1166/587$http-refferer=http://cast.coolkora.com/bein-sports-hd-channels/bein-hd2
-#EXTINF:-1,Bein Sports 3
-httphost://$http-raw=http://www.p3g.tv/hembedplayer/jhtjjhr6hr5/1/1166/587$http-refferer=http://cast.coolkora.com/bein-sports-hd-channels/bein-hd3-new
+http://185.115.33.83:8086/hls/beinHD10.m3u8?key=f5c70ee3d1d34bd04a5bdad44291909a
