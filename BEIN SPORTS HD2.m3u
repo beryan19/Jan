@@ -2,35 +2,39 @@
 
 #EXTM3U
 #EXTVLCOPT:http-user-agent=janberyan.com
-#EXTINF:-1,========BeIN Sports HD1=========
+#EXTINF:-1,========BeIN Sports HD=========
 http://185.148.147.68:25461/live/AndrTV-IPTV/AndrTVIPTV8855/12.ts
-
-#EXTINF:-1,BEIN 1HD
-http://185.115.33.83:8086/hls/beinHD1.m3u8?key=f5c70ee3d1d34bd04a5bdad44291909a
-
-#EXTINF:-1,BEIN 2HD
-http://185.115.33.83:8086/hls/beinHD2.m3u8?key=f5c70ee3d1d34bd04a5bdad44291909a
-
-#EXTINF:-1,BEIN 3HD
-http://185.115.33.83:8086/hls/beinHD3.m3u8?key=f5c70ee3d1d34bd04a5bdad44291909a
-
-#EXTINF:-1,BEIN 4HD
-http://185.115.33.83:8086/hls/beinHD4.m3u8?key=f5c70ee3d1d34bd04a5bdad44291909a
-
-#EXTINF:-1,BEIN 5HD
-http://185.115.33.83:8086/hls/beinHD5.m3u8?key=f5c70ee3d1d34bd04a5bdad44291909a
-
-#EXTINF:-1,BEIN 6HD
-http://185.115.33.83:8086/hls/beinHD6.m3u8?key=f5c70ee3d1d34bd04a5bdad44291909a
-
-#EXTINF:-1,BEIN 7HD
-http://185.115.33.83:8086/hls/beinHD7.m3u8?key=f5c70ee3d1d34bd04a5bdad44291909a
-
-#EXTINF:-1,BEIN 8HD
-http://185.115.33.83:8086/hls/beinHD8.m3u8?key=f5c70ee3d1d34bd04a5bdad44291909a
-
-#EXTINF:-1,BEIN 9HD
-http://185.115.33.83:8086/hls/beinHD9.m3u8?key=f5c70ee3d1d34bd04a5bdad44291909a
-
-#EXTINF:-1,BEIN 10HD
-http://185.115.33.83:8086/hls/beinHD10.m3u8?key=f5c70ee3d1d34bd04a5bdad44291909a
+#EXTINF:-1,beIN Sports News
+httphost://$http-raw=http://unblocked.lol/beinsportsnews$http-refferer=https://unblocked.lol/tv
+#EXTINF:-1,beIN Sports 1
+httphost://$http-raw=http://unblocked.lol/beinsports1$http-refferer=https://unblocked.lol/tv
+#EXTINF:-1,beIN Sports 2
+httphost://$http-raw=http://unblocked.lol/beinsports2$http-refferer=https://unblocked.lol/tv
+#EXTINF:-1,beIN Sports 3
+httphost://$http-raw=http://unblocked.lol/beinsports3$http-refferer=https://unblocked.lol/tv
+#EXTINF:-1,beIN Sports 4
+httphost://$http-raw=http://unblocked.lol/beinsports4$http-refferer=https://unblocked.lol/tv
+#EXTINF:-1,beIN Sports 5
+httphost://$http-raw=http://unblocked.lol/beinsports5$http-refferer=https://unblocked.lol/tv
+#EXTINF:-1,beIN Sports 6
+httphost://$http-raw=http://unblocked.lol/beinsports6$http-refferer=https://unblocked.lol/tv
+#EXTINF:-1,beIN Sports 7
+httphost://$http-raw=http://unblocked.lol/beinsports7$http-refferer=https://unblocked.lol/tv
+#EXTINF:-1,beIN Sports 8
+httphost://$http-raw=http://unblocked.lol/beinsports8$http-refferer=https://unblocked.lol/tv
+#EXTINF:-1,beIN Sports 9
+httphost://$http-raw=http://unblocked.lol/beinsports9$http-refferer=https://unblocked.lol/tv
+#EXTINF:-1,beIN Sports 10
+httphost://$http-raw=http://unblocked.lol/beinsports10$http-refferer=https://unblocked.lol/tv
+#EXTINF:-1,beIN Sports 11 English
+httphost://$http-raw=http://unblocked.lol/beinsports11$http-refferer=https://unblocked.lol/tv
+#EXTINF:-1,beIN Sports 12 English
+httphost://$http-raw=http://unblocked.lol/beinsports12$http-refferer=https://unblocked.lol/tv
+#EXTINF:-1,beIN Sports 13 English
+httphost://$http-raw=http://unblocked.lol/beinsports13$http-refferer=https://unblocked.lol/tv
+#EXTINF:-1,beIN Sports 1 France
+httphost://$http-raw=http://unblocked.lol/beinsports1france$http-refferer=https://unblocked.lol/tv
+#EXTINF:-1,beIN Sports 2 France
+httphost://$http-raw=http://unblocked.lol/beinsports2france$http-refferer=https://unblocked.lol/tv
+#EXTINF:-1,beIN Sports 3 France
+httphost://$http-raw=http://unblocked.lol/beinsports3france$http-refferer=https://unblocked.lol/tv
