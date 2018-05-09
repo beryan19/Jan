@@ -2,192 +2,6 @@
 #EXTINF:-1 tvg-logo="http://expatescort.com/public/img/flags/de.png" group-title="LABEL",~ Germany TV ~
 http://www.lengua.com/anthems/Germany.mp3
 
-#EXTVLCOPT:http-user-agent=New#FreeV3X2...
-#EXTINF:-1,DE:ZDF Neo
-http://srvt.topiptv.org:80/live/Acc_AM.V3X1llllxx2/App65080/1489.ts
-#EXTVLCOPT:http-user-agent=New#FreeV3X2...
-#EXTINF:-1,DE:SIXX HD
-http://srvt.topiptv.org:80/live/Acc_AM.V3X1llllxx2/App65080/1490.ts
-#EXTVLCOPT:http-user-agent=New#FreeV3X2...
-#EXTINF:-1,DE:ZDF info
-http://srvt.topiptv.org:80/live/Acc_AM.V3X1llllxx2/App65080/1491.ts
-#EXTVLCOPT:http-user-agent=New#FreeV3X2...
-#EXTINF:-1,DE:ZDF HD
-http://srvt.topiptv.org:80/live/Acc_AM.V3X1llllxx2/App65080/1492.ts
-#EXTVLCOPT:http-user-agent=New#FreeV3X2...
-#EXTINF:-1,DE:ZDF 3 SAT
-http://srvt.topiptv.org:80/live/Acc_AM.V3X1llllxx2/App65080/1493.ts
-#EXTVLCOPT:http-user-agent=New#FreeV3X2...
-#EXTINF:-1,DE:Sky Bundesliga 2
-http://srvt.topiptv.org:80/live/Acc_AM.V3X1llllxx2/App65080/1732.ts
-#EXTVLCOPT:http-user-agent=New#FreeV3X2...
-#EXTINF:-1,DE:HR HD
-http://srvt.topiptv.org:80/live/Acc_AM.V3X1llllxx2/App65080/1698.ts
-#EXTVLCOPT:http-user-agent=New#FreeV3X2...
-#EXTINF:-1,DE:Sky Cinema Star Wars
-http://srvt.topiptv.org:80/live/Acc_AM.V3X1llllxx2/App65080/1496.ts
-#EXTVLCOPT:http-user-agent=New#FreeV3X2...
-#EXTINF:-1,DE:VIVA Comedy
-http://srvt.topiptv.org:80/live/Acc_AM.V3X1llllxx2/App65080/1731.ts
-#EXTVLCOPT:http-user-agent=New#FreeV3X2...
-#EXTINF:-1,DE:Wdr HD
-http://srvt.topiptv.org:80/live/Acc_AM.V3X1llllxx2/App65080/846.ts
-#EXTVLCOPT:http-user-agent=New#FreeV3X2...
-#EXTINF:-1,DE:VOX HD
-http://srvt.topiptv.org:80/live/Acc_AM.V3X1llllxx2/App65080/847.ts
-#EXTVLCOPT:http-user-agent=New#FreeV3X2...
-#EXTINF:-1,DE:SAT 1 Bayern
-http://srvt.topiptv.org:80/live/Acc_AM.V3X1llllxx2/App65080/849.ts
-#EXTVLCOPT:http-user-agent=New#FreeV3X2...
-#EXTINF:-1,DE:Super RTL
-http://srvt.topiptv.org:80/live/Acc_AM.V3X1llllxx2/App65080/850.ts
-#EXTVLCOPT:http-user-agent=New#FreeV3X2...
-#EXTINF:-1,DE:Disney Cinemagic FHD
-http://srvt.topiptv.org:80/live/Acc_AM.V3X1llllxx2/App65080/851.ts
-#EXTVLCOPT:http-user-agent=New#FreeV3X2...
-#EXTINF:-1,DE:Sky Sport Austria HD
-http://srvt.topiptv.org:80/live/Acc_AM.V3X1llllxx2/App65080/852.ts
-#EXTVLCOPT:http-user-agent=New#FreeV3X2...
-#EXTINF:-1,DE:Sky NatGeo Wild HD
-http://srvt.topiptv.org:80/live/Acc_AM.V3X1llllxx2/App65080/868.ts
-#EXTVLCOPT:http-user-agent=New#FreeV3X2...
-#EXTINF:-1,DE:Classica
-http://srvt.topiptv.org:80/live/Acc_AM.V3X1llllxx2/App65080/869.ts
-#EXTVLCOPT:http-user-agent=New#FreeV3X2...
-#EXTINF:-1,DE:Sky Sport News HD
-http://srvt.topiptv.org:80/live/Acc_AM.V3X1llllxx2/App65080/870.ts
-#EXTVLCOPT:http-user-agent=New#FreeV3X2...
-#EXTINF:-1,DE:Sky Cinema Hits HD
-http://srvt.topiptv.org:80/live/Acc_AM.V3X1llllxx2/App65080/871.ts
-#EXTVLCOPT:http-user-agent=New#FreeV3X2...
-#EXTINF:-1,DE:Disney cinemagic HD
-http://srvt.topiptv.org:80/live/Acc_AM.V3X1llllxx2/App65080/872.ts
-#EXTVLCOPT:http-user-agent=New#FreeV3X2...
-#EXTINF:-1,DE:Sky Fox HD
-http://srvt.topiptv.org:80/live/Acc_AM.V3X1llllxx2/App65080/873.ts
-#EXTVLCOPT:http-user-agent=New#FreeV3X2...
-#EXTINF:-1,DE:Sky Emotion
-http://srvt.topiptv.org:80/live/Acc_AM.V3X1llllxx2/App65080/874.ts
-#EXTVLCOPT:http-user-agent=New#FreeV3X2...
-#EXTINF:-1,DE:DMAX
-http://srvt.topiptv.org:80/live/Acc_AM.V3X1llllxx2/App65080/875.ts
-#EXTVLCOPT:http-user-agent=New#FreeV3X2...
-#EXTINF:-1,DE:Sky Syfy HD
-http://srvt.topiptv.org:80/live/Acc_AM.V3X1llllxx2/App65080/876.ts
-#EXTVLCOPT:http-user-agent=New#FreeV3X2...
-#EXTINF:-1,DE:Sky Comedy
-http://srvt.topiptv.org:80/live/Acc_AM.V3X1llllxx2/App65080/877.ts
-#EXTVLCOPT:http-user-agent=New#FreeV3X2...
-#EXTINF:-1,DE:N-TV
-http://srvt.topiptv.org:80/live/Acc_AM.V3X1llllxx2/App65080/878.ts
-#EXTVLCOPT:http-user-agent=New#FreeV3X2...
-#EXTINF:-1,DE:Sky Cinema 24
-http://srvt.topiptv.org:80/live/Acc_AM.V3X1llllxx2/App65080/879.ts
-#EXTVLCOPT:http-user-agent=New#FreeV3X2...
-#EXTINF:-1,DE:Sky Cinema HD
-http://srvt.topiptv.org:80/live/Acc_AM.V3X1llllxx2/App65080/880.ts
-#EXTVLCOPT:http-user-agent=New#FreeV3X2...
-#EXTINF:-1,DE:Sky Cinema +1
-http://srvt.topiptv.org:80/live/Acc_AM.V3X1llllxx2/App65080/881.ts
-#EXTVLCOPT:http-user-agent=New#FreeV3X2...
-#EXTINF:-1,DE:Sky BundesLiga 1 HD
-http://srvt.topiptv.org:80/live/Acc_AM.V3X1llllxx2/App65080/882.ts
-#EXTVLCOPT:http-user-agent=New#FreeV3X2...
-#EXTINF:-1,DE:ORF 2 HD
-http://srvt.topiptv.org:80/live/Acc_AM.V3X1llllxx2/App65080/883.ts
-#EXTVLCOPT:http-user-agent=New#FreeV3X2...
-#EXTINF:-1,DE:Sky Action HD
-http://srvt.topiptv.org:80/live/Acc_AM.V3X1llllxx2/App65080/884.ts
-#EXTVLCOPT:http-user-agent=New#FreeV3X2...
-#EXTINF:-1,DE:Sky NatGeo HD
-http://srvt.topiptv.org:80/live/Acc_AM.V3X1llllxx2/App65080/885.ts
-#EXTVLCOPT:http-user-agent=New#FreeV3X2...
-#EXTINF:-1,DE:Spiegel Geschichte HD
-http://srvt.topiptv.org:80/live/Acc_AM.V3X1llllxx2/App65080/887.ts
-#EXTVLCOPT:http-user-agent=New#FreeV3X2...
-#EXTINF:-1,DE:RTL Nitro
-http://srvt.topiptv.org:80/live/Acc_AM.V3X1llllxx2/App65080/888.ts
-#EXTVLCOPT:http-user-agent=New#FreeV3X2...
-#EXTINF:-1,DE:RTL II
-http://srvt.topiptv.org:80/live/Acc_AM.V3X1llllxx2/App65080/889.ts
-#EXTVLCOPT:http-user-agent=New#FreeV3X2...
-#EXTINF:-1,DE:RTL PASSION
-http://srvt.topiptv.org:80/live/Acc_AM.V3X1llllxx2/App65080/890.ts
-#EXTVLCOPT:http-user-agent=New#FreeV3X2...
-#EXTINF:-1,DE:RTL 2 HD
-http://srvt.topiptv.org:80/live/Acc_AM.V3X1llllxx2/App65080/891.ts
-#EXTVLCOPT:http-user-agent=New#FreeV3X2...
-#EXTINF:-1,DE:ProSieben
-http://srvt.topiptv.org:80/live/Acc_AM.V3X1llllxx2/App65080/892.ts
-#EXTVLCOPT:http-user-agent=New#FreeV3X2...
-#EXTINF:-1,DE:PRO7 MAXX
-http://srvt.topiptv.org:80/live/Acc_AM.V3X1llllxx2/App65080/893.ts
-#EXTVLCOPT:http-user-agent=New#FreeV3X2...
-#EXTINF:-1,DE:ProSieben Maxx HD
-http://srvt.topiptv.org:80/live/Acc_AM.V3X1llllxx2/App65080/894.ts
-#EXTVLCOPT:http-user-agent=New#FreeV3X2...
-#EXTINF:-1,DE:Phoenix
-http://srvt.topiptv.org:80/live/Acc_AM.V3X1llllxx2/App65080/895.ts
-#EXTVLCOPT:http-user-agent=New#FreeV3X2...
-#EXTINF:-1,DE:RTL Crime
-http://srvt.topiptv.org:80/live/Acc_AM.V3X1llllxx2/App65080/896.ts
-#EXTVLCOPT:http-user-agent=New#FreeV3X2...
-#EXTINF:-1,DE:ORF Eins
-http://srvt.topiptv.org:80/live/Acc_AM.V3X1llllxx2/App65080/897.ts
-#EXTVLCOPT:http-user-agent=New#FreeV3X2...
-#EXTINF:-1,DE:Heimatkanal
-http://srvt.topiptv.org:80/live/Acc_AM.V3X1llllxx2/App65080/898.ts
-#EXTVLCOPT:http-user-agent=New#FreeV3X2...
-#EXTINF:-1,DE:National Geographic
-http://srvt.topiptv.org:80/live/Acc_AM.V3X1llllxx2/App65080/899.ts
-#EXTVLCOPT:http-user-agent=New#FreeV3X2...
-#EXTINF:-1,DE:N24 HD
-http://srvt.topiptv.org:80/live/Acc_AM.V3X1llllxx2/App65080/901.ts
-#EXTVLCOPT:http-user-agent=New#FreeV3X2...
-#EXTINF:-1,DE:Sky Nostalgie HD
-http://srvt.topiptv.org:80/live/Acc_AM.V3X1llllxx2/App65080/902.ts
-#EXTVLCOPT:http-user-agent=New#FreeV3X2...
-#EXTINF:-1,DE:Kika
-http://srvt.topiptv.org:80/live/Acc_AM.V3X1llllxx2/App65080/903.ts
-#EXTVLCOPT:http-user-agent=New#FreeV3X2...
-#EXTINF:-1,DE:kabel eins Doku
-http://srvt.topiptv.org:80/live/Acc_AM.V3X1llllxx2/App65080/904.ts
-#EXTVLCOPT:http-user-agent=New#FreeV3X2...
-#EXTINF:-1,DE:FOX HD
-http://srvt.topiptv.org:80/live/Acc_AM.V3X1llllxx2/App65080/905.ts
-#EXTVLCOPT:http-user-agent=New#FreeV3X2...
-#EXTINF:-1,Kr:IRIB IR
-http://srvt.topiptv.org:80/live/Acc_AM.V3X1llllxx2/App65080/908.ts
-#EXTVLCOPT:http-user-agent=New#FreeV3X2...
-#EXTINF:-1,DE:Sat 1
-http://srvt.topiptv.org:80/live/Acc_AM.V3X1llllxx2/App65080/909.ts
-#EXTVLCOPT:http-user-agent=New#FreeV3X2...
-#EXTINF:-1,DE:BR
-http://srvt.topiptv.org:80/live/Acc_AM.V3X1llllxx2/App65080/910.ts
-#EXTVLCOPT:http-user-agent=New#FreeV3X2...
-#EXTINF:-1,DE:13th Street HD
-http://srvt.topiptv.org:80/live/Acc_AM.V3X1llllxx2/App65080/911.ts
-#EXTVLCOPT:http-user-agent=New#FreeV3X2...
-#EXTINF:-1,DE:Atlantic HD
-http://srvt.topiptv.org:80/live/Acc_AM.V3X1llllxx2/App65080/912.ts
-#EXTVLCOPT:http-user-agent=New#FreeV3X2...
-#EXTINF:-1,DE:Das Erste
-http://srvt.topiptv.org:80/live/Acc_AM.V3X1llllxx2/App65080/913.ts
-#EXTVLCOPT:http-user-agent=New#FreeV3X2...
-#EXTINF:-1,DE:ARD HD
-http://srvt.topiptv.org:80/live/Acc_AM.V3X1llllxx2/App65080/914.ts
-#EXTVLCOPT:http-user-agent=New#FreeV3X2...
-#EXTINF:-1,DE:ANIXE Serie HD
-http://srvt.topiptv.org:80/live/Acc_AM.V3X1llllxx2/App65080/915.ts
-#EXTVLCOPT:http-user-agent=New#FreeV3X2...
-#EXTINF:-1,RU:Россия 24
-http://srvt.topiptv.org:80/live/Acc_AM.V3X1llllxx2/App65080/25.ts
-#EXTVLCOPT:http-user-agent=New#FreeV3X2...
-#EXTINF:-1,Ar:Al Nahar Sport
-http://srvt.topiptv.org:80/live/Acc_AM.V3X1llllxx2/App65080/1633.ts
-#EXTVLCOPT:http-user-agent=New#FreeV3X2...
-#EXTINF:-1,DE:Quran Hidayah
-http://srvt.topiptv.org:80/live/Acc_AM.V3X1llllxx2/App65080/1747.ts
 
 
 #EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-BAcecuCPkK4/VGjDw1zsTdI/AAAAAAAACeE/eSgTcT9nY7Y/s1600/123tv.jpg" group-title="GERMANY",1-2-3 TV
@@ -495,5 +309,97 @@ http://orf2.orf.cdn.ors.at/orf2/q4a.sdp/chunklist.m3u8
 http://lb.hd-livestream.de:1935/live/TirolTV/chunklist_w516897777.m3u8
 #EXTINF:-1,de:W24+
 http://ms01.w24.at/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
+
+#EXTM3U
+#EXTINF:-1,13th Street
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/311.m3u8$http-refferer=http://localhost
+#EXTINF:-1,3sat
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/310.m3u8$http-refferer=http://localhost
+#EXTINF:-1,3SAT HD
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/309.m3u8$http-refferer=http://localhost
+#EXTINF:-1,ARD
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/312.m3u8$http-refferer=http://localhost
+#EXTINF:-1,Arte
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/308.m3u8$http-refferer=http://localhost
+#EXTINF:-1,AXN HD Germany
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/313.m3u8$http-refferer=http://localhost
+#EXTINF:-1,Boomerang
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/314.m3u8$http-refferer=http://localhost
+#EXTINF:-1,Bundesliga 1
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/315.m3u8$http-refferer=http://localhost
+#EXTINF:-1,Cartoon Network Germany
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/316.m3u8$http-refferer=http://localhost
+#EXTINF:-1,Classica
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/317.m3u8$http-refferer=http://localhost
+#EXTINF:-1,DAS ERSTE HD
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/307.m3u8$http-refferer=http://localhost
+#EXTINF:-1,Deluxe Music HD
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/318.m3u8$http-refferer=http://localhost
+#EXTINF:-1,Discovery HD
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/319.m3u8$http-refferer=http://localhost
+#EXTINF:-1,Disney Channel HD Germany
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/320.m3u8$http-refferer=http://localhost
+#EXTINF:-1,Disney Cinemagic HD
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/321.m3u8$http-refferer=http://localhost
+#EXTINF:-1,Disney Junior
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/322.m3u8$http-refferer=http://localhost
+#EXTINF:-1,Disney XD Deutschland
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/323.m3u8$http-refferer=http://localhost
+#EXTINF:-1,Kabel 1
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/324.m3u8$http-refferer=http://localhost
+#EXTINF:-1,Kabel Eins
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/306.m3u8$http-refferer=http://localhost
+#EXTINF:-1,Kika
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/325.m3u8$http-refferer=http://localhost
+#EXTINF:-1,MGM HD
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/326.m3u8$http-refferer=http://localhost
+#EXTINF:-1,N24
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/327.m3u8$http-refferer=http://localhost
+#EXTINF:-1,NatGeo Wild HD Germany
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/328.m3u8$http-refferer=http://localhost
+#EXTINF:-1,National Geographic HD Germany
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/329.m3u8$http-refferer=http://localhost
+#EXTINF:-1,Nickelodeon
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/330.m3u8$http-refferer=http://localhost
+#EXTINF:-1,Orf 1
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/331.m3u8$http-refferer=http://localhost
+#EXTINF:-1,Orf 2
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/332.m3u8$http-refferer=http://localhost
+#EXTINF:-1,PHOENIX
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/305.m3u8$http-refferer=http://localhost
+#EXTINF:-1,Pro7
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/333.m3u8$http-refferer=http://localhost
+#EXTINF:-1,Pro7 Fun HD
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/298.m3u8$http-refferer=http://localhost
+#EXTINF:-1,Pro7 Maxx HD
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/297.m3u8$http-refferer=http://localhost
+#EXTINF:-1,RTL
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/334.m3u8$http-refferer=http://localhost
+#EXTINF:-1,RTL NITRO
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/335.m3u8$http-refferer=http://localhost
+#EXTINF:-1,Sat 1
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/336.m3u8$http-refferer=http://localhost
+#EXTINF:-1,sat 1 emotions
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/337.m3u8$http-refferer=http://localhost
+#EXTINF:-1,Sat 1 Gold
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/304.m3u8$http-refferer=http://localhost
+#EXTINF:-1,SERVUS TV HD
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/303.m3u8$http-refferer=http://localhost
+#EXTINF:-1,SUPER RTL HD
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/380.m3u8$http-refferer=http://localhost
+#EXTINF:-1,TNT Serie
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/381.m3u8$http-refferer=http://localhost
+#EXTINF:-1,VIVA
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/302.m3u8$http-refferer=http://localhost
+#EXTINF:-1,VOX
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/382.m3u8$http-refferer=http://localhost
+#EXTINF:-1,WDR HD DE
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/301.m3u8$http-refferer=http://localhost
+#EXTINF:-1,ZDF
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/383.m3u8$http-refferer=http://localhost
+#EXTINF:-1,ZDF NEO HD
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/300.m3u8$http-refferer=http://localhost
+#EXTINF:-1,ZEE ONE
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/299.m3u8$http-refferer=http://localhost
 
 
