@@ -1,8 +1,4 @@
-#EXTM3U
-#EXTINF:-1,= Самообновляемый плейлист FreeWorldTV SlyNet IPTV =
-http://live.slynet.tv/promoslynetiptv1?.m3u8
-#EXTINF:-1,=== Последнее обновление 29.04.18 ===
-http://live.slynet.tv/promoslynetiptv2?.m3u8
+
 #EXTINF:-1,100% Automoto (BG)
 http://100automoto.tv:1935/bgtv1/autotv/playlist.m3u8
 #EXTINF:-1,10TV (Mold)
