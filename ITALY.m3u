@@ -2,6 +2,27 @@
 #EXTINF:-1 tvg-logo="http://expatescort.com/public/img/flags/it.png" group-title="LABEL",~ Italy TV ~
 http://www.lengua.com/anthems/Italy.mp3
 
+#EXTINF:-1,Canale5
+httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/5wAAAB%2bLCAAAAAAABAANw8FugjAAANAPWkgcLW05cNhgDgFF7EorN0shOkAitCiEj99e8pSo9tAGoFvIdOASvIIkdXfVXo9ze8v1pHs%2bXZAU6ZLFZ%2be0HRzasf5It3POvl68001RP0xkPqvuETZhKc4q%2bx3fURABWtLywERk3ECzN3Tn%2fAqannVsDmZSCtfQxme9neU8qUYT490QLplg9xZ9eN4KUUHT9kf4m6e%2f3AZ%2fhQpWBNbYciGuLYidjSVrIi2s1AXa%2f2tprydDTavkNS6OjM8JIN9j7j897w%2bDN9F%2b5wAAAA%3d%3d$http-refferer=http://linkprotect.xmtvplayer.com
+#EXTINF:-1,Italia1
+httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/5wAAAB%2bLCAAAAAAABAANw9tugjAAANAPIgRoi4UHHhDQRhYugiv0xVBrmaCgTQbD8PHuJCdbspJsCoujFJwoiP6EoyKXx0aMSN9pDezT4V62vE607c92Ahf3gcn1mQYXkCq7qYY63EEzKO95xTQcjyww6ZugglHajVqV8OVhSQPsodEllZW%2fAHj5o2KZMI8K2l3iZzeiKoZq5UfO3MN2Keqh9bw1Px%2fmIBoO89s5lfS8W5FAVwdJrLsISx1h29S5dLiOhWgQ%2bC85WG%2fP2f8ybNJ%2fh8OxpJP6DSc5e94HOXGhH%2bcAAAA%3d$http-refferer=http://linkprotect.xmtvplayer.com
+#EXTINF:-1,Rete4
+httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/5wAAAB%2bLCAAAAAAABAANw8mOgjAAANAPaghOl7QcOKiRRUQHSsBwowPFAYelihTDxzsveWGhZ9BmDQn0CSYXgHpyng6tP%2fB8%2f546zh00dWH0e1TlPWv867BUVuo%2b7rrbKqSgsJZdj5jbPEtI6PIlEOhNruR4kxvWJaF3mb20Mv063rdF9s2eZqvp2SIBh9QjQX%2brf%2f6iEJ0kBck48OQR5S7TtW2vsWbdciVzEiHjmO7GFZe4YlhSw8JUGpiSjSEkEwYtywLD%2f1LAVUwK93nlvsC7ng8v7gyxo7a2%2fQGg7AFt5wAAAA%3d%3d$http-refferer=http://linkprotect.xmtvplayer.com
+#EXTINF:-1,Mediaset20
+httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/5wAAAB%2bLCAAAAAAABAANw9uOQ0AYAOAHEnHIPw4XLtY69GAGtWG4M8YoQrTarBUPv%2f2SL1W%2bzxcB7YO%2fcEPR0GRjtxp8Ci5b4ZJVW%2fC7jdOrS%2bN7lT%2fKjODcziLy1NhQRp0BOLGfeapn8dggr6YqxycbvbJCSvpAVaCaFTE1JI68K5eWOf%2fFfsCSrlRXHnFq7NrCBiQZt0Cboh6SXgLr50Q7xznubN98XNzsMCRf1awdwKG1QJiyDaaQwUSqzITFZJPzGvRPwfTDT97nCln6QLw6%2fKPtGG%2b7mzrOP7hwL6TnAAAA$http-refferer=http://linkprotect.xmtvplayer.com
+#EXTINF:-1,La5
+httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/5wAAAB%2bLCAAAAAAABAANzMuOgkAQAMAPMgQZm4U5eNhEVNAVpwPCchtsEBUdUZ6Gj9dDXSus0Y0M3S8YTva94TbKTjf1tqL3ZiXdHacAy%2fXiqq%2bKYBGS6gLl34VCF7m5h%2fOMqwvBkBemvNhnUMdfNvA%2bFvBTEfpGTX8w81phJkMGwgslPdbTxCn7OP3vttDdHdhh25gxg%2bzmB4%2fKeE8Uk62Yz0dPUnRom%2bOhORFipEYgyGzILY2DlWtgmVMtze1Us4gksK88ZSO%2b2viZyeX15SSuL3BplE%2f9230ASvQSgucAAAA%3d$http-refferer=http://linkprotect.xmtvplayer.com
+#EXTINF:-1,Italia2
+httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/5wAAAB%2bLCAAAAAAABAANw9tugjAAANAPIoSLLYUHHjRWdCAKuAq8UWrLRMZqIyDh491JjjXX6fxihsWnPrEFVXUaXQcOWbM9vrtIrORFjJvTSALYRCQZnLI5SGc0iNq1SlVdofWaCF6reFe8m7pBBM8zovjZ8cefgP10yrGI8%2figFY53SfNJXk2yr4IoZLEKa9JF6qve%2f94gXbfnxzE%2fb7JsdITvL7S4l%2ffn2qzC1MNWyxfAwM0FHOkeQFwHCJo65S7VEWMVsP9zai%2foe6tKz6h%2bAJc4dLNS2oOR%2bP4HSm9coecAAAA%3d$http-refferer=http://linkprotect.xmtvplayer.com
+#EXTINF:-1,mediasetextra
+httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/5wAAAB%2bLCAAAAAAABAANw9tyQ0AAANAPMoa1q8uDhzUk07gtstF4W3GLYoVS7fj49sychJgZW9Adi6sK2lBsn3R9SVsATul4gufGKxiBQ3TuokyVsi%2bvT00mfcDeGPdczzFd%2bdLMe7hBt9N%2bHbpp0TBtc1IQ2yH99G7TEUrcV306XTqxJI97uizhpcI5cUKbBqLSOehSymqnDV5KbBvNj8FjyzoCwK%2bwffS3G%2fBdb307UIkqA9VYNhGuZYR1VS5qo5BxWXKk%2fa8L7YieLYiH3iX7NCn%2b7IhnorBvy%2foDvL1raecAAAA%3d$http-refferer=http://linkprotect.xmtvplayer.com
+#EXTINF:-1,topcrime
+httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/5wAAAB%2bLCAAAAAAABAANzDtugzAAANADRSgEm9%2bQoRAHUhAF1aXBG8aGiPJxC6YYcfhkeOtLerkqj9%2fAcYORsLw%2bLJEvCm%2fzSI%2f444i%2bVmuxDgaIRCX%2bxQGmROGEjEi%2fpO0wpChK5mJomi1Guc8dJyAgwyGQ4ua2xbae8Hb3LL873c1oXMilGY3pumZV674lao6XyYS6KB06diln1melkoyYf835vI8YBwEIY9DkHzSkcocMcgfWtuZCu9agbeoarR2q2YyV0HipqbHnCufzt5G%2fTz%2byY0hS8iuzV%2fcEjHX4MucAAAA%3d$http-refferer=http://linkprotect.xmtvplayer.com
+#EXTINF:-1,iris
+httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/5wAAAB%2bLCAAAAAAABAANw91ugjAYANAHIiQKha9ccKECKiI%2fk6F4J9YipEg32EddePjtJKd5qte4Idv36dlhL%2bDur5siOA00lCjjILztI%2b845P63IVtouCg7W%2bHyQY8wqeHgCMl61ZnVqDTmM7kuksK%2b%2fFSsvF9zxM%2fsYCls4r5G3DPhp2%2bRJo3KnF1hb2EjUGYi%2fw2XwqzNmI7JCLTdQSpXrjvTMsDVB71e2nPaWQOdCSMPSjjoDgGuE7AWesVppQNjN2L855UxDwvwPDJpX7YPvLSiqEatnlz3Dz14unrnAAAA$http-refferer=http://linkprotect.xmtvplayer.com
+#EXTINF:-1,tgcom
+httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/5wAAAB%2bLCAAAAAAABAANzEtygjAAANADMYw0CQ0sXBSwgJYGUT66IyYRLUJEA8Jw%2bLp428dPuRNoxZeXm%2bH9Yj5AnvaDT9bnsN67HcGvJ6aa0%2fxCcnT7awyL7klu8raZVtWwPzt52W%2bsDOKfrQLgg%2ftuBQIvqcZjGRv3MOot%2bw%2blj09uHGTLI24EzUraZAoFyBgzOZQo9RSYuqTeaWu8AzHIRjcZlst5Ww2TjDPSquuJuRc6I4a4hQTWbYSFjrBp6FRYVMeMlQi8CQpmfljAAiZ5otRibKL6u%2fWh9%2b7%2bAS5g%2fannAAAA$http-refferer=http://linkprotect.xmtvplayer.com
+
 #EXTINF:-1 tvg-logo="http://okteve.com/wp-content/uploads/media/895636cf89509fb3e35cba8a36ac58ac.jpeg" group-title="ITALY",Alto Adige TV
 http://77.72.196.214:8554/live/AltoAdigeTV/livestream.m3u8
 
