@@ -22,6 +22,136 @@ httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/5wAAAB%2bLCA
 httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/5wAAAB%2bLCAAAAAAABAANw91ugjAYANAHIiQKha9ccKECKiI%2fk6F4J9YipEg32EddePjtJKd5qte4Idv36dlhL%2bDur5siOA00lCjjILztI%2b845P63IVtouCg7W%2bHyQY8wqeHgCMl61ZnVqDTmM7kuksK%2b%2fFSsvF9zxM%2fsYCls4r5G3DPhp2%2bRJo3KnF1hb2EjUGYi%2fw2XwqzNmI7JCLTdQSpXrjvTMsDVB71e2nPaWQOdCSMPSjjoDgGuE7AWesVppQNjN2L855UxDwvwPDJpX7YPvLSiqEatnlz3Dz14unrnAAAA$http-refferer=http://linkprotect.xmtvplayer.com
 #EXTINF:-1,tgcom
 httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/5wAAAB%2bLCAAAAAAABAANzEtygjAAANADMYw0CQ0sXBSwgJYGUT66IyYRLUJEA8Jw%2bLp428dPuRNoxZeXm%2bH9Yj5AnvaDT9bnsN67HcGvJ6aa0%2fxCcnT7awyL7klu8raZVtWwPzt52W%2bsDOKfrQLgg%2ftuBQIvqcZjGRv3MOot%2bw%2blj09uHGTLI24EzUraZAoFyBgzOZQo9RSYuqTeaWu8AzHIRjcZlst5Ww2TjDPSquuJuRc6I4a4hQTWbYSFjrBp6FRYVMeMlQi8CQpmfljAAiZ5otRibKL6u%2fWh9%2b7%2bAS5g%2fannAAAA$http-refferer=http://linkprotect.xmtvplayer.com
+#EXTM3U
+#EXTINF:-1,Animal Planet
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/824.m3u8$http-refferer=http://localhost
+#EXTINF:-1,Canal 5 HD
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/825.m3u8$http-refferer=http://localhost
+#EXTINF:-1,Cartoonito
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/826.m3u8$http-refferer=http://localhost
+#EXTINF:-1,Cielo
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/827.m3u8$http-refferer=http://localhost
+#EXTINF:-1,Discovery HD
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/828.m3u8$http-refferer=http://localhost
+#EXTINF:-1,Discovery Science HD
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/829.m3u8$http-refferer=http://localhost
+#EXTINF:-1,Discovery Travel&Living HD
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/830.m3u8$http-refferer=http://localhost
+#EXTINF:-1,Fox Crime HD
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/831.m3u8$http-refferer=http://localhost
+#EXTINF:-1,FOX HD
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/832.m3u8$http-refferer=http://localhost
+#EXTINF:-1,Fox Life HD
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/833.m3u8$http-refferer=http://localhost
+#EXTINF:-1,Inter Channel
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/835.m3u8$http-refferer=http://localhost
+#EXTINF:-1,Juventus TV
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/823.m3u8$http-refferer=http://localhost
+#EXTINF:-1,Mediaset Extra
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/836.m3u8$http-refferer=http://localhost
+#EXTINF:-1,Milan Channel
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/865.m3u8$http-refferer=http://localhost
+#EXTINF:-1,Nat Geo Wild HD
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/837.m3u8$http-refferer=http://localhost
+#EXTINF:-1,NATIONAL GEOGRAPHIC HD
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/838.m3u8$http-refferer=http://localhost
+#EXTINF:-1,Pesca e Caccia
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/839.m3u8$http-refferer=http://localhost
+#EXTINF:-1,Premium Action
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/840.m3u8$http-refferer=http://localhost
+#EXTINF:-1,Premium Calcio
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/841.m3u8$http-refferer=http://localhost
+#EXTINF:-1,Premium Comedy
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/842.m3u8$http-refferer=http://localhost
+#EXTINF:-1,Premium Disney Junior
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/843.m3u8$http-refferer=http://localhost
+#EXTINF:-1,Premium Studio Universal
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/845.m3u8$http-refferer=http://localhost
+#EXTINF:-1,Rai Yoyo
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/846.m3u8$http-refferer=http://localhost
+#EXTINF:-1,Supercalcio HD
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/861.m3u8$http-refferer=http://localhost
+#EXTINF:-1,Teleticino
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/880.m3u8$http-refferer=http://localhost
+#EXTINF:-1,TOP CRIME
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/881.m3u8$http-refferer=http://localhost
+#EXTINF:-1,CARTOON NETWORK
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/862.m3u8$http-refferer=http://localhost
+#EXTINF:-1,Discovery Focus
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/863.m3u8$http-refferer=http://localhost
+#EXTINF:-1,Mediaset Iris
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/864.m3u8$http-refferer=http://localhost
+#EXTINF:-1,Premium Disney Junior
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/866.m3u8$http-refferer=http://localhost
+#EXTINF:-1,Rai Gulp
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/867.m3u8$http-refferer=http://localhost
+#EXTINF:-1,Real Time
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/868.m3u8$http-refferer=http://localhost
+#EXTINF:-1,Super Tennis
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/879.m3u8$http-refferer=http://localhost
+#EXTINF:-1,Alice
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/777.m3u8$http-refferer=http://localhost
+#EXTINF:-1,Canale5 HD
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/778.m3u8$http-refferer=http://localhost
+#EXTINF:-1,Dmax HD
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/779.m3u8$http-refferer=http://localhost
+#EXTINF:-1,Fox Comedy HD
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/782.m3u8$http-refferer=http://localhost
+#EXTINF:-1,Fox Crime HD
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/783.m3u8$http-refferer=http://localhost
+#EXTINF:-1,Italia 2
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/784.m3u8$http-refferer=http://localhost
+#EXTINF:-1,italia1 HD
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/785.m3u8$http-refferer=http://localhost
+#EXTINF:-1,La7
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/786.m3u8$http-refferer=http://localhost
+#EXTINF:-1,Mediaset Extra
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/787.m3u8$http-refferer=http://localhost
+#EXTINF:-1,Premium Calcio 1*
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/788.m3u8$http-refferer=http://localhost
+#EXTINF:-1,Premium Calcio 2*
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/789.m3u8$http-refferer=http://localhost
+#EXTINF:-1,Premium Calcio 3*
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/790.m3u8$http-refferer=http://localhost
+#EXTINF:-1,Premium Calcio 4
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/791.m3u8$http-refferer=http://localhost
+#EXTINF:-1,Premium Calcio 5*
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/792.m3u8$http-refferer=http://localhost
+#EXTINF:-1,Premium Cinema
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/793.m3u8$http-refferer=http://localhost
+#EXTINF:-1,Premium Cinema 2
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/795.m3u8$http-refferer=http://localhost
+#EXTINF:-1,Premium Cinema Energy
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/794.m3u8$http-refferer=http://localhost
+#EXTINF:-1,Premium Crime
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/796.m3u8$http-refferer=http://localhost
+#EXTINF:-1,Premium Emotion
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/797.m3u8$http-refferer=http://localhost
+#EXTINF:-1,Premium Joy
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/798.m3u8$http-refferer=http://localhost
+#EXTINF:-1,Premium Stories
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/799.m3u8$http-refferer=http://localhost
+#EXTINF:-1,Rai Movie
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/800.m3u8$http-refferer=http://localhost
+#EXTINF:-1,Rai Premium
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/801.m3u8$http-refferer=http://localhost
+#EXTINF:-1,Rai1 HD
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/804.m3u8$http-refferer=http://localhost
+#EXTINF:-1,Rai2 HD
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/805.m3u8$http-refferer=http://localhost
+#EXTINF:-1,Rai3 HD
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/806.m3u8$http-refferer=http://localhost
+#EXTINF:-1,Rai4 HD
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/807.m3u8$http-refferer=http://localhost
+#EXTINF:-1,Rai5
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/808.m3u8$http-refferer=http://localhost
+#EXTINF:-1,Rete4 HD
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/809.m3u8$http-refferer=http://localhost
+#EXTINF:-1,RSI La1 HD
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/810.m3u8$http-refferer=http://localhost
+#EXTINF:-1,RSI La2 HD
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/811.m3u8$http-refferer=http://localhost
+
 
 #EXTINF:-1 tvg-logo="http://okteve.com/wp-content/uploads/media/895636cf89509fb3e35cba8a36ac58ac.jpeg" group-title="ITALY",Alto Adige TV
 http://77.72.196.214:8554/live/AltoAdigeTV/livestream.m3u8
