@@ -1585,13 +1585,4 @@ http://hls-mycdn08724960135.cdnvideo.ru/mycdn08724960135/stream1/playlist.m3u8
 http://live2.mediacdn.ru/sr1/grozny/playlist.m3u8
 #EXTINF:-1,Черно Море BG
 http://ios.cdn.bg:2006/fls/chmore.stream/playlist.m3u8
-#EXTINF:-1,=== ИНФОРМАЦИЯ ===
-http://live.slynet.tv/promoslynetiptv1?.m3u8
-#EXTINF:-1,= Наша группа ВКонтакте http://vk.com/clubSlyNet
-http://live.slynet.tv/promoslynetiptv1?.m3u8
-#EXTINF:-1,== http://vk.com/clubSlyNet
-http://live.slynet.tv/promoslynetiptv1?.m3u8
-#EXTINF:-1,= Наш сайт http://slynet.tv
-http://live.slynet.tv/promoslynetiptv1?.m3u8
-#EXTINF:-1,== http://slynet.tv
-http://live.slynet.tv/promoslynetiptv1?.m3u8
+
