@@ -1,242 +1,39 @@
-#EXTM3U
-#EXTINF:-1 tvg-logo="", Sky Sports News
-httphost://$http-raw=http://crownlive.tv/embed/embed.php?channel=86f25b20bc0dc49f767a76c17d268cc795c8e937&width=650&height=400$http-refferer=http://crownlive.tv/embed/preview.php?channel=SkySportsNews
-#EXTINF:-1 tvg-logo="", Sky Sports Main Event
-httphost://$http-raw=http://crownlive.tv/embed/embed.php?channel=36d0761b7a8cd946b74833564acd76c2be9162af&width=650&height=400$http-refferer=http://crownlive.tv/embed/preview.php?channel=SkySportsMainEvent
-#EXTINF:-1 tvg-logo="", Sky Sports Football
-httphost://$http-raw=http://crownlive.tv/embed/embed.php?channel=017ee2f84f3155ffcd12c7fef8de5b7f059cb44d&width=650&height=400$http-refferer=http://crownlive.tv/embed/preview.php?channel=SkySportsFootball
-#EXTINF:-1 tvg-logo="", Sky Sports Premier League
-httphost://$http-raw=http://crownlive.tv/embed/embed.php?channel=bb95334d358f68229712418cb2dcb76f5abcb59b&width=650&height=400$http-refferer=http://crownlive.tv/embed/preview.php?channel=SkySportsPremierLeague
-#EXTINF:-1 tvg-logo="", Sky Sports Arena
-httphost://$http-raw=http://crownlive.tv/embed/embed.php?channel=02877ad16ee8c537ef2a7e1b93e7d544e42ab452&width=650&height=400$http-refferer=http://crownlive.tv/embed/preview.php?channel=SkySportsArena
-#EXTINF:-1 tvg-logo="", Sky Sports Cricket
-httphost://$http-raw=http://crownlive.tv/embed/embed.php?channel=e2544919202a8b9634ca44c216173316e5e80377&width=650&height=400$http-refferer=http://crownlive.tv/embed/preview.php?channel=SkySportsCricket
-#EXTINF:-1 tvg-logo="", Sky Sports Golf
-httphost://$http-raw=http://crownlive.tv/embed/embed.php?channel=e8dd2a8c7305b29247f442bc40af662989431673&width=650&height=400$http-refferer=http://crownlive.tv/embed/preview.php?channel=SkySportsGolf
-#EXTINF:-1 tvg-logo="", Sky Sports F1
-httphost://$http-raw=http://crownlive.tv/embed/embed.php?channel=c2e20e5d12bff28ebaea4aa3abd78d8cff336208&width=650&height=400$http-refferer=http://crownlive.tv/embed/preview.php?channel=SkySportsF1
-#EXTINF:-1 tvg-logo="", Sky Sports Mix
-httphost://$http-raw=http://crownlive.tv/embed/embed.php?channel=75a71a7aa3246299c2e3dc7da0ca1c60b0236a1a&width=650&height=400$http-refferer=http://crownlive.tv/embed/preview.php?channel=SkySportsMix
-#EXTINF:-1 tvg-logo="", Sky Sports Action
-httphost://$http-raw=http://crownlive.tv/embed/embed.php?channel=3f38f866eee47599e3a6a8698296a7d158582f12&width=650&height=400$http-refferer=http://crownlive.tv/embed/preview.php?channel=SkySportsAction
-#EXTINF:-1 tvg-logo="", BT Sports 1
-httphost://$http-raw=http://crownlive.tv/embed/embed.php?channel=7e03e208fbfc4d00e05395282b277dbf14afe232&width=650&height=400$http-refferer=http://crownlive.tv/embed/preview.php?channel=BTSports1
-#EXTINF:-1 tvg-logo="", BT Sports 2
-httphost://$http-raw=http://crownlive.tv/embed/embed.php?channel=989e971420a16419be5a287ee8877c4228bb0ae9&width=650&height=400$http-refferer=http://crownlive.tv/embed/preview.php?channel=BTSports2
-#EXTINF:-1 tvg-logo="", BT Sports 3
-httphost://$http-raw=http://crownlive.tv/embed/embed.php?channel=373f03e17cd4cd1c2c2114c2f060641f55d84d4f&width=650&height=400$http-refferer=http://crownlive.tv/embed/preview.php?channel=BTSports3
-#EXTINF:-1 tvg-logo="", BT Sports - ESPN
-httphost://$http-raw=http://crownlive.tv/embed/embed.php?channel=e52811042524f54c58a158317edfdde7f0ccd182&width=650&height=400$http-refferer=http://crownlive.tv/embed/preview.php?channel=BTSportsESPN
-#EXTINF:-1 tvg-logo="", ESPN
-httphost://$http-raw=http://crownlive.tv/embed/embed.php?channel=b324929e9d68d0d8a48cc9d7aadb8aabdba43b0a&width=650&height=400$http-refferer=http://crownlive.tv/embed/preview.php?channel=ESPN
-#EXTINF:-1 tvg-logo="", ESPN2
-httphost://$http-raw=http://crownlive.tv/embed/embed.php?channel=6626d27f4ee78f487d97087dad5256efdfcb3d15&width=650&height=400$http-refferer=http://crownlive.tv/embed/preview.php?channel=ESPN2
-#EXTINF:-1 tvg-logo="", ESPN3
-httphost://$http-raw=http://crownlive.tv/embed/embed.php?channel=b6331a67c847f45c2d63b18467a5fc5f687c7f2a&width=650&height=400$http-refferer=http://crownlive.tv/embed/preview.php?channel=ESPN3
-#EXTINF:-1 tvg-logo="", FOX SPORTS 1
-httphost://$http-raw=http://crownlive.tv/embed/embed.php?channel=8e1072fb6a3befb860db5c4f2f41692a168e5864&width=650&height=400$http-refferer=http://crownlive.tv/embed/preview.php?channel=FOXSPORTS1
-#EXTINF:-1 tvg-logo="", FOX SPORTS 2
-httphost://$http-raw=http://crownlive.tv/embed/embed.php?channel=e97d9e00b7eef8c81d131f13b0d33fac7e0e5d69&width=650&height=400$http-refferer=http://crownlive.tv/embed/preview.php?channel=FOXSPORTS2
-#EXTINF:-1 tvg-logo="", Eurosport 1
-httphost://$http-raw=http://crownlive.tv/embed/embed.php?channel=3c8f70b7f71ed4ddc782c8d9d226edd013ec9f61&width=650&height=400$http-refferer=http://crownlive.tv/embed/preview.php?channel=eurosport1
-#EXTINF:-1 tvg-logo="", Eurosport 2
-httphost://$http-raw=http://crownlive.tv/embed/embed.php?channel=e4e620a97156f8fb969c2659c997d9d22c7803c7&width=650&height=400$http-refferer=http://crownlive.tv/embed/preview.php?channel=eurosport2
-#EXTINF:-1 tvg-logo="", NFL NETWORK
-httphost://$http-raw=http://crownlive.tv/embed/embed.php?channel=b8ac7bb980162d3e725b3e50342787d22dae433b&width=650&height=400$http-refferer=http://crownlive.tv/embed/preview.php?channel=NFLNETWORK
-#EXTINF:-1 tvg-logo="", NHL Network
-httphost://$http-raw=http://crownlive.tv/embed/embed.php?channel=28be74faed833e120bb07d32ce62a0f88f0e18bd&width=650&height=400$http-refferer=http://crownlive.tv/embed/preview.php?channel=nhl-network
-#EXTINF:-1 tvg-logo="", NBA TV
-httphost://$http-raw=http://crownlive.tv/embed/embed.php?channel=077af705bd2530349861a362afb9ec21d7118fc7&width=650&height=400$http-refferer=http://crownlive.tv/embed/preview.php?channel=NBATV
-#EXTINF:-1 tvg-logo="", TSN1
-httphost://$http-raw=http://crownlive.tv/embed/embed.php?channel=6d555bd54fdda6227f47d082e21572174526f42d&width=650&height=400$http-refferer=http://crownlive.tv/embed/preview.php?channel=tsn1
-#EXTINF:-1 tvg-logo="", TSN2
-httphost://$http-raw=http://crownlive.tv/embed/embed.php?channel=2adee1713c7923b757b399926e4cc147c73fd84a&width=650&height=400$http-refferer=http://crownlive.tv/embed/preview.php?channel=tsn2
-#EXTINF:-1 tvg-logo="", TSN3
-httphost://$http-raw=http://crownlive.tv/embed/embed.php?channel=be576ce275e738ee129a6912adec795cb52c0da9&width=650&height=400$http-refferer=http://crownlive.tv/embed/preview.php?channel=tsn3
-#EXTINF:-1 tvg-logo="", TSN4
-httphost://$http-raw=http://crownlive.tv/embed/embed.php?channel=212741729a988fff9885b8537f0c73dd04259a89&width=650&height=400$http-refferer=http://crownlive.tv/embed/preview.php?channel=tsn4
-#EXTINF:-1 tvg-logo="", TSN5
-httphost://$http-raw=http://crownlive.tv/embed/embed.php?channel=66eba50295a92d921cc318036087ddbe45b4eee4&width=650&height=400$http-refferer=http://crownlive.tv/embed/preview.php?channel=tsn5
-#EXTINF:-1 tvg-logo="", Chelsea TV
-httphost://$http-raw=http://crownlive.tv/embed/embed.php?channel=f44002ac9442a778131aabbce594443ad6c01c04&width=650&height=400$http-refferer=http://crownlive.tv/embed/preview.php?channel=chelseatv
-#EXTINF:-1 tvg-logo="", Manchester United TV
-httphost://$http-raw=http://crownlive.tv/embed/embed.php?channel=f4131a1e67fef62e09c901d75d51b9d29756adbc&width=650&height=400$http-refferer=http://crownlive.tv/embed/preview.php?channel=manutdtv
-#EXTINF:-1 tvg-logo="", Premier Sports
-httphost://$http-raw=http://crownlive.tv/embed/embed.php?channel=77c543ef58568d251df35311490e817434f4853a&width=650&height=400$http-refferer=http://crownlive.tv/embed/preview.php?channel=premiersports
-#EXTINF:-1 tvg-logo="", Bein Sports USA
-httphost://$http-raw=http://crownlive.tv/embed/embed.php?channel=bf1ef29105d7f4155775149e1c0d29f51e115c6b&width=650&height=400$http-refferer=http://crownlive.tv/embed/preview.php?channel=beinsportsusa
-#EXTINF:-1 tvg-logo="", Racing UK
-httphost://$http-raw=http://crownlive.tv/embed/embed.php?channel=a7c8c68e33119b74381bf1f7bfd533749e051fa0&width=650&height=400$http-refferer=http://crownlive.tv/embed/preview.php?channel=racinguk
-#EXTINF:-1 tvg-logo="", At the races UK
-httphost://$http-raw=http://crownlive.tv/embed/embed.php?channel=c108e905c7541b71c24bdddd465bd67ae2483cf8&width=650&height=400$http-refferer=http://crownlive.tv/embed/preview.php?channel=at-the-races
-#EXTINF:-1 tvg-logo="", Sports Net World
-httphost://$http-raw=http://crownlive.tv/embed/embed.php?channel=571bdcf00a9f1505ed2254252549369d5d6de678&width=650&height=400$http-refferer=http://crownlive.tv/embed/preview.php?channel=sportsnetworld
-#EXTINF:-1 tvg-logo="", Sports Net One
-httphost://$http-raw=http://crownlive.tv/embed/embed.php?channel=970eba447e81b46560ad2ec54b2f4de4e75e5c90&width=650&height=400$http-refferer=http://crownlive.tv/embed/preview.php?channel=sportsnetone
-#EXTINF:-1 tvg-logo="", Sports Net Ontario
-httphost://$http-raw=http://crownlive.tv/embed/embed.php?channel=f4306f61900fe304cf0c3fcc77cb8ca065579d31&width=650&height=400$http-refferer=http://crownlive.tv/embed/preview.php?channel=sportsnetontario
-#EXTINF:-1 tvg-logo="", Sports Net 360
-httphost://$http-raw=http://crownlive.tv/embed/embed.php?channel=a74e6080a220fefaf010a9b200990a7482f52278&width=650&height=400$http-refferer=http://crownlive.tv/embed/preview.php?channel=sportsnet360
-#EXTINF:-1 tvg-logo="", NBC SN
-httphost://$http-raw=http://crownlive.tv/embed/embed.php?channel=89f684bbfc0974266a1b10f9d580bbcaff0274ce&width=650&height=400$http-refferer=http://crownlive.tv/embed/preview.php?channel=nbcsn
-#EXTINF:-1 tvg-logo="", MLB HD
-httphost://$http-raw=http://crownlive.tv/embed/embed.php?channel=957252f30b06a2bd018f308faf43bed4f3ec3589&width=650&height=400$http-refferer=http://crownlive.tv/embed/preview.php?channel=mlbhd
-#EXTINF:-1 tvg-logo="", ES- Bein La Liga
-httphost://$http-raw=http://crownlive.tv/embed/embed.php?channel=507ba27ec892deffec25c00d4f9559efe457975e&width=650&height=400$http-refferer=http://crownlive.tv/embed/preview.php?channel=beinlaliga
-#EXTINF:-1 tvg-logo="", ES- Canal+ Deportes
-httphost://$http-raw=http://crownlive.tv/embed/embed.php?channel=2b132455015d159bd4c67602e077fb1f6a4a3f68&width=650&height=400$http-refferer=http://crownlive.tv/embed/preview.php?channel=canalplusdeportes
-#EXTINF:-1 tvg-logo="", IT  Sky Calcio
-httphost://$http-raw=http://crownlive.tv/embed/embed.php?channel=884c6660eff7fa708c7cb618abde75c1cd25b434&width=650&height=400$http-refferer=http://crownlive.tv/embed/preview.php?channel=skycalcio
-#EXTINF:-1 tvg-logo="", IT- Sky Sports 1
-httphost://$http-raw=http://crownlive.tv/embed/embed.php?channel=b2824b1a9aa02585c542b90a5966571ad00c45f9&width=650&height=400$http-refferer=http://crownlive.tv/embed/preview.php?channel=it-skysports1
-#EXTINF:-1 tvg-logo="", IT- Sky Sports 2
-httphost://$http-raw=http://crownlive.tv/embed/embed.php?channel=6bbf390eaa9572df19427c0ff750116c94bd4231&width=650&height=400$http-refferer=http://crownlive.tv/embed/preview.php?channel=it-skysports2
-#EXTINF:-1 tvg-logo="", DE  Sky Sports 1
-httphost://$http-raw=http://crownlive.tv/embed/embed.php?channel=544ad76c36b6b58d72a65393daf123d10ad8ead0&width=650&height=400$http-refferer=http://crownlive.tv/embed/preview.php?channel=de-skysports1
-#EXTINF:-1 tvg-logo="", FR- Canal Plus Sport
-httphost://$http-raw=http://crownlive.tv/embed/embed.php?channel=ff0d29f3cf11e41f0445022b0c9ef40b8e7030ca&width=650&height=400$http-refferer=http://crownlive.tv/embed/preview.php?channel=fr-canalplussport
-#EXTINF:-1 tvg-logo="", FR- SFR 1
-httphost://$http-raw=http://crownlive.tv/embed/embed.php?channel=6720b9c68e6d275f6aba3ffd6311e5a1baf42022&width=650&height=400$http-refferer=http://crownlive.tv/embed/preview.php?channel=fr-sfr1
-#EXTINF:-1 tvg-logo="", Portugal- TV Sport 1
-httphost://$http-raw=http://crownlive.tv/embed/embed.php?channel=b6b75bb33b3cb848eaa9cce54181a89957027e9a&width=650&height=400$http-refferer=http://crownlive.tv/embed/preview.php?channel=pt-tvsport1
-#EXTINF:-1 tvg-logo="", it  Sky Calcio 1
-httphost://$http-raw=http://crownlive.tv/embed/embed.php?channel=bc5f312564708613e5dc771ea09e0767325265cd&width=650&height=400$http-refferer=http://crownlive.tv/embed/preview.php?channel=skycalcio1
-#EXTINF:-1 tvg-logo="", it  Sky Calcio 2
-httphost://$http-raw=http://crownlive.tv/embed/embed.php?channel=cb876888fdda4e85e9b7ca5235417f1a2f7e33ad&width=650&height=400$http-refferer=http://crownlive.tv/embed/preview.php?channel=skycalcio2
-#EXTINF:-1 tvg-logo="", it  Sky calcio 3
-httphost://$http-raw=http://crownlive.tv/embed/embed.php?channel=93e233c09896a2b72619380838e01048a0d60f09&width=650&height=400$http-refferer=http://crownlive.tv/embed/preview.php?channel=skycalcio3
-#EXTINF:-1 tvg-logo="", it  sky motogp
-httphost://$http-raw=http://crownlive.tv/embed/embed.php?channel=feea4efd598beb9568836076f27c29f1d9580b50&width=650&height=400$http-refferer=http://crownlive.tv/embed/preview.php?channel=itskymotogp
-#EXTINF:-1 tvg-logo="", it  eurosport 1
-httphost://$http-raw=http://crownlive.tv/embed/embed.php?channel=014416f3a6cef7173b5be316e3d716da02e21c6a&width=650&height=400$http-refferer=http://crownlive.tv/embed/preview.php?channel=iteurosport1
-#EXTINF:-1 tvg-logo="", it  sky sport f1
-httphost://$http-raw=http://crownlive.tv/embed/embed.php?channel=6e81cf104e1f16e04185805c87ee1f1de23661c6&width=650&height=400$http-refferer=http://crownlive.tv/embed/preview.php?channel=itskysportf1
-#EXTINF:-1 tvg-logo="", de  sky sport 2
-httphost://$http-raw=http://crownlive.tv/embed/embed.php?channel=929ccb6b9a75b025366bf6204f6f40f53afda037&width=650&height=400$http-refferer=http://crownlive.tv/embed/preview.php?channel=deskysport2
-#EXTINF:-1 tvg-logo="", de  sky sport 3
-httphost://$http-raw=http://crownlive.tv/embed/embed.php?channel=d26e8213a5de168a914e7466b780f1c056421cce&width=650&height=400$http-refferer=http://crownlive.tv/embed/preview.php?channel=deskysport3
-#EXTINF:-1 tvg-logo="", de  sky sport 4
-httphost://$http-raw=http://crownlive.tv/embed/embed.php?channel=615ed55599f5cefce33ed3d7f6429e16902e6d14&width=650&height=400$http-refferer=http://crownlive.tv/embed/preview.php?channel=deskysport4
-#EXTINF:-1 tvg-logo="", de  sky bundesliga 1
-httphost://$http-raw=http://crownlive.tv/embed/embed.php?channel=a4f84a78adde086025a8050123ebb1b50ba24d91&width=650&height=400$http-refferer=http://crownlive.tv/embed/preview.php?channel=skybundesliga1
-#EXTINF:-1 tvg-logo="", de  sky bundesliga 2
-httphost://$http-raw=http://crownlive.tv/embed/embed.php?channel=342121e63625948f791c588a9828a46d60a5302b&width=650&height=400$http-refferer=http://crownlive.tv/embed/preview.php?channel=skybundesliga2
-#EXTINF:-1 tvg-logo="", de  sky bundesliga 3
-httphost://$http-raw=http://crownlive.tv/embed/embed.php?channel=d961041f857435d06f874e7b3e01011ae9d47850&width=650&height=400$http-refferer=http://crownlive.tv/embed/preview.php?channel=skybundesliga3
-#EXTINF:-1 tvg-logo="", de  eurosport 1
-httphost://$http-raw=http://crownlive.tv/embed/embed.php?channel=af8df27c9acb44292a7276712fa2c657777ca6a7&width=650&height=400$http-refferer=http://crownlive.tv/embed/preview.php?channel=deeurosport1
-#EXTINF:-1 tvg-logo="", pt  sport tv 2
-httphost://$http-raw=http://crownlive.tv/embed/embed.php?channel=637f322310f6986607db57ebf574a8ec35a1464b&width=650&height=400$http-refferer=http://crownlive.tv/embed/preview.php?channel=pt-tvsport2
-#EXTINF:-1 tvg-logo="", pt  sport tv 3
-httphost://$http-raw=http://crownlive.tv/embed/embed.php?channel=dda32c7c5d2ac4ec1ae27455e8c979168119106d&width=650&height=400$http-refferer=http://crownlive.tv/embed/preview.php?channel=pt-tvsport3
-#EXTINF:-1 tvg-logo="", pt  sport tv 4
-httphost://$http-raw=http://crownlive.tv/embed/embed.php?channel=5a594cdb1ad5fedd8eaa9835c5becc8ed9fde18f&width=650&height=400$http-refferer=http://crownlive.tv/embed/preview.php?channel=pt-tvsport4
-#EXTINF:-1 tvg-logo="", ES  beinsports hd
-httphost://$http-raw=http://crownlive.tv/embed/embed.php?channel=0dd4e31efcaf5e5f7d373f6342325fbb75d3a20a&width=650&height=400$http-refferer=http://crownlive.tv/embed/preview.php?channel=es-beinsports
-#EXTINF:-1 tvg-logo="", ES  movistar+ futbol
-httphost://$http-raw=http://crownlive.tv/embed/embed.php?channel=396a937b14277d65edb199ab9c02baa747a7cf91&width=650&height=400$http-refferer=http://crownlive.tv/embed/preview.php?channel=es-movistarfutbol
-#EXTINF:-1 tvg-logo="", fr  bein sports 1
-httphost://$http-raw=http://crownlive.tv/embed/embed.php?channel=b7909c082a0815a1e414f23f8965d6e6b60821d3&width=650&height=400$http-refferer=http://crownlive.tv/embed/preview.php?channel=fr-beinsports1
-#EXTINF:-1 tvg-logo="", fr  bein sports 2
-httphost://$http-raw=http://crownlive.tv/embed/embed.php?channel=7cc9c3a54f73ea958c75a8126413f5da40abed13&width=650&height=400$http-refferer=http://crownlive.tv/embed/preview.php?channel=fr-beinsports2
-#EXTINF:-1 tvg-logo="", fr  bein sports 3
-httphost://$http-raw=http://crownlive.tv/embed/embed.php?channel=9a1f768f5c20dd67e6f90b22a8e80375e750c8b8&width=650&height=400$http-refferer=http://crownlive.tv/embed/preview.php?channel=fr-beinsports3
-#EXTINF:-1 tvg-logo="", fr  canal plus hd
-httphost://$http-raw=http://crownlive.tv/embed/embed.php?channel=f649abe7c244e1d281f64adc115d976f4d616024&width=650&height=400$http-refferer=http://crownlive.tv/embed/preview.php?channel=fr-canal-plus-hd
-#EXTINF:-1 tvg-logo="", tr  beinsports 1
-httphost://$http-raw=http://crownlive.tv/embed/embed.php?channel=e7ac1772b71a5d9217d4d8c345a3cfa038bd2f47&width=650&height=400$http-refferer=http://crownlive.tv/embed/preview.php?channel=tr-beinsports1
-#EXTINF:-1 tvg-logo="", tr  beinsports 2
-httphost://$http-raw=http://crownlive.tv/embed/embed.php?channel=8973ce55f75d6716cfc1e934ba054886d2f4101e&width=650&height=400$http-refferer=http://crownlive.tv/embed/preview.php?channel=tr-beinsports2
-#EXTINF:-1 tvg-logo="", tr  beinsports 3
-httphost://$http-raw=http://crownlive.tv/embed/embed.php?channel=7799e0413c209c59a8fe9868d62f4793cc6b5255&width=650&height=400$http-refferer=http://crownlive.tv/embed/preview.php?channel=tr-beinsports3
-#EXTINF:-1 tvg-logo="", tr  beinsports 4
-httphost://$http-raw=http://crownlive.tv/embed/embed.php?channel=e3066d8341a5ec4630e2dae0d27937609ed63ba5&width=650&height=400$http-refferer=http://crownlive.tv/embed/preview.php?channel=tr-beinsports4
-#EXTINF:-1 tvg-logo="", ar  beinsports 1
-httphost://$http-raw=http://crownlive.tv/embed/embed.php?channel=20a613d5095ec8be8d40b7e42a43ceb695af2342&width=650&height=400$http-refferer=http://crownlive.tv/embed/preview.php?channel=ar-beinsports1
-#EXTINF:-1 tvg-logo="", ar  beinsports 2
-httphost://$http-raw=http://crownlive.tv/embed/embed.php?channel=cc134b398d694517d8ec8a70a13058d516875b93&width=650&height=400$http-refferer=http://crownlive.tv/embed/preview.php?channel=ar-beinsports2
-#EXTINF:-1 tvg-logo="", ar  beinsports 3
-httphost://$http-raw=http://crownlive.tv/embed/embed.php?channel=567ea4e3fc8df7c953504742f4c7a6403b2077c1&width=650&height=400$http-refferer=http://crownlive.tv/embed/preview.php?channel=ar-beinsports3
-#EXTINF:-1 tvg-logo="", ar  beinsports 4
-httphost://$http-raw=http://crownlive.tv/embed/embed.php?channel=8708791426377b27aa952cba24b9561d1a4bbdf3&width=650&height=400$http-refferer=http://crownlive.tv/embed/preview.php?channel=ar-beinsports4
-#EXTINF:-1 tvg-logo="", ar  beinsports 5
-httphost://$http-raw=http://crownlive.tv/embed/embed.php?channel=a97ac49c2666c9916def87f72972f28bd4d733e5&width=650&height=400$http-refferer=http://crownlive.tv/embed/preview.php?channel=ar-beinsports5
-#EXTINF:-1 tvg-logo="", uk  sky motogp
-httphost://$http-raw=http://crownlive.tv/embed/embed.php?channel=08cc449add16b46c9b7333e396dbcc918a0dfb07&width=650&height=400$http-refferer=http://crownlive.tv/embed/preview.php?channel=uk-skymotogp
-#EXTINF:-1 tvg-logo="", ar  beinsports 6
-httphost://$http-raw=http://crownlive.tv/embed/embed.php?channel=d60ff2874ae4e40502947a26d7da13b93f03be32&width=650&height=400$http-refferer=http://crownlive.tv/embed/preview.php?channel=ar-beinsports6
-#EXTINF:-1 tvg-logo="", ar  beinsports 7
-httphost://$http-raw=http://crownlive.tv/embed/embed.php?channel=24f4b20393b356187072e1762d03fc8564116c1c&width=650&height=400$http-refferer=http://crownlive.tv/embed/preview.php?channel=ar-beinsports7
-#EXTINF:-1 tvg-logo="", ar  beinsports 8
-httphost://$http-raw=http://crownlive.tv/embed/embed.php?channel=1a0124f95ba669cadd82276f5325e0fc9d153124&width=650&height=400$http-refferer=http://crownlive.tv/embed/preview.php?channel=ar-beinsports8
-#EXTINF:-1 tvg-logo="", ar  beinsports 9
-httphost://$http-raw=http://crownlive.tv/embed/embed.php?channel=1b5643a256bba02b9c7e59c306043ecc7b26f64c&width=650&height=400$http-refferer=http://crownlive.tv/embed/preview.php?channel=ar-beinsports9
-#EXTINF:-1 tvg-logo="", ar  beinsports 10
-httphost://$http-raw=http://crownlive.tv/embed/embed.php?channel=32e6b4068ea74da7f5ae26e341d43c2b870de086&width=650&height=400$http-refferer=http://crownlive.tv/embed/preview.php?channel=ar-beinsports10
-#EXTINF:-1 tvg-logo="", ar  beinsports 11
-httphost://$http-raw=http://crownlive.tv/embed/embed.php?channel=15d10e583092d0f78bb1568cddcf5eac4f7534aa&width=650&height=400$http-refferer=http://crownlive.tv/embed/preview.php?channel=ar-beinsports11
-#EXTINF:-1 tvg-logo="", ar  beinsports 12
-httphost://$http-raw=http://crownlive.tv/embed/embed.php?channel=22a55c5311194dbc4245e8c955d72a654524cba3&width=650&height=400$http-refferer=http://crownlive.tv/embed/preview.php?channel=ar-beinsports12
-#EXTINF:-1 tvg-logo="", usa  abc
-httphost://$http-raw=http://crownlive.tv/embed/embed.php?channel=53f162fc91c23c8f4637ad28274b09a74903d010&width=650&height=400$http-refferer=http://crownlive.tv/embed/preview.php?channel=usa-abc
-#EXTINF:-1 tvg-logo="", usa  cbs
-httphost://$http-raw=http://crownlive.tv/embed/embed.php?channel=81629299327b6e36f1fd4416d3714f6a475259c2&width=650&height=400$http-refferer=http://crownlive.tv/embed/preview.php?channel=usa-cbs
-#EXTINF:-1 tvg-logo="", usa  cw
-httphost://$http-raw=http://crownlive.tv/embed/embed.php?channel=ab9887e676258295f112baae296f4ea952887ec8&width=650&height=400$http-refferer=http://crownlive.tv/embed/preview.php?channel=usa-cw
-#EXTINF:-1 tvg-logo="", usa  usa network
-httphost://$http-raw=http://crownlive.tv/embed/embed.php?channel=48a276d3cac4360d97d4428f008dbdb22f86f98e&width=650&height=400$http-refferer=http://crownlive.tv/embed/preview.php?channel=usa-usa-network
-#EXTINF:-1 tvg-logo="", usa  a & e
-httphost://$http-raw=http://crownlive.tv/embed/embed.php?channel=db6aa585c209871fc59cc68f4417eda9a489dfe5&width=650&height=400$http-refferer=http://crownlive.tv/embed/preview.php?channel=usa-ae
-#EXTINF:-1 tvg-logo="", usa  amc
-httphost://$http-raw=http://crownlive.tv/embed/embed.php?channel=8f10dc543987568a5aa7ede1dcab67171d92387b&width=650&height=400$http-refferer=http://crownlive.tv/embed/preview.php?channel=usa-amc
-#EXTINF:-1 tvg-logo="", usa  bravo
-httphost://$http-raw=http://crownlive.tv/embed/embed.php?channel=7438ebaa05f7137dab0f75f050b03c87bf847613&width=650&height=400$http-refferer=http://crownlive.tv/embed/preview.php?channel=usa-bravo
-#EXTINF:-1 tvg-logo="", usa  cartoon network
-httphost://$http-raw=http://crownlive.tv/embed/embed.php?channel=22e80887cdf06a8cb8c2a9f685a0ba545a811345&width=650&height=400$http-refferer=http://crownlive.tv/embed/preview.php?channel=usa-cartoon-network
-#EXTINF:-1 tvg-logo="", usa  disney
-httphost://$http-raw=http://crownlive.tv/embed/embed.php?channel=09dcb41637ab24b4ce23952fbdf25e7fe04560d9&width=650&height=400$http-refferer=http://crownlive.tv/embed/preview.php?channel=usa-disney
-#EXTINF:-1 tvg-logo="", usa  cnbc
-httphost://$http-raw=http://crownlive.tv/embed/embed.php?channel=d5a7e8e7d7157ffc0b8a92c5adde61771a27bdf7&width=650&height=400$http-refferer=http://crownlive.tv/embed/preview.php?channel=usa-cnbc
-#EXTINF:-1 tvg-logo="", usa  cnn
-httphost://$http-raw=http://crownlive.tv/embed/embed.php?channel=898e6a4567d347d2d699f768d75ddd44891ccd2e&width=650&height=400$http-refferer=http://crownlive.tv/embed/preview.php?channel=usa-cnn
-#EXTINF:-1 tvg-logo="", usa  comedy central
-httphost://$http-raw=http://crownlive.tv/embed/embed.php?channel=bb95081481fa04ae84966f554c4baecfbb0bded4&width=650&height=400$http-refferer=http://crownlive.tv/embed/preview.php?channel=usa-comedy-central
-#EXTINF:-1 tvg-logo="", usa  food network
-httphost://$http-raw=http://crownlive.tv/embed/embed.php?channel=15d7f8ab7653f04620c5db25110ec07e572e3a42&width=650&height=400$http-refferer=http://crownlive.tv/embed/preview.php?channel=usa-food-network
-#EXTINF:-1 tvg-logo="", usa  fox news
-httphost://$http-raw=http://crownlive.tv/embed/embed.php?channel=78f76675eb4b5232b3e148ed168399d39560f626&width=650&height=400$http-refferer=http://crownlive.tv/embed/preview.php?channel=usa-fox-news
-#EXTINF:-1 tvg-logo="", usa  fx
-httphost://$http-raw=http://crownlive.tv/embed/embed.php?channel=28a594e6369611c87c2da165929f23d497ac59d4&width=650&height=400$http-refferer=http://crownlive.tv/embed/preview.php?channel=usa-fx
-#EXTINF:-1 tvg-logo="", usa  hbo
-httphost://$http-raw=http://crownlive.tv/embed/embed.php?channel=50af2f4dc149b74efb7dae01e3852f5c6171ee70&width=650&height=400$http-refferer=http://crownlive.tv/embed/preview.php?channel=usa-hbo
-#EXTINF:-1 tvg-logo="", usa  mtv
-httphost://$http-raw=http://crownlive.tv/embed/embed.php?channel=cedd166e5f2a4e52f0137a05b769e28f539b8546&width=650&height=400$http-refferer=http://crownlive.tv/embed/preview.php?channel=usa-mtv
-#EXTINF:-1 tvg-logo="", usa  national geographic
-httphost://$http-raw=http://crownlive.tv/embed/embed.php?channel=10fbae3e22a14b3d6ca8aaa4f8d35d1e08692233&width=650&height=400$http-refferer=http://crownlive.tv/embed/preview.php?channel=usa-nat-geo
-#EXTINF:-1 tvg-logo="", usa  nbc
-httphost://$http-raw=http://crownlive.tv/embed/embed.php?channel=360d9dd4d7ea75d77d939b7270262f5f95582a29&width=650&height=400$http-refferer=http://crownlive.tv/embed/preview.php?channel=usa-nbc
-#EXTINF:-1 tvg-logo="", usa  cbsn
-httphost://$http-raw=http://crownlive.tv/embed/embed.php?channel=3ed48b44fec091ac4b8420a03b485cfccf40f915&width=650&height=400$http-refferer=http://crownlive.tv/embed/preview.php?channel=usa-cbsn
-#EXTINF:-1 tvg-logo="", usa  nick
-httphost://$http-raw=http://crownlive.tv/embed/embed.php?channel=1b0ab4682a7fea06f256ad41b5b62190826bb2ba&width=650&height=400$http-refferer=http://crownlive.tv/embed/preview.php?channel=usa-nick
-#EXTINF:-1 tvg-logo="", usa  showtime
-httphost://$http-raw=http://crownlive.tv/embed/embed.php?channel=b412f7366ee748fdbcc606ff8bea2b7de1d74e0e&width=650&height=400$http-refferer=http://crownlive.tv/embed/preview.php?channel=usa-showtime
-#EXTINF:-1 tvg-logo="", usa  syfy
-httphost://$http-raw=http://crownlive.tv/embed/embed.php?channel=aa1b3bedc18f68373ba37458b00aa984a77159d2&width=650&height=400$http-refferer=http://crownlive.tv/embed/preview.php?channel=usa-syfy
-#EXTINF:-1 tvg-logo="", usa  spike
-httphost://$http-raw=http://crownlive.tv/embed/embed.php?channel=7dc23c0c97a0cca395fc40b0fd11b5a6634eced1&width=650&height=400$http-refferer=http://crownlive.tv/embed/preview.php?channel=usa-spike
-#EXTINF:-1 tvg-logo="", usa  tbs
-httphost://$http-raw=http://crownlive.tv/embed/embed.php?channel=274c2a2b645745bbf9d5043071497aa0159086af&width=650&height=400$http-refferer=http://crownlive.tv/embed/preview.php?channel=usa-tbs
-#EXTINF:-1 tvg-logo="", UK  BBC 1
-httphost://$http-raw=http://crownlive.tv/embed/embed.php?channel=012a71d0acf30d86dd2f70df8c4112aa47246c7b&width=650&height=400$http-refferer=http://crownlive.tv/embed/preview.php?channel=uk-bbc1
-#EXTINF:-1 tvg-logo="", UK  ITV 1
-httphost://$http-raw=http://crownlive.tv/embed/embed.php?channel=93a1eb478b779f89a1a8a5ca141a81a062384947&width=650&height=400$http-refferer=http://crownlive.tv/embed/preview.php?channel=uk-itv1
-#EXTINF:-1 tvg-logo="", (Entertainment) ABC Channel
-httphost://$http-raw=http://crownlive.tv/embed/embed.php?channel=ab97e08df535c15d5f5fca7a3c85b80063718640&width=650&height=400$http-refferer=http://crownlive.tv/embed/preview.php?channel=abc
-#EXTINF:-1 tvg-logo="", (Entertainment) NBC Channel
-httphost://$http-raw=http://crownlive.tv/embed/embed.php?channel=ed1d464d37b8c1a0a6405777e57ed723c53754ff&width=650&height=400$http-refferer=http://crownlive.tv/embed/preview.php?channel=nbc
-#EXTINF:-1 tvg-logo="", (Entertainment) HBO Channel
-httphost://$http-raw=http://crownlive.tv/embed/embed.php?channel=a5881fbf01601e253c5479178c78890623932637&width=650&height=400$http-refferer=http://crownlive.tv/embed/preview.php?channel=hbo
-#EXTINF:-1 tvg-logo="", (Entertainment) CBS Channel
-httphost://$http-raw=http://crownlive.tv/embed/embed.php?channel=a9cd50445fca6cc3222bd40cdf4c0f4067762120&width=650&height=400$http-refferer=http://crownlive.tv/embed/preview.php?channel=cbs
 
+#EXTINF:-1,Barclays Premier League
+httphost://$http-raw=http://unblocked.lol/barclayspremierleague$http-refferer=https://unblocked.lol/tv
+#EXTINF:-1,UEFA Champions League
+httphost://$http-raw=http://unblocked.lol/uefachampionsleague$http-refferer=https://unblocked.lol/tv
+#EXTINF:-1,skyarena
+httphost://$http-raw=http://unblocked.lol/skyarena$http-refferer=https://unblocked.lol/tv
+#EXTINF:-1,Sky Sports Main Event
+httphost://$http-raw=http://unblocked.lol/sk1$http-refferer=https://unblocked.lol/tv
+#EXTINF:-1,Sky Sports Football
+httphost://$http-raw=http://unblocked.lol/skyfootball$http-refferer=https://unblocked.lol/tv
+#EXTINF:-1,Sky Sports Cricket
+httphost://$http-raw=http://unblocked.lol/sk2$http-refferer=https://unblocked.lol/tv
+#EXTINF:-1,Sky Sports Action
+httphost://$http-raw=http://unblocked.lol/sk3$http-refferer=https://unblocked.lol/tv
+#EXTINF:-1,Sky Sports Golf
+httphost://$http-raw=http://unblocked.lol/sk4$http-refferer=https://unblocked.lol/tv
+#EXTINF:-1,Sky Premier League
+httphost://$http-raw=http://unblocked.lol/sk5$http-refferer=https://unblocked.lol/tv
+#EXTINF:-1,Sky Sports News
+httphost://$http-raw=http://unblocked.lol/skysportsnews$http-refferer=https://unblocked.lol/tv
+#EXTINF:-1,Sky Sports F1
+httphost://$http-raw=http://unblocked.lol/skf1$http-refferer=https://unblocked.lol/tv
+#EXTINF:-1,Sky Sports F1 Italia
+httphost://$http-raw=http://unblocked.lol/skf1-it$http-refferer=https://unblocked.lol/tv
+#EXTINF:-1,Sky Sports Box Office
+httphost://$http-raw=http://unblocked.lol/skysportsbox$http-refferer=https://unblocked.lol/tv
+#EXTINF:-1,Sky Sport 1 Italia
+httphost://$http-raw=http://unblocked.lol/skysport1italia$http-refferer=https://unblocked.lol/tv
+#EXTINF:-1,Sky Sport 2 Italia
+httphost://$http-raw=http://unblocked.lol/skysport2italia$http-refferer=https://unblocked.lol/tv
+#EXTINF:-1,Sky Sport 3 Italia
+httphost://$http-raw=http://unblocked.lol/skysport3italia$http-refferer=https://unblocked.lol/tv
+#EXTINF:-1,Sky Sport 24 Italia
+httphost://$http-raw=http://unblocked.lol/skysport24italia$http-refferer=https://unblocked.lol/tv
+#EXTINF:-1,Sky Calcio
+httphost://$http-raw=http://unblocked.lol/skycalcio$http-refferer=https://unblocked.lol/tv
+#EXTINF:-1,Sky Sport MotoGP
+httphost://$http-raw=http://unblocked.lol/skysportmotogp$http-refferer=https://unblocked.lol/tv
