@@ -65,33 +65,6 @@ http://2.primatv.club:8450/live/haLA2tv2018/ha2LA218tv/1293.ts
 #EXTINF:-1 tvg-logo="https://alborsanews.com/app/uploads/2014/12/1461296630_629540_745_405544_-1024x415.jpg",======OSN [AR]=========
 http://2.primatv.club:8450/live/haLA2tv2018/ha2LA218tv/1472.ts
 #EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTINF:-1,Cine1HD
-http://2.primatv.club:8450/live/haLA2tv2018/ha2LA218tv/1313.ts
-#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTINF:-1,Cine2HD
-http://2.primatv.club:8450/live/haLA2tv2018/ha2LA218tv/1314.ts
-#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTINF:-1,Movies Action HD
-http://2.primatv.club:8450/live/haLA2tv2018/ha2LA218tv/1302.ts
-#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTINF:-1,Movies Action 2 HD
-http://2.primatv.club:8450/live/haLA2tv2018/ha2LA218tv/1303.ts
-#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTINF:-1,Movies HD
-http://2.primatv.club:8450/live/haLA2tv2018/ha2LA218tv/1300.ts
-#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTINF:-1,Movies 2 HD
-http://2.primatv.club:8450/live/haLA2tv2018/ha2LA218tv/1301.ts
-#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTINF:-1,Movies Comedy HD
-http://2.primatv.club:8450/live/haLA2tv2018/ha2LA218tv/1306.ts
-#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTINF:-1,Movies Premiere
-http://2.primatv.club:8450/live/haLA2tv2018/ha2LA218tv/1304.ts
-#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTINF:-1,Movies Premiere 2
-http://2.primatv.club:8450/live/haLA2tv2018/ha2LA218tv/1305.ts
-#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1,Officebox 1HD
 http://2.primatv.club:8450/live/haLA2tv2018/ha2LA218tv/1297.ts
 #EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
@@ -107,6 +80,24 @@ http://2.primatv.club:8450/live/haLA2tv2018/ha2LA218tv/1307.ts
 #EXTINF:-1,Ondemend Extra HD
 http://2.primatv.club:8450/live/haLA2tv2018/ha2LA218tv/1308.ts
 #EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+#EXTINF:-1,Cine1HD
+http://2.primatv.club:8450/live/haLA2tv2018/ha2LA218tv/1313.ts
+#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+#EXTINF:-1,Cine2HD
+http://2.primatv.club:8450/live/haLA2tv2018/ha2LA218tv/1314.ts
+#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+#EXTINF:-1,Yahala HD
+http://2.primatv.club:8450/live/haLA2tv2018/ha2LA218tv/1309.ts
+#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+#EXTINF:-1,Yahala CineHD
+http://2.primatv.club:8450/live/haLA2tv2018/ha2LA218tv/1312.ts
+#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+#EXTINF:-1,Yahala DraHD
+http://2.primatv.club:8450/live/haLA2tv2018/ha2LA218tv/1310.ts
+#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+#EXTINF:-1,Yahala Shabab HD
+http://2.primatv.club:8450/live/haLA2tv2018/ha2LA218tv/1311.ts
+#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1,SeeVii Al oula HD
 http://2.primatv.club:8450/live/haLA2tv2018/ha2LA218tv/1316.ts
 #EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
@@ -119,70 +110,78 @@ http://2.primatv.club:8450/live/haLA2tv2018/ha2LA218tv/1315.ts
 #EXTINF:-1,SeeVii-Shamia
 http://2.primatv.club:8450/live/haLA2tv2018/ha2LA218tv/1317.ts
 #EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTINF:-1,Yahala CineHD
-http://2.primatv.club:8450/live/haLA2tv2018/ha2LA218tv/1312.ts
+#EXTINF:-1,Movies HD
+http://2.primatv.club:8450/live/haLA2tv2018/ha2LA218tv/1300.ts
 #EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTINF:-1,Yahala HD
-http://2.primatv.club:8450/live/haLA2tv2018/ha2LA218tv/1309.ts
+#EXTINF:-1,Movies 2 HD
+http://2.primatv.club:8450/live/haLA2tv2018/ha2LA218tv/1301.ts
 #EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTINF:-1,Yahala DraHD
-http://2.primatv.club:8450/live/haLA2tv2018/ha2LA218tv/1310.ts
+#EXTINF:-1,Movies Action HD
+http://2.primatv.club:8450/live/haLA2tv2018/ha2LA218tv/1302.ts
 #EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTINF:-1,Yahala Shabab HD
-http://2.primatv.club:8450/live/haLA2tv2018/ha2LA218tv/1311.ts
+#EXTINF:-1,Movies Action 2 HD
+http://2.primatv.club:8450/live/haLA2tv2018/ha2LA218tv/1303.ts
+#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+#EXTINF:-1,Movies Comedy HD
+http://2.primatv.club:8450/live/haLA2tv2018/ha2LA218tv/1306.ts
+#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+#EXTINF:-1,Movies Premiere
+http://2.primatv.club:8450/live/haLA2tv2018/ha2LA218tv/1304.ts
+#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+#EXTINF:-1,Movies Premiere 2
+http://2.primatv.club:8450/live/haLA2tv2018/ha2LA218tv/1305.ts
 
 
 
 #EXTINF:-1 tvg-logo="http://bein.net/ar/wp-content/uploads/sites/4/2017/05/Frequincies.jpg",======BeIN MOVIES [AR]=========
 http://2.primatv.club:8450/live/haLA2tv2018/ha2LA218tv/1472.ts
 #EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTINF:-1 tvg-ID="" tvg-name="BeIN Movies 1HD" tvg-logo="" group-title="03-BeIN MOVIES [AR]",BeIN Movies 1HD
+#EXTINF:-1,BeIN Movies 1HD
 http://2.primatv.club:8450/live/haLA2tv2018/ha2LA218tv/1473.ts
 #EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTINF:-1 tvg-ID="" tvg-name="BeIN Movies 2HD" tvg-logo="" group-title="03-BeIN MOVIES [AR]",BeIN Movies 2HD
+#EXTINF:-1,BeIN Movies 2HD
 http://2.primatv.club:8450/live/haLA2tv2018/ha2LA218tv/1474.ts
 #EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTINF:-1 tvg-ID="" tvg-name="BeIN Movies 3HD" tvg-logo="" group-title="03-BeIN MOVIES [AR]",BeIN Movies 3HD
+#EXTINF:-1,BeIN Movies 3HD
 http://2.primatv.club:8450/live/haLA2tv2018/ha2LA218tv/1475.ts
 #EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTINF:-1 tvg-ID="" tvg-name="BeIN Movies 4HD" tvg-logo="" group-title="03-BeIN MOVIES [AR]",BeIN Movies 4HD
+#EXTINF:-1,BeIN Movies 4HD
 http://2.primatv.club:8450/live/haLA2tv2018/ha2LA218tv/1476.ts
 #EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTINF:-1 tvg-ID="" tvg-name="BeIN Discovery HD" tvg-logo="" group-title="03-BeIN MOVIES [AR]",BeIN Discovery HD
-http://2.primatv.club:8450/live/haLA2tv2018/ha2LA218tv/1478.ts
-#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTINF:-1 tvg-ID="" tvg-name="BeIN GROUMMET" tvg-logo="" group-title="03-BeIN MOVIES [AR]",BeIN GROUMMET
+#EXTINF:-1,BeIN GROUMMET
 http://2.primatv.club:8450/live/haLA2tv2018/ha2LA218tv/1477.ts
 #EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTINF:-1 tvg-ID="" tvg-name="BeIN Jeem_HD" tvg-logo="" group-title="03-BeIN MOVIES [AR]",BeIN Jeem_HD
-http://2.primatv.club:8450/live/haLA2tv2018/ha2LA218tv/1482.ts
-#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTINF:-1 tvg-ID="" tvg-name="BeIN Baraim_HD" tvg-logo="" group-title="03-BeIN MOVIES [AR]",BeIN Baraim_HD
-http://2.primatv.club:8450/live/haLA2tv2018/ha2LA218tv/1480.ts
-#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTINF:-1 tvg-ID="" tvg-name="BeIN Fatafeat" tvg-logo="" group-title="03-BeIN MOVIES [AR]",BeIN Fatafeat
+#EXTINF:-1,BeIN Fatafeat
 http://2.primatv.club:8450/live/haLA2tv2018/ha2LA218tv/1479.ts
 #EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTINF:-1 tvg-ID="" tvg-name="BeIN JUNIOR" tvg-logo="" group-title="03-BeIN MOVIES [AR]",BeIN JUNIOR
+#EXTINF:-1,BeIN JUNIOR
 http://2.primatv.club:8450/live/haLA2tv2018/ha2LA218tv/1481.ts
-
+#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+#EXTINF:-1,BeIN Baraim_HD
+http://2.primatv.club:8450/live/haLA2tv2018/ha2LA218tv/1480.ts
+#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+#EXTINF:-1,BeIN Jeem_HD
+http://2.primatv.club:8450/live/haLA2tv2018/ha2LA218tv/1482.ts
+#EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+#EXTINF:-1,BeIN Discovery HD
+http://2.primatv.club:8450/live/haLA2tv2018/ha2LA218tv/1478.ts
 
 #EXTINF:-1 tvg-logo="http://masr140.org/wp-content/uploads/2016/11/hqdefault-1-2.jpg",======ART [AR]========
 http://2.primatv.club:8450/live/haLA2tv2018/ha2LA218tv/1472.ts
 #EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTINF:-1 tvg-ID="" tvg-name="Aflam 1" tvg-logo="" group-title="06-ART [AR]",Aflam 1
+#EXTINF:-1,Aflam 1
 http://2.primatv.club:8450/live/haLA2tv2018/ha2LA218tv/1319.ts
 #EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTINF:-1 tvg-ID="" tvg-name="Aflam 2" tvg-logo="" group-title="06-ART [AR]",Aflam 2
+#EXTINF:-1,Aflam 2
 http://2.primatv.club:8450/live/haLA2tv2018/ha2LA218tv/1320.ts
 #EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTINF:-1 tvg-ID="" tvg-name="Hekayat 1" tvg-logo="" group-title="06-ART [AR]",Hekayat 1
+#EXTINF:-1,Hekayat 1
 http://2.primatv.club:8450/live/haLA2tv2018/ha2LA218tv/1321.ts
 #EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTINF:-1 tvg-ID="" tvg-name="Hekayat 2" tvg-logo="" group-title="06-ART [AR]",Hekayat 2
+#EXTINF:-1,Hekayat 2
 http://2.primatv.club:8450/live/haLA2tv2018/ha2LA218tv/1322.ts
 #EXTVLCOPT:http-user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTINF:-1 tvg-ID="" tvg-name="Cinema" tvg-logo="" group-title="06-ART [AR]",Cinema
+#EXTINF:-1,Cinema
 http://2.primatv.club:8450/live/haLA2tv2018/ha2LA218tv/1323.ts
 
 
