@@ -1,6 +1,109 @@
 
 #EXTINF:-1 tvg-logo="http://civiltarsulas.hu/uploads/icons/language/Français.png" group-title="LABEL",======FRANCE=======
 http://www.lengua.com/anthems/France.mp3
+#EXTINF:-1,TF1
+http://185.115.33.210:8086/hls/TF1n.m3u8?key=859d5abb2987ff85da175f919a22b754
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/46/AB1_channel_logo.png" group-title="FRANCE",AB1
+http://live-trl102.abweb.com/liveabtrl102/ngrp:ab1.stream_bis/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/6/67/Alsace_20_logo_2013.png/300px-Alsace_20_logo_2013.png" group-title="FRANCE",Alsace 20
+http://live.alsace20.fr/live/alsace20/ngrp:alsace20_all/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-6broowjJuk8/Tl_rNKHRrlI/AAAAAAAACD0/v1mP7Y4934A/s500/Animaux+logo.png" group-title="FRANCE",Animaux
+http://live-s102.abweb.com/liveabs102/ngrp:animaux.stream_bis/chunklist_b1096000.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/6/60/Logo-antenne-reunion-television-2011.png" group-title="FRANCE",Antenne Reunion
+http://41.213.128.117:1935/antennelive/smil:antennereunion.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.monasterra.org/wp-content/uploads/2015/12/Arte-logo.png" group-title="FRANCE",Arte
+http://streaming-hub.com/stream/arte.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/8/8a/BFM_TV_logo_(2016).png" group-title="FRANCE",BFM TV
+http://csm-e.dai.bfmtv.com/csm/live/109797390.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/875697565462908928/44KptPDt_400x400.jpg" group-title="FRANCE",BFM Paris
+http://bfmparishdslive-lh.akamaihd.net/i/DVMR_PARIS@429747/master.m3u8
+
+#EXTINF:-1 tvg-logo="http://artsaintgermaindespres.com/wp-content/uploads/2015/04/bfmbusiness.jpg" group-title="FRANCE",BFM Business
+http://bfmlive-i.akamaihd.net/hls/live/254438/876450612001/DVMR_BFMBusiness2/master.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.lepoint.fr/images/2016/06/07/4196567lpw-4196810-jpg_3591288.jpg" group-title="FRANCE",BFM Sport
+http://rmc-i.akamaihd.net/hls/live/218333/876630703001/BFMSPORT/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d2/Cgtn.jpg" group-title="FRANCE",CGTN
+http://live.cgtn.com/1000f/prog_index.m3u8
+
+#EXTINF:-1 tvg-logo="https://maxnet.ua/wp-content/uploads/2014/10/chasse-peche.gif" group-title="FRANCE",Chasse et Peche
+http://live-s101.abweb.com/liveabs101/ngrp:chasseetpeche.stream_bis/chunklist_b1096000.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.broadbandtvnews.com/wp-content/uploads/2017/02/CNews_Logo.jpg" group-title="FRANCE",CNews
+http://hls-m06.live-lv3.canal-plus.com/live/hls/itele-clair-hd-andr7/and-hd-clair/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.streamytv.net/wp-content/uploads/2015/11/Djing-Animation.png" group-title="FRANCE",DJing - Animation
+http://www.djing.com/tv/a-05.m3u8
+
+#EXTINF:-1 tvg-logo="https://fernsehen-live-stream.org/uploads/posts/2016-05/1463334619_djing-classics.jpg" group-title="FRANCE",DJing - Classics
+http://www.djing.com/tv/i-05.m3u8
+
+#EXTINF:-1 tvg-logo="http://bouquettv.mediactus.fr/wp-content/uploads/2016/11/Djing-Ibiza-TV.png" group-title="FRANCE",DJing - Ibiza
+http://www.djing.com/tv/d-05.m3u8
+
+#EXTINF:-1 tvg-logo="http://wikibox.eu/wp-content/uploads/2015/09/DJing-Underground.jpg" group-title="FRANCE",DJing - Underground
+http://www.djing.com/tv/u-05.m3u8
+
+#EXTINF:-1 tvg-logo="http://company.fashiontv.com/wp-content/uploads/2017/03/fashiontv_logo_blue_vertical.png" group-title="FRANCE",Fashion TV
+http://stream-01.nyc.dailymotion.com/52/dm/3/x3m6nld/live-3.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/j55hDLp.png" group-title="FRANCE",France 24
+http://f24hls-i.akamaihd.net/hls/live/221192/F24_FR_LO_HLS/master_900.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.streamytv.net/wp-content/uploads/2015/08/TV-Francophonie.jpg" group-title="FRANCE",Francophonie 24
+http://mv2.tvfrancophonie.org/live/Stream1/media_b776739_w671289549.m3u8
+
+#EXTINF:-1 tvg-logo="http://oklivetv.com/wp-content/uploads/media/27e1d10de6de7c4cc536c77d69643ba4.jpeg" group-title="FRANCE",Gong
+http://ec.playmedia.fr/gong-base/live/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://alloforfait.fr/wp-content/uploads/2015/10/Indies-Live.jpg" group-title="FRANCE",Indies Live (WN)
+http://ec.playmedia.fr/indies-live/live/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/2/27/LogoLCN.JPG" group-title="FRANCE",La Chaine Normande
+http://live.lachainenormande.fr/live/lcn/livestream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/e/e4/Mangas_%28TV%29_logo_2015.png" group-title="FRANCE",Mangas
+http://live-trl102.abweb.com/liveabtrl102/ngrp:mangas.stream_bis/chunklist_b1096000.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/789467576015421446/Ny4bF54R.jpg" group-title="FRANCE",Monaco Info (Monaco)
+http://46.105.34.238/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/7/73/Logo_RMC_Découverte_2012.png" group-title="FRANCE",RMC Decouverte
+http://streaming-hub.com/stream/rmc.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/733311146040643584/ETxeN2GZ.jpg" group-title="FRANCE",RT
+http://secure-streams.akamaized.net/rt-fr/index2500.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/RTL_logo.svg/1200px-RTL_logo.svg.png" group-title="FRANCE",RTL
+http://stream-09.dc3.dailymotion.com/15/dm/1/xl1km0/live.isml/events(live-1497621843)/live-audio=128000-video=6300000.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.science-et-vie.tv/images/logo.png" group-title="FRANCE",Science et Vie TV
+http://live-trl101.abweb.com/liveabtrl101/ngrp:scienceetvie.stream_bis/chunklist_b1096000.m3u8
+
+#EXTINF:-1 tvg-logo="https://image-store.slidesharecdn.com/2470438d-37a2-49a1-9d3d-fb7aaf89e073-original.png" group-title="FRANCE",TV5MONDE Asie
+https://api-asia.tv5monde.com/Live/250600/4792245510001-5/tv5plusinfo/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/649226291506475008/bhxaORhF.png" group-title="FRANCE",TV5 Monde Info
+http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877/v3plusinfo247hls/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.nordbretagne.fr/photo/art/default/1736504-2352454.jpg" group-title="FRANCE",Tebeo
+http://live2.awedia.com/hls/tebeo.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/671687963689033728/k-tLY6M4.jpg" group-title="FRANCE",Toute l'Histoire
+http://live-s101.abweb.com/liveabs101/ngrp:toutelhistoire.stream_bis/chunklist_b1096000.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/9/92/TVPI_logo.png" group-title="FRANCE",TVPI
+http://streamcast.oc3n.net:1935/TVPI/myStream700.sdp/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://backoffice.telecablesat.fr/business/img/photos/biz/999/weo.jpg" group-title="FRANCE",Weo
+http://str81.creacast.com/weo/high/live.m3u8
 
 #EXTINF:-1,FR:6TER
 http://srvt.topiptv.org:80/live/Acc_AM.V3X1llllxx2/App65080/1678.ts
@@ -285,107 +388,268 @@ http://srvt.topiptv.org:80/live/Acc_AM.V3X1llllxx2/App65080/838.ts
 http://srvt.topiptv.org:80/live/Acc_AM.V3X1llllxx2/App65080/839.ts
 #EXTVLCOPT:http-user-agent=BoX@dash#
 
-#EXTINF:-1,TF1
-http://185.115.33.210:8086/hls/TF1n.m3u8?key=859d5abb2987ff85da175f919a22b754
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/46/AB1_channel_logo.png" group-title="FRANCE",AB1
-http://live-trl102.abweb.com/liveabtrl102/ngrp:ab1.stream_bis/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/6/67/Alsace_20_logo_2013.png/300px-Alsace_20_logo_2013.png" group-title="FRANCE",Alsace 20
-http://live.alsace20.fr/live/alsace20/ngrp:alsace20_all/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-6broowjJuk8/Tl_rNKHRrlI/AAAAAAAACD0/v1mP7Y4934A/s500/Animaux+logo.png" group-title="FRANCE",Animaux
-http://live-s102.abweb.com/liveabs102/ngrp:animaux.stream_bis/chunklist_b1096000.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/6/60/Logo-antenne-reunion-television-2011.png" group-title="FRANCE",Antenne Reunion
-http://41.213.128.117:1935/antennelive/smil:antennereunion.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.monasterra.org/wp-content/uploads/2015/12/Arte-logo.png" group-title="FRANCE",Arte
-http://streaming-hub.com/stream/arte.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/8/8a/BFM_TV_logo_(2016).png" group-title="FRANCE",BFM TV
-http://csm-e.dai.bfmtv.com/csm/live/109797390.m3u8
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/875697565462908928/44KptPDt_400x400.jpg" group-title="FRANCE",BFM Paris
-http://bfmparishdslive-lh.akamaihd.net/i/DVMR_PARIS@429747/master.m3u8
-
-#EXTINF:-1 tvg-logo="http://artsaintgermaindespres.com/wp-content/uploads/2015/04/bfmbusiness.jpg" group-title="FRANCE",BFM Business
-http://bfmlive-i.akamaihd.net/hls/live/254438/876450612001/DVMR_BFMBusiness2/master.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.lepoint.fr/images/2016/06/07/4196567lpw-4196810-jpg_3591288.jpg" group-title="FRANCE",BFM Sport
-http://rmc-i.akamaihd.net/hls/live/218333/876630703001/BFMSPORT/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d2/Cgtn.jpg" group-title="FRANCE",CGTN
-http://live.cgtn.com/1000f/prog_index.m3u8
-
-#EXTINF:-1 tvg-logo="https://maxnet.ua/wp-content/uploads/2014/10/chasse-peche.gif" group-title="FRANCE",Chasse et Peche
-http://live-s101.abweb.com/liveabs101/ngrp:chasseetpeche.stream_bis/chunklist_b1096000.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.broadbandtvnews.com/wp-content/uploads/2017/02/CNews_Logo.jpg" group-title="FRANCE",CNews
-http://hls-m06.live-lv3.canal-plus.com/live/hls/itele-clair-hd-andr7/and-hd-clair/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.streamytv.net/wp-content/uploads/2015/11/Djing-Animation.png" group-title="FRANCE",DJing - Animation
-http://www.djing.com/tv/a-05.m3u8
-
-#EXTINF:-1 tvg-logo="https://fernsehen-live-stream.org/uploads/posts/2016-05/1463334619_djing-classics.jpg" group-title="FRANCE",DJing - Classics
-http://www.djing.com/tv/i-05.m3u8
-
-#EXTINF:-1 tvg-logo="http://bouquettv.mediactus.fr/wp-content/uploads/2016/11/Djing-Ibiza-TV.png" group-title="FRANCE",DJing - Ibiza
-http://www.djing.com/tv/d-05.m3u8
-
-#EXTINF:-1 tvg-logo="http://wikibox.eu/wp-content/uploads/2015/09/DJing-Underground.jpg" group-title="FRANCE",DJing - Underground
-http://www.djing.com/tv/u-05.m3u8
-
-#EXTINF:-1 tvg-logo="http://company.fashiontv.com/wp-content/uploads/2017/03/fashiontv_logo_blue_vertical.png" group-title="FRANCE",Fashion TV
-http://stream-01.nyc.dailymotion.com/52/dm/3/x3m6nld/live-3.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/j55hDLp.png" group-title="FRANCE",France 24
-http://f24hls-i.akamaihd.net/hls/live/221192/F24_FR_LO_HLS/master_900.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.streamytv.net/wp-content/uploads/2015/08/TV-Francophonie.jpg" group-title="FRANCE",Francophonie 24
-http://mv2.tvfrancophonie.org/live/Stream1/media_b776739_w671289549.m3u8
-
-#EXTINF:-1 tvg-logo="http://oklivetv.com/wp-content/uploads/media/27e1d10de6de7c4cc536c77d69643ba4.jpeg" group-title="FRANCE",Gong
-http://ec.playmedia.fr/gong-base/live/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://alloforfait.fr/wp-content/uploads/2015/10/Indies-Live.jpg" group-title="FRANCE",Indies Live (WN)
-http://ec.playmedia.fr/indies-live/live/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/2/27/LogoLCN.JPG" group-title="FRANCE",La Chaine Normande
-http://live.lachainenormande.fr/live/lcn/livestream/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/e/e4/Mangas_%28TV%29_logo_2015.png" group-title="FRANCE",Mangas
-http://live-trl102.abweb.com/liveabtrl102/ngrp:mangas.stream_bis/chunklist_b1096000.m3u8
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/789467576015421446/Ny4bF54R.jpg" group-title="FRANCE",Monaco Info (Monaco)
-http://46.105.34.238/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/7/73/Logo_RMC_Découverte_2012.png" group-title="FRANCE",RMC Decouverte
-http://streaming-hub.com/stream/rmc.m3u8
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/733311146040643584/ETxeN2GZ.jpg" group-title="FRANCE",RT
-http://secure-streams.akamaized.net/rt-fr/index2500.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/RTL_logo.svg/1200px-RTL_logo.svg.png" group-title="FRANCE",RTL
-http://stream-09.dc3.dailymotion.com/15/dm/1/xl1km0/live.isml/events(live-1497621843)/live-audio=128000-video=6300000.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.science-et-vie.tv/images/logo.png" group-title="FRANCE",Science et Vie TV
-http://live-trl101.abweb.com/liveabtrl101/ngrp:scienceetvie.stream_bis/chunklist_b1096000.m3u8
-
-#EXTINF:-1 tvg-logo="https://image-store.slidesharecdn.com/2470438d-37a2-49a1-9d3d-fb7aaf89e073-original.png" group-title="FRANCE",TV5MONDE Asie
-https://api-asia.tv5monde.com/Live/250600/4792245510001-5/tv5plusinfo/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/649226291506475008/bhxaORhF.png" group-title="FRANCE",TV5 Monde Info
-http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877/v3plusinfo247hls/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.nordbretagne.fr/photo/art/default/1736504-2352454.jpg" group-title="FRANCE",Tebeo
-http://live2.awedia.com/hls/tebeo.m3u8
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/671687963689033728/k-tLY6M4.jpg" group-title="FRANCE",Toute l'Histoire
-http://live-s101.abweb.com/liveabs101/ngrp:toutelhistoire.stream_bis/chunklist_b1096000.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/9/92/TVPI_logo.png" group-title="FRANCE",TVPI
-http://streamcast.oc3n.net:1935/TVPI/myStream700.sdp/live.m3u8
-
-#EXTINF:-1 tvg-logo="http://backoffice.telecablesat.fr/business/img/photos/biz/999/weo.jpg" group-title="FRANCE",Weo
-http://str81.creacast.com/weo/high/live.m3u8
+#EXTM3U
+#EXTINF:-1,Cartoon Network HD
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/520.m3u8$http-refferer=http://localhost
+#EXTINF:-1,Discovery Science HD
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/519.m3u8$http-refferer=http://localhost
+#EXTINF:-1,Disney Jr Fr
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/518.m3u8$http-refferer=http://localhost
+#EXTINF:-1,Nat Geo HD
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/517.m3u8$http-refferer=http://localhost
+#EXTINF:-1,Nat Geo Wild HD
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/516.m3u8$http-refferer=http://localhost
+#EXTINF:-1,NRJ12 HD
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/515.m3u8$http-refferer=http://localhost
+#EXTINF:-1,13 EME RUE HD
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/514.m3u8$http-refferer=http://localhost
+#EXTINF:-1,6TER HD
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/513.m3u8$http-refferer=http://localhost
+#EXTINF:-1,A LA CARTE 10
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/512.m3u8$http-refferer=http://localhost
+#EXTINF:-1,A LA CARTE 7
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/511.m3u8$http-refferer=http://localhost
+#EXTINF:-1,A LA CARTE 8
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/510.m3u8$http-refferer=http://localhost
+#EXTINF:-1,A LA CARTE 9
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/509.m3u8$http-refferer=http://localhost
+#EXTINF:-1,AB Moteur HD
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/508.m3u8$http-refferer=http://localhost
+#EXTINF:-1,AB1
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/507.m3u8$http-refferer=http://localhost
+#EXTINF:-1,AB3
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/506.m3u8$http-refferer=http://localhost
+#EXTINF:-1,ACTION
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/505.m3u8$http-refferer=http://localhost
+#EXTINF:-1,ANIMAUX
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/504.m3u8$http-refferer=http://localhost
+#EXTINF:-1,ARTE HD
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/503.m3u8$http-refferer=http://localhost
+#EXTINF:-1,beINS PORTS 2HD
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/86.m3u8$http-refferer=http://localhost
+#EXTINF:-1,BFM TV
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/464.m3u8$http-refferer=http://localhost
+#EXTINF:-1,Boing
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/521.m3u8$http-refferer=http://localhost
+#EXTINF:-1,BOOMERANG HD
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/522.m3u8$http-refferer=http://localhost
+#EXTINF:-1,C8
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/495.m3u8$http-refferer=http://localhost
+#EXTINF:-1,Canal Cinema
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/494.m3u8$http-refferer=http://localhost
+#EXTINF:-1,Canal Decale
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/493.m3u8$http-refferer=http://localhost
+#EXTINF:-1,Canal Family
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/492.m3u8$http-refferer=http://localhost
+#EXTINF:-1,Canal Series
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/491.m3u8$http-refferer=http://localhost
+#EXTINF:-1,CANAL HD
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/465.m3u8$http-refferer=http://localhost
+#EXTINF:-1,CANAL J
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/490.m3u8$http-refferer=http://localhost
+#EXTINF:-1,CANAL PLAY 1
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/489.m3u8$http-refferer=http://localhost
+#EXTINF:-1,CANAL PLAY 2
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/488.m3u8$http-refferer=http://localhost
+#EXTINF:-1,CANAL PLAY 3
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/487.m3u8$http-refferer=http://localhost
+#EXTINF:-1,CANAL PLAY 4
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/486.m3u8$http-refferer=http://localhost
+#EXTINF:-1,CANAL PLAY 5
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/485.m3u8$http-refferer=http://localhost
+#EXTINF:-1,CANAL PLAY 6
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/484.m3u8$http-refferer=http://localhost
+#EXTINF:-1,CANAL PLAY 7
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/483.m3u8$http-refferer=http://localhost
+#EXTINF:-1,Chasse et Peche
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/482.m3u8$http-refferer=http://localhost
+#EXTINF:-1,CHERIE 25 HD
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/481.m3u8$http-refferer=http://localhost
+#EXTINF:-1,CINE CLASSIC
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/480.m3u8$http-refferer=http://localhost
+#EXTINF:-1,CINE CLASSIC HD
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/479.m3u8$http-refferer=http://localhost
+#EXTINF:-1,CINE EMOTION
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/478.m3u8$http-refferer=http://localhost
+#EXTINF:-1,CINE EMOTION HD
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/477.m3u8$http-refferer=http://localhost
+#EXTINF:-1,CINE FAMIZ
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/476.m3u8$http-refferer=http://localhost
+#EXTINF:-1,Cine Famiz HD
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/475.m3u8$http-refferer=http://localhost
+#EXTINF:-1,CINE FRISSON
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/474.m3u8$http-refferer=http://localhost
+#EXTINF:-1,CINE FRISSON HD
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/473.m3u8$http-refferer=http://localhost
+#EXTINF:-1,CINE FX
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/472.m3u8$http-refferer=http://localhost
+#EXTINF:-1,CINE POLAR
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/471.m3u8$http-refferer=http://localhost
+#EXTINF:-1,CINE PREMIER HD
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/470.m3u8$http-refferer=http://localhost
+#EXTINF:-1,COMEDIE HD
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/469.m3u8$http-refferer=http://localhost
+#EXTINF:-1,COMEDIE Plus
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/468.m3u8$http-refferer=http://localhost
+#EXTINF:-1,CSTAR HD
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/467.m3u8$http-refferer=http://localhost
+#EXTINF:-1,D17
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/466.m3u8$http-refferer=http://localhost
+#EXTINF:-1,D8
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/496.m3u8$http-refferer=http://localhost
+#EXTINF:-1,DISCOVERY
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/386.m3u8$http-refferer=http://localhost
+#EXTINF:-1,DISNEY CHANNEL
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/451.m3u8$http-refferer=http://localhost
+#EXTINF:-1,DISNEY CINEMA
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/452.m3u8$http-refferer=http://localhost
+#EXTINF:-1,Disney xd HD
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/453.m3u8$http-refferer=http://localhost
+#EXTINF:-1,EQUIDIA live
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/454.m3u8$http-refferer=http://localhost
+#EXTINF:-1,FRANCE 2
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/458.m3u8$http-refferer=http://localhost
+#EXTINF:-1,France 4 HD
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/459.m3u8$http-refferer=http://localhost
+#EXTINF:-1,France 5 HD
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/460.m3u8$http-refferer=http://localhost
+#EXTINF:-1,France O HD
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/461.m3u8$http-refferer=http://localhost
+#EXTINF:-1,GAME ONE
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/462.m3u8$http-refferer=http://localhost
+#EXTINF:-1,GULLI HD
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/463.m3u8$http-refferer=http://localhost
+#EXTINF:-1,HD1
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/450.m3u8$http-refferer=http://localhost
+#EXTINF:-1,i Tele
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/449.m3u8$http-refferer=http://localhost
+#EXTINF:-1,L'EQUIPE 21
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/447.m3u8$http-refferer=http://localhost
+#EXTINF:-1,La Deux
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/446.m3u8$http-refferer=http://localhost
+#EXTINF:-1,La une BE
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/445.m3u8$http-refferer=http://localhost
+#EXTINF:-1,LCI
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/444.m3u8$http-refferer=http://localhost
+#EXTINF:-1,M6
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/443.m3u8$http-refferer=http://localhost
+#EXTINF:-1,Mangas
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/441.m3u8$http-refferer=http://localhost
+#EXTINF:-1,National geo wild
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/440.m3u8$http-refferer=http://localhost
+#EXTINF:-1,NICKELODEON HD
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/394.m3u8$http-refferer=http://localhost
+#EXTINF:-1,NICKELODEON JUNIOR
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/439.m3u8$http-refferer=http://localhost
+#EXTINF:-1,NRJ Hits
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/438.m3u8$http-refferer=http://localhost
+#EXTINF:-1,NUMERO 23 HD
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/437.m3u8$http-refferer=http://localhost
+#EXTINF:-1,OCS CHOC HD
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/436.m3u8$http-refferer=http://localhost
+#EXTINF:-1,OCS CITY
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/435.m3u8$http-refferer=http://localhost
+#EXTINF:-1,OCS GEANT
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/434.m3u8$http-refferer=http://localhost
+#EXTINF:-1,OCS MAX
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/433.m3u8$http-refferer=http://localhost
+#EXTINF:-1,OLTV HD
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/432.m3u8$http-refferer=http://localhost
+#EXTINF:-1,Orange Cine horreur HD
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/431.m3u8$http-refferer=http://localhost
+#EXTINF:-1,Orange enquete exclusive HD
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/430.m3u8$http-refferer=http://localhost
+#EXTINF:-1,PARAMOUNT CHANNEL HD
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/429.m3u8$http-refferer=http://localhost
+#EXTINF:-1,PARIS PREMIERE HD
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/428.m3u8$http-refferer=http://localhost
+#EXTINF:-1,PARIS PREMIERE HD
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/427.m3u8$http-refferer=http://localhost
+#EXTINF:-1,PIWI HD
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/426.m3u8$http-refferer=http://localhost
+#EXTINF:-1,PLANETE HD
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/425.m3u8$http-refferer=http://localhost
+#EXTINF:-1,PLANETE A&E HD
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/424.m3u8$http-refferer=http://localhost
+#EXTINF:-1,PLANETE CI HD
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/423.m3u8$http-refferer=http://localhost
+#EXTINF:-1,rmc decouverte
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/421.m3u8$http-refferer=http://localhost
+#EXTINF:-1,RTL TVI
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/420.m3u8$http-refferer=http://localhost
+#EXTINF:-1,RTS Deux
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/419.m3u8$http-refferer=http://localhost
+#EXTINF:-1,RTS Un
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/418.m3u8$http-refferer=http://localhost
+#EXTINF:-1,SCIENCE ET VIE HD
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/417.m3u8$http-refferer=http://localhost
+#EXTINF:-1,SCIENCES & VIE
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/416.m3u8$http-refferer=http://localhost
+#EXTINF:-1,SERIE CLUB
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/415.m3u8$http-refferer=http://localhost
+#EXTINF:-1,Series Club HD
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/414.m3u8$http-refferer=http://localhost
+#EXTINF:-1,SFR: CINE A LA DEMANDE 1
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/413.m3u8$http-refferer=http://localhost
+#EXTINF:-1,SFR: CINE A LA DEMANDE 2
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/412.m3u8$http-refferer=http://localhost
+#EXTINF:-1,SFR: CINE A LA DEMANDE 3
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/411.m3u8$http-refferer=http://localhost
+#EXTINF:-1,Syfy HD
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/410.m3u8$http-refferer=http://localhost
+#EXTINF:-1,Teva
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/409.m3u8$http-refferer=http://localhost
+#EXTINF:-1,TF1 HD
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/408.m3u8$http-refferer=http://localhost
+#EXTINF:-1,Tiji
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/407.m3u8$http-refferer=http://localhost
+#EXTINF:-1,TOUTE LHISTOIRE
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/406.m3u8$http-refferer=http://localhost
+#EXTINF:-1,TRACE URBAN
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/392.m3u8$http-refferer=http://localhost
+#EXTINF:-1,TV BREIZH HD
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/405.m3u8$http-refferer=http://localhost
+#EXTINF:-1,USHUAIA HD
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/404.m3u8$http-refferer=http://localhost
+#EXTINF:-1,Zouzou TV LOCAL
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/403.m3u8$http-refferer=http://localhost
+#EXTINF:-1,A LA CARTE 5
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/402.m3u8$http-refferer=http://localhost
+#EXTINF:-1,A la Carte 6
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/401.m3u8$http-refferer=http://localhost
+#EXTINF:-1,A.LA.CARTE.1
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/400.m3u8$http-refferer=http://localhost
+#EXTINF:-1,A.LA.CARTE.3
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/399.m3u8$http-refferer=http://localhost
+#EXTINF:-1,A.LA.CARTE.4
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/398.m3u8$http-refferer=http://localhost
+#EXTINF:-1,CINE PREMIER
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/396.m3u8$http-refferer=http://localhost
+#EXTINF:-1,FRANCE 24
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/395.m3u8$http-refferer=http://localhost
+#EXTINF:-1,NT1
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/391.m3u8$http-refferer=http://localhost
+#EXTINF:-1,TCM CINEMA
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/390.m3u8$http-refferer=http://localhost
+#EXTINF:-1,TEVA/TMC
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/389.m3u8$http-refferer=http://localhost
+#EXTINF:-1,TREK HD
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/388.m3u8$http-refferer=http://localhost
+#EXTINF:-1,TV5 MONDE
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/387.m3u8$http-refferer=http://localhost
+#EXTINF:-1,VOYAGE HD
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/385.m3u8$http-refferer=http://localhost
+#EXTINF:-1,Bein max 4
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/528.m3u8$http-refferer=http://localhost
+#EXTINF:-1,EURONEWS
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/527.m3u8$http-refferer=http://localhost
+#EXTINF:-1,FRANCE 3
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/526.m3u8$http-refferer=http://localhost
+#EXTINF:-1,RTL9
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/525.m3u8$http-refferer=http://localhost
+#EXTINF:-1,TELETOON
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/524.m3u8$http-refferer=http://localhost
+#EXTINF:-1,W9
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/523.m3u8$http-refferer=http://localhost
 
