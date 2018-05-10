@@ -4,6 +4,89 @@
 #EXTVLCOPT:http-user-agent=janberyan.com
 #EXTINF:-1,========BeIN Sports HD=========
 http://185.148.147.68:25461/live/AndrTV-IPTV/AndrTVIPTV8855/12.ts
+
+#EXTM3U
+#EXTINF:-1 tvg-name="beINSPORTS-1HD" tvg-logo="" group-title="BeINSPORTS [TR]",beINSPORTS-1HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.2 LibVLC/3.0.2
+http://2.primatv.club:8450/live/haLA2tv2018/ha2LA218tv/1500.ts
+#EXTINF:-1 tvg-name="beINSPORTS-2HD" tvg-logo="" group-title="BeINSPORTS [TR]",beINSPORTS-2HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.2 LibVLC/3.0.2
+http://2.primatv.club:8450/live/haLA2tv2018/ha2LA218tv/1501.ts
+#EXTINF:-1 tvg-name="beINSPORTS-3HD" tvg-logo="" group-title="BeINSPORTS [TR]",beINSPORTS-3HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.2 LibVLC/3.0.2
+http://2.primatv.club:8450/live/haLA2tv2018/ha2LA218tv/1502.ts
+#EXTINF:-1 tvg-logo="" group-title="BeINSPORTS [FR]",BeINSPORTS 1HD Fr
+#EXTVLCOPT:http-user-agent=VLC/3.0.2 LibVLC/3.0.2
+http://2.primatv.club:8450/live/haLA2tv2018/ha2LA218tv/1454.ts
+#EXTINF:-1 tvg-name="BeINSPORTS 2HD Fr" tvg-logo="" group-title="BeINSPORTS [FR]",BeINSPORTS 2HD Fr
+#EXTVLCOPT:http-user-agent=VLC/3.0.2 LibVLC/3.0.2
+http://2.primatv.club:8450/live/haLA2tv2018/ha2LA218tv/1455.ts
+#EXTINF:-1 tvg-name="BeINSPORTS 3HD Fr" tvg-logo="" group-title="BeINSPORTS [FR]",BeINSPORTS 3HD Fr
+#EXTVLCOPT:http-user-agent=VLC/3.0.2 LibVLC/3.0.2
+http://2.primatv.club:8450/live/haLA2tv2018/ha2LA218tv/1456.ts
+#EXTINF:-1 tvg-name="BeINMAX 04HD Fr" tvg-logo="" group-title="BeINSPORTS [FR]",BeINMAX 04HD Fr
+#EXTVLCOPT:http-user-agent=VLC/3.0.2 LibVLC/3.0.2
+http://2.primatv.club:8450/live/haLA2tv2018/ha2LA218tv/1457.ts
+#EXTINF:-1 tvg-name="BeINMAX 05HD Fr" tvg-logo="" group-title="BeINSPORTS [FR]",BeINMAX 05HD Fr
+#EXTVLCOPT:http-user-agent=VLC/3.0.2 LibVLC/3.0.2
+http://2.primatv.club:8450/live/haLA2tv2018/ha2LA218tv/1458.ts
+#EXTINF:-1 tvg-name="BeINMAX 06HD Fr" tvg-logo="" group-title="BeINSPORTS [FR]",BeINMAX 06HD Fr
+#EXTVLCOPT:http-user-agent=VLC/3.0.2 LibVLC/3.0.2
+http://2.primatv.club:8450/live/haLA2tv2018/ha2LA218tv/1459.ts
+#EXTINF:-1 tvg-name="BeINMAX 07HD Fr" tvg-logo="" group-title="BeINSPORTS [FR]",BeINMAX 07HD Fr
+#EXTVLCOPT:http-user-agent=VLC/3.0.2 LibVLC/3.0.2
+http://2.primatv.club:8450/live/haLA2tv2018/ha2LA218tv/1460.ts
+#EXTINF:-1 tvg-name="BeINMAX 08HD Fr" tvg-logo="" group-title="BeINSPORTS [FR]",BeINMAX 08HD Fr
+#EXTVLCOPT:http-user-agent=VLC/3.0.2 LibVLC/3.0.2
+http://2.primatv.club:8450/live/haLA2tv2018/ha2LA218tv/1461.ts
+#EXTINF:-1 tvg-name="BeINMAX 09HD Fr" tvg-logo="" group-title="BeINSPORTS [FR]",BeINMAX 09HD Fr
+#EXTVLCOPT:http-user-agent=VLC/3.0.2 LibVLC/3.0.2
+http://2.primatv.club:8450/live/haLA2tv2018/ha2LA218tv/1462.ts
+#EXTINF:-1 tvg-name="BeINMAX 10HD Fr" tvg-logo="" group-title="BeINSPORTS [FR]",BeINMAX 10HD Fr
+#EXTVLCOPT:http-user-agent=VLC/3.0.2 LibVLC/3.0.2
+http://2.primatv.club:8450/live/haLA2tv2018/ha2LA218tv/1463.ts
+#EXTINF:-1 tvg-name="BeINSPORTS 1HD" tvg-logo="" group-title="BeINSPORTS [AR]",BeINSPORTS 1HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.2 LibVLC/3.0.2
+http://2.primatv.club:8450/live/haLA2tv2018/ha2LA218tv/1494.ts
+#EXTINF:-1 tvg-name="BeINSPORTS 2HD" tvg-logo="" group-title="BeINSPORTS [AR]",BeINSPORTS 2HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.2 LibVLC/3.0.2
+http://2.primatv.club:8450/live/haLA2tv2018/ha2LA218tv/1493.ts
+#EXTINF:-1 tvg-name="BeINSPORTS 3HD" tvg-logo="" group-title="BeINSPORTS [AR]",BeINSPORTS 3HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.2 LibVLC/3.0.2
+http://2.primatv.club:8450/live/haLA2tv2018/ha2LA218tv/1492.ts
+#EXTINF:-1 tvg-name="BeINSPORTS 4HD" tvg-logo="" group-title="BeINSPORTS [AR]",BeINSPORTS 4HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.2 LibVLC/3.0.2
+http://2.primatv.club:8450/live/haLA2tv2018/ha2LA218tv/1491.ts
+#EXTINF:-1 tvg-name="BeINSPORTS 5HD" tvg-logo="" group-title="BeINSPORTS [AR]",BeINSPORTS 5HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.2 LibVLC/3.0.2
+http://2.primatv.club:8450/live/haLA2tv2018/ha2LA218tv/1490.ts
+#EXTINF:-1 tvg-name="BeINSPORTS 6HD" tvg-logo="" group-title="BeINSPORTS [AR]",BeINSPORTS 6HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.2 LibVLC/3.0.2
+http://2.primatv.club:8450/live/haLA2tv2018/ha2LA218tv/1489.ts
+#EXTINF:-1 tvg-name="BeINSPORTS 7HD" tvg-logo="" group-title="BeINSPORTS [AR]",BeINSPORTS 7HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.2 LibVLC/3.0.2
+http://2.primatv.club:8450/live/haLA2tv2018/ha2LA218tv/1488.ts
+#EXTINF:-1 tvg-name="BeINSPORTS 8HD" tvg-logo="" group-title="BeINSPORTS [AR]",BeINSPORTS 8HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.2 LibVLC/3.0.2
+http://2.primatv.club:8450/live/haLA2tv2018/ha2LA218tv/1487.ts
+#EXTINF:-1 tvg-name="BeINSPORTS 9HD" tvg-logo="" group-title="BeINSPORTS [AR]",BeINSPORTS 9HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.2 LibVLC/3.0.2
+http://2.primatv.club:8450/live/haLA2tv2018/ha2LA218tv/1486.ts
+#EXTINF:-1 tvg-name="BeINSPORTS 10HD" tvg-logo="" group-title="BeINSPORTS [AR]",BeINSPORTS 10HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.2 LibVLC/3.0.2
+http://2.primatv.club:8450/live/haLA2tv2018/ha2LA218tv/1485.ts
+#EXTINF:-1 tvg-name="BeINSPORTS 11HD" tvg-logo="" group-title="BeINSPORTS [AR]",BeINSPORTS 11HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.2 LibVLC/3.0.2
+http://2.primatv.club:8450/live/haLA2tv2018/ha2LA218tv/1484.ts
+#EXTINF:-1 tvg-name="beINSPORTS 12HD" tvg-logo="" group-title="BeINSPORTS [AR]",beINSPORTS 12HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.2 LibVLC/3.0.2
+http://2.primatv.club:8450/live/haLA2tv2018/ha2LA218tv/1483.ts
+#EXTINF:-1 tvg-name="BeINSPORTS News" tvg-logo="" group-title="BeINSPORTS [AR]",BeINSPORTS News
+#EXTVLCOPT:http-user-agent=VLC/3.0.2 LibVLC/3.0.2
+http://2.primatv.club:8450/live/haLA2tv2018/ha2LA218tv/1496.ts
+#EXTINF:-1 tvg-name="BeINSPORTS Global" tvg-logo="" group-title="BeINSPORTS [AR]",BeINSPORTS Global
+#EXTVLCOPT:http-user-agent=VLC/3.0.2 LibVLC/3.0.2
+http://2.primatv.club:8450/live/haLA2tv2018/ha2LA218tv/1495.ts
 #EXTINF:-1,beIN Sports News
 httphost://$http-raw=http://unblocked.lol/beinsportsnews$http-refferer=https://unblocked.lol/tv
 #EXTINF:-1,beIN Sports 1
