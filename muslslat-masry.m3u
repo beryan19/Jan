@@ -36,7 +36,8 @@ http://ustreams.info/vod/klbsh-2/02.mp4
 http://ustreams.info/vod/msr
 #EXTINF:-1,الحلقة 1
 http://ustreams.info/vod/ayoub/01.mp4
-
+#EXTINF:-1,الحلقة 2
+http://ustreams.info/vod/ayoub/02.mp4
 
 
 #EXTINF:-1,===رحيم===
@@ -70,6 +71,9 @@ http://ustreams.info/vod/tay3/02.mp4
 http://ustreams.info/vod/msr
 #EXTINF:-1,الحلقة 1
 http://ustreams.info/vod/ramez/01.mp4
+#EXTINF:-1,الحلقة 2
+http://ustreams.info/vod/ramez/02.mp4
+
 
 
 #EXTINF:-1,===لعنة كارما===
@@ -122,12 +126,18 @@ http://ustreams.info/vod/fo2-als7ab/02.mp4
 http://ustreams.info/vod/msr
 #EXTINF:-1,الحلقة 1
 http://ustreams.info/vod/bl7gm-el3a2ly/01.mp4
+#EXTINF:-1,الحلقة 2
+http://ustreams.info/vod/bl7gm-el3a2ly/02.mp4
+
 
 
 #EXTINF:-1,===اختفاء===
 http://ustreams.info/vod/msr
 #EXTINF:-1,الحلقة 1
 http://ustreams.info/vod/e5tfa2/01.mp4
+#EXTINF:-1,الحلقة 2
+http://ustreams.info/vod/e5tfa2/02.mp4
+
 
 
 #EXTINF:-1,===سك على اخواتك===
