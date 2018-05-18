@@ -14,6 +14,8 @@ http://ustreams.info/vod/ard-elnfaq/01.mp4
 http://ustreams.info/vod/msr
 #EXTINF:-1,الحلقة 1
 http://ustreams.info/vod/msr7-msr/01.mp4
+#EXTINF:-1,الحلقة 2
+http://ustreams.info/vod/msr7-msr/02.mp4
 
 
 #EXTINF:-1,===نسر الصعيد===
@@ -26,6 +28,8 @@ http://ustreams.info/vod/nisr-els3ed/01.mp4
 http://ustreams.info/vod/msr
 #EXTINF:-1,الحلقة 1
 http://ustreams.info/vod/klbsh-2/01.mp4
+#EXTINF:-1,الحلقة 2
+http://ustreams.info/vod/klbsh-2/02.mp4
 
 
 #EXTINF:-1,===ايوب===
@@ -39,10 +43,8 @@ http://ustreams.info/vod/ayoub/01.mp4
 http://ustreams.info/vod/msr
 #EXTINF:-1,الحلقة 1
 http://ustreams.info/vod/r7ym/01.mp4
-
-
-#EXTINF:-1,===ابو العمر المصري===
-http://ustreams.info/vod/msr
+#EXTINF:-1,الحلقة 2
+http://ustreams.info/vod/r7ym/02.mp4
 
 
 #EXTINF:-1,===سلسال الدم5===
@@ -59,6 +61,9 @@ http://ustreams.info/vod/selsal-5/03.mp4
 http://ustreams.info/vod/msr
 #EXTINF:-1,الحلقة 1
 http://ustreams.info/vod/tay3/01.mp4
+#EXTINF:-1,الحلقة 2
+http://ustreams.info/vod/tay3/02.mp4
+
 
 
 #EXTINF:-1,===رامز تحت الصفر===
@@ -71,12 +76,18 @@ http://ustreams.info/vod/ramez/01.mp4
 http://ustreams.info/vod/msr
 #EXTINF:-1,الحلقة 1
 http://ustreams.info/vod/karma/01.mp4
+#EXTINF:-1,الحلقة 2
+http://ustreams.info/vod/karma/02.mp4
+
 
 
 #EXTINF:-1,===رسايل===
 http://ustreams.info/vod/msr
 #EXTINF:-1,الحلقة 1
 http://ustreams.info/vod/rasayl/01.mp4
+#EXTINF:-1,الحلقة 2
+http://ustreams.info/vod/rasayl/02.mp4
+
 
 
 #EXTINF:-1,===ضد مجهول===
@@ -89,7 +100,8 @@ http://ustreams.info/vod/ded-maghol/01.mp4
 http://ustreams.info/vod/msr
 #EXTINF:-1,الحلقة 1
 http://ustreams.info/vod/qanon-omar/01.mp4
-
+#EXTINF:-1,الحلقة 2
+http://ustreams.info/vod/qanon-omar/02.mp4
 
 
 #EXTINF:-1,===لدينا اقوال اخرى===
@@ -102,7 +114,8 @@ http://ustreams.info/vod/ldena-aqwal-o5ra/01.mp4
 http://ustreams.info/vod/msr
 #EXTINF:-1,الحلقة 1
 http://ustreams.info/vod/fo2-als7ab/01.mp4
-
+#EXTINF:-1,الحلقة 2
+http://ustreams.info/vod/fo2-als7ab/02.mp4
 
 
 #EXTINF:-1,===بالحجم العائلي===
@@ -121,13 +134,16 @@ http://ustreams.info/vod/e5tfa2/01.mp4
 http://ustreams.info/vod/msr
 #EXTINF:-1,الحلقة 1
 http://ustreams.info/vod/sok-3la-a5watk/01.mp4
+#EXTINF:-1,الحلقة 2
+http://ustreams.info/vod/sok-3la-a5watk/02.mp4
 
 
 #EXTINF:-1,===ربع رومي===
 http://ustreams.info/vod/msr
 #EXTINF:-1,الحلقة 1
 http://ustreams.info/vod/rob3-romy/01.mp4
-
+#EXTINF:-1,الحلقة 2
+http://ustreams.info/vod/rob3-romy/02.mp4
 
 #EXTINF:-1,===عزمي واشجان===
 http://ustreams.info/vod/msr
@@ -139,11 +155,6 @@ http://ustreams.info/vod/3zmy-w-ashgan/01.mp4
 http://ustreams.info/vod/msr
 #EXTINF:-1,الحلقة 1
 http://ustreams.info/vod/alr7la/01.mp4
-
-
-#EXTINF:-1,===خط ساحن===
-http://ustreams.info/vod/msr
-#EXTINF:-1,الحلقة 1
 
 
 
@@ -169,4 +180,5 @@ http://ustreams.info/vod/lialy-ogeny/01.mp4
 http://ustreams.info/vod/msr
 #EXTINF:-1,الحلقة 1
 http://ustreams.info/vod/mmno3/01.mp4
-
+#EXTINF:-1,الحلقة 2
+http://ustreams.info/vod/mmno3/02.mp4
