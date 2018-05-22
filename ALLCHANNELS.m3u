@@ -480,15 +480,13 @@ http://2.primatv.club:8450/live/haLA2tv2018/ha2LA218tv/1356.ts
 http://www.lengua.com/anthems/Syria.mp3
 
 #EXTINF:-1,syria
-http://82.137.248.16:1935/Sat/stream10022018/gmswf.m3u8
-
+http://www.elahmad.com/tv/m3u8/syriatv.m3u8?id=syria
 #EXTINF:-1,syria drama
-http://www.elahmad.com/tv/m3u8/tele_1kuf.m3u8?id=syria_drama&t=ar
+http://www.elahmad.com/tv/m3u8/syriatv.m3u8?id=syria_drama
 #EXTINF:-1,Syria news
 http://www.elahmad.com/tv/m3u8/syriatv.m3u8?id=syria_news
 #EXTINF:-1,SamaTV
-http://sama-tv.net:1935/live/samatv/gmswf.m3u8?v=1591520352
-
+http://sama-tv.net:1935/live/samatv/chunklist_w500038656.m3u8?v=
 #EXTINF:-1,Orient
 http://www.elahmad.com/tv/m3u8/akamaihd.m3u8?id=orient
 #EXTINF:-1,Halab-Today
