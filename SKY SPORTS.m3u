@@ -1,3 +1,5 @@
+
+
 #EXTINF:-1,Barclays Premier League
 httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/%2bwAAAB%2bLCAAAAAAABAAFwduSQzAAANAP2jESkuDBAxF1L2orvBktW0NddtAxPr7nYBSTP77ztM4V35%2f9f3GO2wiObAmP19iyD0WV4Vx%2fhiAMRrFo2%2bQppfZIBkjTbIs342XuREoeGuR0Br80zd9ibg431DQgXPypqJOmGKxPEzqBBy%2f3yHUlnt1JE61ydFxZAcpxoipSqlRcD4eX46LWu66fllcIU9dDkHehXd28EysSpZIsC4ptqAJSEBA0gpAAMNEUCzMTaeAkn3Uj5gN6fdsbg%2b%2bw%2fsKfGlutVSK2m2Swwt1klPYbJ%2foXzccg0vsAAAA%3d$http-refferer=http://linkprotect.xmtvplayer.com
 #EXTINF:-1,UEFA Champions League
@@ -45,3 +47,73 @@ httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/JwEAAB%2bLCA
 httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/JwEAAB%2bLCAAAAAAABAANzNu2QkAAANAPsixDw5iHHmhIqCQ65S0G41KjIrH6%2bM7%2bgE2bSme3LKLV34JZyMu7nSVEdpwXWd9I97Yasq091dX5rPSKhxMLgTiuI3d0rd3o69507B%2b0Pgrm5PPT1BVbTNFLG8oPaJ9zeuf9%2bE795sH91JnHoatVryP64XVnBS7WnAxSWJxcA2rhm7fHdM0u5UViaeglMplPc4Q7YmiOfDXyXO2y3W11CZTEpvy9idPmKkt%2b%2b3SsHBu0CACZ2Th%2fYM5AuVx%2blYO4f9KIb0zi7o0QfVWkrFbKYiEi29BFiCAQsQahCFQNI6JaJsTgy7Zu8JHLW1yaiRpQp%2bwEwf3vfoDBrh8nAQAA$http-refferer=http://linkprotect.xmtvplayer.com
 #EXTINF:-1 tvg-logo="http://tele2web.sympa1203.com/tele77webc4/images/thumbs/79283_imgres.png", SkySports4 UK
 httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/JwEAAB%2bLCAAAAAAABAANzEtygjAAANADMYwIgcjCRfgIUkGQIJGNY4IWibEg8inj4dt3gPf0l3Put6SdUPHQ7nErjUFjkPYd3mrPZZyWRqpwL2aEI2NHcIiLWCArKiStDg006%2bIh0vZSdfy6i2nfSbr3lphPt6FAKSY7dKNuZu1TlNV9dj1UVk8EHaZgLqKRA6bec3Bh8AR48rw6PE%2f2TLy%2bfra8fPkqDaIhOVgNtOOsY7FO%2bg3GxdGrukyaH%2fXKGd7QrlhyTKc96TVnalLIEsGCcb3%2bhO4ZEsU8R%2fnpPtii%2buhQtW1V02S4QSsZQKDIpgGArOiGCR3dtYCpfEqW3fBpsf1Ny6TB8eJl0uX3f%2fcHrjgT6ycBAAA%3d$http-refferer=http://linkprotect.xmtvplayer.com
+#EXTINF:-1,UK:Sky Sports 1
+http://usf.v-sat.org:25461/live/MauKOHqtk8/2m2JshWoeQ/10220.ts User-Agent=+BoX@dash#
+#EXTINF:-1,UK:Sky Sports 2
+http://usf.v-sat.org:25461/live/MauKOHqtk8/2m2JshWoeQ/10219.ts User-Agent=+BoX@dash#
+#EXTINF:-1,UK:Sky Sports 3
+http://usf.v-sat.org:25461/live/MauKOHqtk8/2m2JshWoeQ/10218.ts User-Agent=+BoX@dash#
+#EXTINF:-1,UK:Sky Sports 4
+http://usf.v-sat.org:25461/live/MauKOHqtk8/2m2JshWoeQ/10217.ts User-Agent=+BoX@dash#
+#EXTINF:-1,UK:Sky Sports 5
+http://usf.v-sat.org:25461/live/MauKOHqtk8/2m2JshWoeQ/10216.ts User-Agent=+BoX@dash#
+#EXTINF:-1,UK:SKY SPORTS F1 HD
+http://usf.v-sat.org:25461/live/MauKOHqtk8/2m2JshWoeQ/7500.ts User-Agent=+BoX@dash#
+#EXTINF:-1,UK:Sky Sports HD (ACTION)
+http://usf.v-sat.org:25461/live/MauKOHqtk8/2m2JshWoeQ/7504.ts User-Agent=+BoX@dash#
+#EXTINF:-1,UK:Sky Sports HD (CRICKET)
+http://usf.v-sat.org:25461/live/MauKOHqtk8/2m2JshWoeQ/7505.ts User-Agent=+BoX@dash#
+#EXTINF:-1,UK:Sky Sports HD (GOLF)
+http://usf.v-sat.org:25461/live/MauKOHqtk8/2m2JshWoeQ/7503.ts User-Agent=+BoX@dash#
+#EXTINF:-1,UK:Sky Sports HD (MAIN EVENT)
+http://usf.v-sat.org:25461/live/MauKOHqtk8/2m2JshWoeQ/7506.ts User-Agent=+BoX@dash#
+#EXTINF:-1,UK:Sky Sports HD (PREMIER LEAGUE)
+http://usf.v-sat.org:25461/live/MauKOHqtk8/2m2JshWoeQ/7502.ts User-Agent=+BoX@dash#
+#EXTINF:-1,UK:SKY SPORTS MIX HD
+http://usf.v-sat.org:25461/live/MauKOHqtk8/2m2JshWoeQ/7501.ts User-Agent=+BoX@dash#
+#EXTINF:-1,UK:Sky Sports News HD
+http://usf.v-sat.org:25461/live/MauKOHqtk8/2m2JshWoeQ/7499.ts User-Agent=+BoX@dash#
+#EXTINF:-1,IT:Sky Sport 24
+http://usf.v-sat.org:25461/live/MauKOHqtk8/2m2JshWoeQ/7288.ts User-Agent=+BoX@dash#
+#EXTINF:-1,IT:Sky Sports 1
+http://usf.v-sat.org:25461/live/MauKOHqtk8/2m2JshWoeQ/7291.ts User-Agent=+BoX@dash#
+#EXTINF:-1,IT:Sky Sports 2
+http://usf.v-sat.org:25461/live/MauKOHqtk8/2m2JshWoeQ/7290.ts User-Agent=+BoX@dash#
+#EXTINF:-1,IT:Sky Sports 3
+http://usf.v-sat.org:25461/live/MauKOHqtk8/2m2JshWoeQ/7289.ts User-Agent=+BoX@dash#
+#EXTINF:-1,IT:Sky Sports F1
+http://usf.v-sat.org:25461/live/MauKOHqtk8/2m2JshWoeQ/7287.ts User-Agent=+BoX@dash#
+#EXTINF:-1,IT:Sky UNO
+http://usf.v-sat.org:25461/live/MauKOHqtk8/2m2JshWoeQ/7274.ts User-Agent=+BoX@dash#
+#EXTINF:-1,IT:Supercalcio
+http://usf.v-sat.org:25461/live/MauKOHqtk8/2m2JshWoeQ/7285.ts User-Agent=+BoX@dash#
+#EXTINF:-1,DE:Sky Bundesliga 1HD
+http://usf.v-sat.org:25461/live/MauKOHqtk8/2m2JshWoeQ/6946.ts User-Agent=+BoX@dash#
+#EXTINF:-1,DE:Sky Bundesliga 2HD
+http://usf.v-sat.org:25461/live/MauKOHqtk8/2m2JshWoeQ/6945.ts User-Agent=+BoX@dash#
+#EXTINF:-1,DE:Sky Bundesliga 5HD
+http://usf.v-sat.org:25461/live/MauKOHqtk8/2m2JshWoeQ/6942.ts User-Agent=+BoX@dash#
+#EXTINF:-1,DE:Sky Bundesliga 6HD
+http://usf.v-sat.org:25461/live/MauKOHqtk8/2m2JshWoeQ/6941.ts User-Agent=+BoX@dash#
+#EXTINF:-1,DE:Sky Sport 1 4K
+http://usf.v-sat.org:25461/live/MauKOHqtk8/2m2JshWoeQ/7024.ts User-Agent=+BoX@dash#
+#EXTINF:-1,DE:Sky Sport 2 4K
+http://usf.v-sat.org:25461/live/MauKOHqtk8/2m2JshWoeQ/7023.ts User-Agent=+BoX@dash#
+#EXTINF:-1,DE:Sky Sport Bundesliga 4K
+http://usf.v-sat.org:25461/live/MauKOHqtk8/2m2JshWoeQ/7022.ts User-Agent=+BoX@dash#
+#EXTINF:-1,DE:SKY SPORT HD 1
+http://usf.v-sat.org:25461/live/MauKOHqtk8/2m2JshWoeQ/6948.ts User-Agent=+BoX@dash#
+#EXTINF:-1,DE:SKY SPORT HD 2
+http://usf.v-sat.org:25461/live/MauKOHqtk8/2m2JshWoeQ/6947.ts User-Agent=+BoX@dash#
+#EXTINF:-1,DE:Sky Sports 1
+http://usf.v-sat.org:25461/live/MauKOHqtk8/2m2JshWoeQ/7010.ts User-Agent=+BoX@dash#
+#EXTINF:-1,DE:Sky Sports 2
+http://usf.v-sat.org:25461/live/MauKOHqtk8/2m2JshWoeQ/7009.ts User-Agent=+BoX@dash#
+#EXTINF:-1,DE:Sky Sports 3
+http://usf.v-sat.org:25461/live/MauKOHqtk8/2m2JshWoeQ/7008.ts User-Agent=+BoX@dash#
+#EXTINF:-1,DE:Sky Sports F1
+http://usf.v-sat.org:25461/live/MauKOHqtk8/2m2JshWoeQ/7006.ts User-Agent=+BoX@dash#
+#EXTINF:-1,DE:Spiegel Gesichte 4K
+http://usf.v-sat.org:25461/live/MauKOHqtk8/2m2JshWoeQ/7021.ts User-Agent=+BoX@dash#
+#EXTINF:-1,DE:Sport Digital HD
+http://usf.v-sat.org:25461/live/MauKOHqtk8/2m2JshWoeQ/6934.ts User-Agent=+BoX@dash#
