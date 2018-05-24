@@ -508,15 +508,15 @@ http://www.elahmad.com/tv/m3u8/syriatv.m3u8?id=syria_ugarit
 #EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2013/07/13/09/55/lebanon-156291_960_720.png" group-title="LABEL",======LIBANON=======
 http://www.lengua.com/anthems/Lebanon.mp3
 #EXTINF:-1,AR:Otv+
-http://streaming.i-sat.tv:8081/live/vto/chunks.m3u8
+http://youness-export.com/tv/otv
 #EXTINF:-1,AR:Nbn+
-http://streaming.i-sat.tv:8081/live/nbn/chunks.m3u8
+http://youness-export.com/tv/nbn
 #EXTINF:-1,AR:Ldc+
-http://streaming.i-sat.tv:8081/live/ldc/chunks.m3u8
+http://youness-export.com/tv/ldc
 #EXTINF:-1,AR:Lbc+
-http://streaming.i-sat.tv:8081/live/lbc/playlist.m3u8
+http://youness-export.com/tv/lbc
 #EXTINF:-1,AR:Mtv_Lebanon+
-http://streaming.i-sat.tv:8081/live/mtv/playlist.m3u8
+http://youness-export.com/tv/mtv
 #EXTINF:-1,AR:Future+
 http://futuretv.cdn.mangomolo.com/futuretv/smil:futuretv.smil/master.m3u8
 #EXTINF:-1 tvg-logo="http://www.musicnation.me/musicnation-uploads//2012/11/lbc.jpg" group-title="LEBANON",LBC
@@ -538,7 +538,7 @@ http://live3.mediaforall.net:1935/liveorigin/livestream_480p/chunklist.m3u8
 #EXTINF:-1,LBC
 http://selevision9891-i.akamaihd.net/hls/live/219336/98919/1.m3u8
 #EXTINF:-1,Aljadeed
-http://www.elahmad.com/tv/m3u8/tele_1kuf.m3u8?id=aljadeed&t=ar
+http://youness-export.com/tv/aljadeed
 #EXTINF:-1,Almayadeen tv
 http://lmd.cdn.octivid.com/lmd/smil:switch.smil/gmswf.m3u8?v=1558393494
 
@@ -601,10 +601,10 @@ http://www.lengua.com/anthems/Egypt.mp3
 #EXTINF:-1,rotanamasr
 http://www.elahmad.com/tv/m3u8/selevision.m3u8?id=rotana_masriya
 #EXTINF:-1,cbc
-http://www.elahmad.com/tv/m3u8/selevision.m3u8?id=cbc
+http://youness-export.com/tv/cbc
 
 #EXTINF:-1,cbc drama
-http://www.elahmad.com/tv/m3u8/selevision.m3u8?id=cbc_drama
+http://youness-export.com/tv/cbcd
 
 #EXTINF:-1,Elsharq tv
 http://46.101.172.110:8081/elsharqtv_source/live/playlist.m3u8
