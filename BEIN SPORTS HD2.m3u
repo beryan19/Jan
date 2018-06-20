@@ -2,91 +2,115 @@
 
 #EXTM3U
 #EXTVLCOPT:http-user-agent=janberyan.com
-#EXTINF:-1,========BeIN Sports HD=========
-http://185.148.147.68:25461/live/AndrTV-IPTV/AndrTVIPTV8855/12.ts
-
 #EXTM3U
-#EXTINF:-1 tvg-name="beINSPORTS-1HD" tvg-logo="" group-title="BeINSPORTS [TR]",beINSPORTS-1HD
-#EXTVLCOPT:http-user-agent=VLC/3.0.2 LibVLC/3.0.2
-http://2.primatv.club:8450/live/Freetvapps/nbokdfjf89f/1500.ts
-#EXTINF:-1 tvg-name="beINSPORTS-2HD" tvg-logo="" group-title="BeINSPORTS [TR]",beINSPORTS-2HD
-#EXTVLCOPT:http-user-agent=VLC/3.0.2 LibVLC/3.0.2
-http://2.primatv.club:8450/live/Freetvapps/nbokdfjf89f/1501.ts
-#EXTINF:-1 tvg-name="beINSPORTS-3HD" tvg-logo="" group-title="BeINSPORTS [TR]",beINSPORTS-3HD
-#EXTVLCOPT:http-user-agent=VLC/3.0.2 LibVLC/3.0.2
-http://2.primatv.club:8450/live/Freetvapps/nbokdfjf89f/1502.ts
-#EXTINF:-1 tvg-logo="" group-title="BeINSPORTS [FR]",BeINSPORTS 1HD Fr
-#EXTVLCOPT:http-user-agent=VLC/3.0.2 LibVLC/3.0.2
-http://2.primatv.club:8450/live/Freetvapps/nbokdfjf89f/1454.ts
-#EXTINF:-1 tvg-name="BeINSPORTS 2HD Fr" tvg-logo="" group-title="BeINSPORTS [FR]",BeINSPORTS 2HD Fr
-#EXTVLCOPT:http-user-agent=VLC/3.0.2 LibVLC/3.0.2
-http://2.primatv.club:8450/live/Freetvapps/nbokdfjf89f/1455.ts
-#EXTINF:-1 tvg-name="BeINSPORTS 3HD Fr" tvg-logo="" group-title="BeINSPORTS [FR]",BeINSPORTS 3HD Fr
-#EXTVLCOPT:http-user-agent=VLC/3.0.2 LibVLC/3.0.2
-http://2.primatv.club:8450/live/Freetvapps/nbokdfjf89f/1456.ts
-#EXTINF:-1 tvg-name="BeINMAX 04HD Fr" tvg-logo="" group-title="BeINSPORTS [FR]",BeINMAX 04HD Fr
-#EXTVLCOPT:http-user-agent=VLC/3.0.2 LibVLC/3.0.2
-http://2.primatv.club:8450/live/Freetvapps/nbokdfjf89f/1457.ts
-#EXTINF:-1 tvg-name="BeINMAX 05HD Fr" tvg-logo="" group-title="BeINSPORTS [FR]",BeINMAX 05HD Fr
-#EXTVLCOPT:http-user-agent=VLC/3.0.2 LibVLC/3.0.2
-http://2.primatv.club:8450/live/Freetvapps/nbokdfjf89f/1458.ts
-#EXTINF:-1 tvg-name="BeINMAX 06HD Fr" tvg-logo="" group-title="BeINSPORTS [FR]",BeINMAX 06HD Fr
-#EXTVLCOPT:http-user-agent=VLC/3.0.2 LibVLC/3.0.2
-http://2.primatv.club:8450/live/Freetvapps/nbokdfjf89f/1459.ts
-#EXTINF:-1 tvg-name="BeINMAX 07HD Fr" tvg-logo="" group-title="BeINSPORTS [FR]",BeINMAX 07HD Fr
-#EXTVLCOPT:http-user-agent=VLC/3.0.2 LibVLC/3.0.2
-http://2.primatv.club:8450/live/Freetvapps/nbokdfjf89f/1460.ts
-#EXTINF:-1 tvg-name="BeINMAX 08HD Fr" tvg-logo="" group-title="BeINSPORTS [FR]",BeINMAX 08HD Fr
-#EXTVLCOPT:http-user-agent=VLC/3.0.2 LibVLC/3.0.2
-http://2.primatv.club:8450/live/Freetvapps/nbokdfjf89f/1461.ts
-#EXTINF:-1 tvg-name="BeINMAX 09HD Fr" tvg-logo="" group-title="BeINSPORTS [FR]",BeINMAX 09HD Fr
-#EXTVLCOPT:http-user-agent=VLC/3.0.2 LibVLC/3.0.2
-http://2.primatv.club:8450/live/Freetvapps/nbokdfjf89f/1462.ts
-#EXTINF:-1 tvg-name="BeINMAX 10HD Fr" tvg-logo="" group-title="BeINSPORTS [FR]",BeINMAX 10HD Fr
-#EXTVLCOPT:http-user-agent=VLC/3.0.2 LibVLC/3.0.2
-http://2.primatv.club:8450/live/Freetvapps/nbokdfjf89f/1463.ts
-#EXTINF:-1 tvg-name="BeINSPORTS 1HD" tvg-logo="" group-title="BeINSPORTS [AR]",BeINSPORTS 1HD
-#EXTVLCOPT:http-user-agent=VLC/3.0.2 LibVLC/3.0.2
-http://2.primatv.club:8450/live/Freetvapps/nbokdfjf89f/1494.ts
-#EXTINF:-1 tvg-name="BeINSPORTS 2HD" tvg-logo="" group-title="BeINSPORTS [AR]",BeINSPORTS 2HD
-#EXTVLCOPT:http-user-agent=VLC/3.0.2 LibVLC/3.0.2
-http://2.primatv.club:8450/live/Freetvapps/nbokdfjf89f/1493.ts
-#EXTINF:-1 tvg-name="BeINSPORTS 3HD" tvg-logo="" group-title="BeINSPORTS [AR]",BeINSPORTS 3HD
-#EXTVLCOPT:http-user-agent=VLC/3.0.2 LibVLC/3.0.2
-http://2.primatv.club:8450/live/Freetvapps/nbokdfjf89f/1492.ts
-#EXTINF:-1 tvg-name="BeINSPORTS 4HD" tvg-logo="" group-title="BeINSPORTS [AR]",BeINSPORTS 4HD
-#EXTVLCOPT:http-user-agent=VLC/3.0.2 LibVLC/3.0.2
-http://2.primatv.club:8450/live/Freetvapps/nbokdfjf89f/1491.ts
-#EXTINF:-1 tvg-name="BeINSPORTS 5HD" tvg-logo="" group-title="BeINSPORTS [AR]",BeINSPORTS 5HD
-#EXTVLCOPT:http-user-agent=VLC/3.0.2 LibVLC/3.0.2
-http://2.primatv.club:8450/live/Freetvapps/nbokdfjf89f/1490.ts
-#EXTINF:-1 tvg-name="BeINSPORTS 6HD" tvg-logo="" group-title="BeINSPORTS [AR]",BeINSPORTS 6HD
-#EXTVLCOPT:http-user-agent=VLC/3.0.2 LibVLC/3.0.2
-http://2.primatv.club:8450/live/Freetvapps/nbokdfjf89f/1489.ts
-#EXTINF:-1 tvg-name="BeINSPORTS 7HD" tvg-logo="" group-title="BeINSPORTS [AR]",BeINSPORTS 7HD
-#EXTVLCOPT:http-user-agent=VLC/3.0.2 LibVLC/3.0.2
-http://2.primatv.club:8450/live/Freetvapps/nbokdfjf89f/1488.ts
-#EXTINF:-1 tvg-name="BeINSPORTS 8HD" tvg-logo="" group-title="BeINSPORTS [AR]",BeINSPORTS 8HD
-#EXTVLCOPT:http-user-agent=VLC/3.0.2 LibVLC/3.0.2
-http://2.primatv.club:8450/live/Freetvapps/nbokdfjf89f/1487.ts
-#EXTINF:-1 tvg-name="BeINSPORTS 9HD" tvg-logo="" group-title="BeINSPORTS [AR]",BeINSPORTS 9HD
-#EXTVLCOPT:http-user-agent=VLC/3.0.2 LibVLC/3.0.2
-http://2.primatv.club:8450/live/Freetvapps/nbokdfjf89f/1486.ts
-#EXTINF:-1 tvg-name="BeINSPORTS 10HD" tvg-logo="" group-title="BeINSPORTS [AR]",BeINSPORTS 10HD
-#EXTVLCOPT:http-user-agent=VLC/3.0.2 LibVLC/3.0.2
-http://2.primatv.club:8450/live/Freetvapps/nbokdfjf89f/1485.ts
-#EXTINF:-1 tvg-name="BeINSPORTS 11HD" tvg-logo="" group-title="BeINSPORTS [AR]",BeINSPORTS 11HD
-#EXTVLCOPT:http-user-agent=VLC/3.0.2 LibVLC/3.0.2
-http://2.primatv.club:8450/live/Freetvapps/nbokdfjf89f/1484.ts
-#EXTINF:-1 tvg-name="beINSPORTS 12HD" tvg-logo="" group-title="BeINSPORTS [AR]",beINSPORTS 12HD
-#EXTVLCOPT:http-user-agent=VLC/3.0.2 LibVLC/3.0.2
-http://2.primatv.club:8450/live/Freetvapps/nbokdfjf89f/1483.ts
-#EXTINF:-1 tvg-name="BeINSPORTS News" tvg-logo="" group-title="BeINSPORTS [AR]",BeINSPORTS News
-#EXTVLCOPT:http-user-agent=VLC/3.0.2 LibVLC/3.0.2
-http://2.primatv.club:8450/live/Freetvapps/nbokdfjf89f/1496.ts
-#EXTINF:-1 tvg-name="BeINSPORTS Global" tvg-logo="" group-title="BeINSPORTS [AR]",BeINSPORTS Global
-#EXTVLCOPT:http-user-agent=VLC/3.0.2 LibVLC/3.0.2
-http://2.primatv.club:8450/live/Freetvapps/nbokdfjf89f/1495.ts
+#EXTVLCOPT:http-user-agent=BoX@dash#
+#EXTINF:-1,•●★- beIN SPORTS -★●•
+http://pwq.v-sat.org:25461/live/iTKwZnHXyw/VLR7Trvklp/4197.ts
+#EXTVLCOPT:http-user-agent=BoX@dash#
+#EXTINF:-1,beIN SPORTS NEWS
+http://pwq.v-sat.org:25461/live/iTKwZnHXyw/VLR7Trvklp/2463.ts
+#EXTVLCOPT:http-user-agent=BoX@dash#
+#EXTINF:-1,beIN SPORTS 1 HD+
+http://pwq.v-sat.org:25461/live/iTKwZnHXyw/VLR7Trvklp/2473.ts
+#EXTVLCOPT:http-user-agent=BoX@dash#
+#EXTINF:-1,beIN SPORTS SD 1
+http://pwq.v-sat.org:25461/live/iTKwZnHXyw/VLR7Trvklp/4796.ts
+#EXTVLCOPT:http-user-agent=BoX@dash#
+#EXTINF:-1,BeIN SPORTS 1 4K
+http://pwq.v-sat.org:25461/live/iTKwZnHXyw/VLR7Trvklp/1826.ts
+#EXTVLCOPT:http-user-agent=BoX@dash#
+#EXTINF:-1,beIN SPORTS 2 HD+
+http://pwq.v-sat.org:25461/live/iTKwZnHXyw/VLR7Trvklp/2472.ts
+#EXTVLCOPT:http-user-agent=BoX@dash#
+#EXTINF:-1,beIN SPORTS SD 2
+http://pwq.v-sat.org:25461/live/iTKwZnHXyw/VLR7Trvklp/4797.ts
+#EXTVLCOPT:http-user-agent=BoX@dash#
+#EXTINF:-1,BeIN SPORTS 2 4K
+http://pwq.v-sat.org:25461/live/iTKwZnHXyw/VLR7Trvklp/1825.ts
+#EXTVLCOPT:http-user-agent=BoX@dash#
+#EXTINF:-1,beIN SPORTS 3 HD+
+http://pwq.v-sat.org:25461/live/iTKwZnHXyw/VLR7Trvklp/2471.ts
+#EXTVLCOPT:http-user-agent=BoX@dash#
+#EXTINF:-1,beIN SPORTS SD 3
+http://pwq.v-sat.org:25461/live/iTKwZnHXyw/VLR7Trvklp/4798.ts
+#EXTVLCOPT:http-user-agent=BoX@dash#
+#EXTINF:-1,BeIN SPORTS 3 4K
+http://pwq.v-sat.org:25461/live/iTKwZnHXyw/VLR7Trvklp/1824.ts
+#EXTVLCOPT:http-user-agent=BoX@dash#
+#EXTINF:-1,beIN SPORTS 4 HD+
+http://pwq.v-sat.org:25461/live/iTKwZnHXyw/VLR7Trvklp/2470.ts
+#EXTVLCOPT:http-user-agent=BoX@dash#
+#EXTINF:-1,beIN SPORTS SD 4
+http://pwq.v-sat.org:25461/live/iTKwZnHXyw/VLR7Trvklp/4799.ts
+#EXTVLCOPT:http-user-agent=BoX@dash#
+#EXTINF:-1,BeIN SPORTS 4 4K
+http://pwq.v-sat.org:25461/live/iTKwZnHXyw/VLR7Trvklp/1823.ts
+#EXTVLCOPT:http-user-agent=BoX@dash#
+#EXTINF:-1,beIN SPORTS 5 HD+
+http://pwq.v-sat.org:25461/live/iTKwZnHXyw/VLR7Trvklp/2469.ts
+#EXTVLCOPT:http-user-agent=BoX@dash#
+#EXTINF:-1,beIN SPORTS SD 5
+http://pwq.v-sat.org:25461/live/iTKwZnHXyw/VLR7Trvklp/4800.ts
+#EXTVLCOPT:http-user-agent=BoX@dash#
+#EXTINF:-1,BeIN SPORTS 5 4K
+http://pwq.v-sat.org:25461/live/iTKwZnHXyw/VLR7Trvklp/1822.ts
+#EXTVLCOPT:http-user-agent=BoX@dash#
+#EXTINF:-1,beIN SPORTS 6 HD+
+http://pwq.v-sat.org:25461/live/iTKwZnHXyw/VLR7Trvklp/2468.ts
+#EXTVLCOPT:http-user-agent=BoX@dash#
+#EXTINF:-1,beIN SPORTS SD 6
+http://pwq.v-sat.org:25461/live/iTKwZnHXyw/VLR7Trvklp/4801.ts
+#EXTVLCOPT:http-user-agent=BoX@dash#
+#EXTINF:-1,BeIN SPORTS 6 4K
+http://pwq.v-sat.org:25461/live/iTKwZnHXyw/VLR7Trvklp/1821.ts
+#EXTVLCOPT:http-user-agent=BoX@dash#
+#EXTINF:-1,beIN SPORTS 7 HD+
+http://pwq.v-sat.org:25461/live/iTKwZnHXyw/VLR7Trvklp/2467.ts
+#EXTVLCOPT:http-user-agent=BoX@dash#
+#EXTINF:-1,beIN SPORTS SD 7
+http://pwq.v-sat.org:25461/live/iTKwZnHXyw/VLR7Trvklp/4802.ts
+#EXTVLCOPT:http-user-agent=BoX@dash#
+#EXTINF:-1,BeIN SPORTS 7 4K
+http://pwq.v-sat.org:25461/live/iTKwZnHXyw/VLR7Trvklp/1820.ts
+#EXTVLCOPT:http-user-agent=BoX@dash#
+#EXTINF:-1,beIN SPORTS 8 HD+
+http://pwq.v-sat.org:25461/live/iTKwZnHXyw/VLR7Trvklp/2466.ts
+#EXTVLCOPT:http-user-agent=BoX@dash#
+#EXTINF:-1,beIN SPORTS SD 8
+http://pwq.v-sat.org:25461/live/iTKwZnHXyw/VLR7Trvklp/4803.ts
+#EXTVLCOPT:http-user-agent=BoX@dash#
+#EXTINF:-1,BeIN SPORTS 8 4K
+http://pwq.v-sat.org:25461/live/iTKwZnHXyw/VLR7Trvklp/1819.ts
+#EXTVLCOPT:http-user-agent=BoX@dash#
+#EXTINF:-1,beIN SPORTS 9 HD+
+http://pwq.v-sat.org:25461/live/iTKwZnHXyw/VLR7Trvklp/2465.ts
+#EXTVLCOPT:http-user-agent=BoX@dash#
+#EXTINF:-1,beIN SPORTS SD 9
+http://pwq.v-sat.org:25461/live/iTKwZnHXyw/VLR7Trvklp/4804.ts
+#EXTVLCOPT:http-user-agent=BoX@dash#
+#EXTINF:-1,BeIN SPORTS 9 4K
+http://pwq.v-sat.org:25461/live/iTKwZnHXyw/VLR7Trvklp/1818.ts
+#EXTVLCOPT:http-user-agent=BoX@dash#
+#EXTINF:-1,beIN SPORTS 10 HD+
+http://pwq.v-sat.org:25461/live/iTKwZnHXyw/VLR7Trvklp/2464.ts
+#EXTVLCOPT:http-user-agent=BoX@dash#
+#EXTINF:-1,beIN SPORTS SD 10
+http://pwq.v-sat.org:25461/live/iTKwZnHXyw/VLR7Trvklp/4805.ts
+#EXTVLCOPT:http-user-agent=BoX@dash#
+#EXTINF:-1,BeIN SPORTS 10 4K
+http://pwq.v-sat.org:25461/live/iTKwZnHXyw/VLR7Trvklp/1817.ts
+#EXTVLCOPT:http-user-agent=BoX@dash#
+#EXTINF:-1,beIN SPORTS NBA HD
+http://pwq.v-sat.org:25461/live/iTKwZnHXyw/VLR7Trvklp/3873.ts
+#EXTVLCOPT:http-user-agent=BoX@dash#
+#EXTINF:-1,TH:beIN Sports 1 True Vision HD
+http://pwq.v-sat.org:25461/live/iTKwZnHXyw/VLR7Trvklp/12610.ts
+#EXTVLCOPT:http-user-agent=BoX@dash#
+#EXTINF:-1,TH:beIN Sports 2 True Vision HD
+http://pwq.v-sat.org:25461/live/iTKwZnHXyw/VLR7Trvklp/12611.ts
+#EXTVLCOPT:http-user-agent=BoX@dash#
+#EXTINF:-1,TH:beIN Sports 3 True Vision HD
+http://pwq.v-sat.org:25461/live/iTKwZnHXyw/VLR7Trvklp/12612.ts
 #EXTINF:-1,beIN Sports News
 httphost://$http-raw=http://unblocked.lol/beinsportsnews$http-refferer=https://unblocked.lol/tv
 #EXTINF:-1,beIN Sports 1
