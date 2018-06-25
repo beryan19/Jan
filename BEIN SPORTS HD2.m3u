@@ -1,116 +1,85 @@
-
-
 #EXTM3U
-#EXTVLCOPT:http-user-agent=janberyan.com
-#EXTM3U
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,•●★- beIN SPORTS -★●•
-http://pwq.v-sat.org:25461/live/iTKwZnHXyw/VLR7Trvklp/4197.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,beIN SPORTS NEWS
-http://pwq.v-sat.org:25461/live/iTKwZnHXyw/VLR7Trvklp/2463.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,beIN SPORTS 1 HD+
-http://pwq.v-sat.org:25461/live/iTKwZnHXyw/VLR7Trvklp/2473.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,beIN SPORTS SD 1
-http://pwq.v-sat.org:25461/live/iTKwZnHXyw/VLR7Trvklp/4796.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,BeIN SPORTS 1 4K
-http://pwq.v-sat.org:25461/live/iTKwZnHXyw/VLR7Trvklp/1826.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,beIN SPORTS 2 HD+
-http://pwq.v-sat.org:25461/live/iTKwZnHXyw/VLR7Trvklp/2472.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,beIN SPORTS SD 2
-http://pwq.v-sat.org:25461/live/iTKwZnHXyw/VLR7Trvklp/4797.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,BeIN SPORTS 2 4K
-http://pwq.v-sat.org:25461/live/iTKwZnHXyw/VLR7Trvklp/1825.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,beIN SPORTS 3 HD+
-http://pwq.v-sat.org:25461/live/iTKwZnHXyw/VLR7Trvklp/2471.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,beIN SPORTS SD 3
-http://pwq.v-sat.org:25461/live/iTKwZnHXyw/VLR7Trvklp/4798.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,BeIN SPORTS 3 4K
-http://pwq.v-sat.org:25461/live/iTKwZnHXyw/VLR7Trvklp/1824.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,beIN SPORTS 4 HD+
-http://pwq.v-sat.org:25461/live/iTKwZnHXyw/VLR7Trvklp/2470.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,beIN SPORTS SD 4
-http://pwq.v-sat.org:25461/live/iTKwZnHXyw/VLR7Trvklp/4799.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,BeIN SPORTS 4 4K
-http://pwq.v-sat.org:25461/live/iTKwZnHXyw/VLR7Trvklp/1823.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,beIN SPORTS 5 HD+
-http://pwq.v-sat.org:25461/live/iTKwZnHXyw/VLR7Trvklp/2469.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,beIN SPORTS SD 5
-http://pwq.v-sat.org:25461/live/iTKwZnHXyw/VLR7Trvklp/4800.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,BeIN SPORTS 5 4K
-http://pwq.v-sat.org:25461/live/iTKwZnHXyw/VLR7Trvklp/1822.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,beIN SPORTS 6 HD+
-http://pwq.v-sat.org:25461/live/iTKwZnHXyw/VLR7Trvklp/2468.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,beIN SPORTS SD 6
-http://pwq.v-sat.org:25461/live/iTKwZnHXyw/VLR7Trvklp/4801.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,BeIN SPORTS 6 4K
-http://pwq.v-sat.org:25461/live/iTKwZnHXyw/VLR7Trvklp/1821.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,beIN SPORTS 7 HD+
-http://pwq.v-sat.org:25461/live/iTKwZnHXyw/VLR7Trvklp/2467.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,beIN SPORTS SD 7
-http://pwq.v-sat.org:25461/live/iTKwZnHXyw/VLR7Trvklp/4802.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,BeIN SPORTS 7 4K
-http://pwq.v-sat.org:25461/live/iTKwZnHXyw/VLR7Trvklp/1820.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,beIN SPORTS 8 HD+
-http://pwq.v-sat.org:25461/live/iTKwZnHXyw/VLR7Trvklp/2466.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,beIN SPORTS SD 8
-http://pwq.v-sat.org:25461/live/iTKwZnHXyw/VLR7Trvklp/4803.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,BeIN SPORTS 8 4K
-http://pwq.v-sat.org:25461/live/iTKwZnHXyw/VLR7Trvklp/1819.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,beIN SPORTS 9 HD+
-http://pwq.v-sat.org:25461/live/iTKwZnHXyw/VLR7Trvklp/2465.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,beIN SPORTS SD 9
-http://pwq.v-sat.org:25461/live/iTKwZnHXyw/VLR7Trvklp/4804.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,BeIN SPORTS 9 4K
-http://pwq.v-sat.org:25461/live/iTKwZnHXyw/VLR7Trvklp/1818.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,beIN SPORTS 10 HD+
-http://pwq.v-sat.org:25461/live/iTKwZnHXyw/VLR7Trvklp/2464.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,beIN SPORTS SD 10
-http://pwq.v-sat.org:25461/live/iTKwZnHXyw/VLR7Trvklp/4805.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,BeIN SPORTS 10 4K
-http://pwq.v-sat.org:25461/live/iTKwZnHXyw/VLR7Trvklp/1817.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,beIN SPORTS NBA HD
-http://pwq.v-sat.org:25461/live/iTKwZnHXyw/VLR7Trvklp/3873.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,TH:beIN Sports 1 True Vision HD
-http://pwq.v-sat.org:25461/live/iTKwZnHXyw/VLR7Trvklp/12610.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,TH:beIN Sports 2 True Vision HD
-http://pwq.v-sat.org:25461/live/iTKwZnHXyw/VLR7Trvklp/12611.ts
-#EXTVLCOPT:http-user-agent=BoX@dash#
-#EXTINF:-1,TH:beIN Sports 3 True Vision HD
-http://pwq.v-sat.org:25461/live/iTKwZnHXyw/VLR7Trvklp/12612.ts
+#EXTVLCOPT:http-user-agent=VLC/3.0.2 LibVLC/3.0.2
+#EXTINF:-1,beINSPORTS-1HD
+http://2.primatv.club:8450/live/.hala-apptv./-kdfbaDOjze-/1500.ts
+#EXTVLCOPT:http-user-agent=VLC/3.0.2 LibVLC/3.0.2
+#EXTINF:-1,beINSPORTS-2HD
+http://2.primatv.club:8450/live/.hala-apptv./-kdfbaDOjze-/1501.ts
+#EXTVLCOPT:http-user-agent=VLC/3.0.2 LibVLC/3.0.2
+#EXTINF:-1,beINSPORTS-3HD
+http://2.primatv.club:8450/live/.hala-apptv./-kdfbaDOjze-/1502.ts
+#EXTVLCOPT:http-user-agent=VLC/3.0.2 LibVLC/3.0.2
+#EXTINF:-1,BeINSPORTS 1HD Fr
+http://2.primatv.club:8450/live/.hala-apptv./-kdfbaDOjze-/1454.ts
+#EXTVLCOPT:http-user-agent=VLC/3.0.2 LibVLC/3.0.2
+#EXTINF:-1,BeINSPORTS 2HD Fr
+http://2.primatv.club:8450/live/.hala-apptv./-kdfbaDOjze-/1455.ts
+#EXTVLCOPT:http-user-agent=VLC/3.0.2 LibVLC/3.0.2
+#EXTINF:-1,BeINSPORTS 3HD Fr
+http://2.primatv.club:8450/live/.hala-apptv./-kdfbaDOjze-/1456.ts
+#EXTVLCOPT:http-user-agent=VLC/3.0.2 LibVLC/3.0.2
+#EXTINF:-1,BeINMAX 04HD Fr
+http://2.primatv.club:8450/live/.hala-apptv./-kdfbaDOjze-/1457.ts
+#EXTVLCOPT:http-user-agent=VLC/3.0.2 LibVLC/3.0.2
+#EXTINF:-1,BeINMAX 05HD Fr
+http://2.primatv.club:8450/live/.hala-apptv./-kdfbaDOjze-/1458.ts
+#EXTVLCOPT:http-user-agent=VLC/3.0.2 LibVLC/3.0.2
+#EXTINF:-1,BeINMAX 06HD Fr
+http://2.primatv.club:8450/live/.hala-apptv./-kdfbaDOjze-/1459.ts
+#EXTVLCOPT:http-user-agent=VLC/3.0.2 LibVLC/3.0.2
+#EXTINF:-1,BeINMAX 07HD Fr
+http://2.primatv.club:8450/live/.hala-apptv./-kdfbaDOjze-/1460.ts
+#EXTVLCOPT:http-user-agent=VLC/3.0.2 LibVLC/3.0.2
+#EXTINF:-1,BeINMAX 08HD Fr
+http://2.primatv.club:8450/live/.hala-apptv./-kdfbaDOjze-/1461.ts
+#EXTVLCOPT:http-user-agent=VLC/3.0.2 LibVLC/3.0.2
+#EXTINF:-1,BeINMAX 09HD Fr
+http://2.primatv.club:8450/live/.hala-apptv./-kdfbaDOjze-/1462.ts
+#EXTVLCOPT:http-user-agent=VLC/3.0.2 LibVLC/3.0.2
+#EXTINF:-1,BeINMAX 10HD Fr
+http://2.primatv.club:8450/live/.hala-apptv./-kdfbaDOjze-/1463.ts
+#EXTVLCOPT:http-user-agent=VLC/3.0.2 LibVLC/3.0.2
+#EXTINF:-1,BeINSPORTS 1HD
+http://2.primatv.club:8450/live/.hala-apptv./-kdfbaDOjze-/1494.ts
+#EXTVLCOPT:http-user-agent=VLC/3.0.2 LibVLC/3.0.2
+#EXTINF:-1,BeINSPORTS 2HD
+http://2.primatv.club:8450/live/.hala-apptv./-kdfbaDOjze-/1493.ts
+#EXTVLCOPT:http-user-agent=VLC/3.0.2 LibVLC/3.0.2
+#EXTINF:-1,BeINSPORTS 3HD
+http://2.primatv.club:8450/live/.hala-apptv./-kdfbaDOjze-/1492.ts
+#EXTVLCOPT:http-user-agent=VLC/3.0.2 LibVLC/3.0.2
+#EXTINF:-1,BeINSPORTS 4HD
+http://2.primatv.club:8450/live/.hala-apptv./-kdfbaDOjze-/1491.ts
+#EXTVLCOPT:http-user-agent=VLC/3.0.2 LibVLC/3.0.2
+#EXTINF:-1,BeINSPORTS 5HD
+http://2.primatv.club:8450/live/.hala-apptv./-kdfbaDOjze-/1490.ts
+#EXTVLCOPT:http-user-agent=VLC/3.0.2 LibVLC/3.0.2
+#EXTINF:-1,BeINSPORTS 6HD
+http://2.primatv.club:8450/live/.hala-apptv./-kdfbaDOjze-/1489.ts
+#EXTVLCOPT:http-user-agent=VLC/3.0.2 LibVLC/3.0.2
+#EXTINF:-1,BeINSPORTS 7HD
+http://2.primatv.club:8450/live/.hala-apptv./-kdfbaDOjze-/1488.ts
+#EXTVLCOPT:http-user-agent=VLC/3.0.2 LibVLC/3.0.2
+#EXTINF:-1,BeINSPORTS 8HD
+http://2.primatv.club:8450/live/.hala-apptv./-kdfbaDOjze-/1487.ts
+#EXTVLCOPT:http-user-agent=VLC/3.0.2 LibVLC/3.0.2
+#EXTINF:-1,BeINSPORTS 9HD
+http://2.primatv.club:8450/live/.hala-apptv./-kdfbaDOjze-/1486.ts
+#EXTVLCOPT:http-user-agent=VLC/3.0.2 LibVLC/3.0.2
+#EXTINF:-1,BeINSPORTS 10HD
+http://2.primatv.club:8450/live/.hala-apptv./-kdfbaDOjze-/1485.ts
+#EXTVLCOPT:http-user-agent=VLC/3.0.2 LibVLC/3.0.2
+#EXTINF:-1,BeINSPORTS 11HD
+http://2.primatv.club:8450/live/.hala-apptv./-kdfbaDOjze-/1484.ts
+#EXTVLCOPT:http-user-agent=VLC/3.0.2 LibVLC/3.0.2
+#EXTINF:-1,beINSPORTS 12HD
+http://2.primatv.club:8450/live/.hala-apptv./-kdfbaDOjze-/1483.ts
+#EXTVLCOPT:http-user-agent=VLC/3.0.2 LibVLC/3.0.2
+#EXTINF:-1,BeINSPORTS News
+http://2.primatv.club:8450/live/.hala-apptv./-kdfbaDOjze-/1496.ts
+#EXTVLCOPT:http-user-agent=VLC/3.0.2 LibVLC/3.0.2
+#EXTINF:-1,BeINSPORTS Global
+http://2.primatv.club:8450/live/.hala-apptv./-kdfbaDOjze-/1495.ts
 #EXTINF:-1,beIN Sports News
 httphost://$http-raw=http://unblocked.lol/beinsportsnews$http-refferer=https://unblocked.lol/tv
 #EXTINF:-1,beIN Sports 1
