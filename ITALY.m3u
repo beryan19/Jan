@@ -2,26 +2,883 @@
 #EXTINF:-1 tvg-logo="http://expatescort.com/public/img/flags/it.png" group-title="LABEL",~ Italy TV ~
 http://www.lengua.com/anthems/Italy.mp3
 
-#EXTINF:-1,Canale5
-httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/5wAAAB%2bLCAAAAAAABAANw8FugjAAANAPWkgcLW05cNhgDgFF7EorN0shOkAitCiEj99e8pSo9tAGoFvIdOASvIIkdXfVXo9ze8v1pHs%2bXZAU6ZLFZ%2be0HRzasf5It3POvl68001RP0xkPqvuETZhKc4q%2bx3fURABWtLywERk3ECzN3Tn%2fAqannVsDmZSCtfQxme9neU8qUYT490QLplg9xZ9eN4KUUHT9kf4m6e%2f3AZ%2fhQpWBNbYciGuLYidjSVrIi2s1AXa%2f2tprydDTavkNS6OjM8JIN9j7j897w%2bDN9F%2b5wAAAA%3d%3d$http-refferer=http://linkprotect.xmtvplayer.com
-#EXTINF:-1,Italia1
-httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/5wAAAB%2bLCAAAAAAABAANw9tugjAAANAPIgRoi4UHHhDQRhYugiv0xVBrmaCgTQbD8PHuJCdbspJsCoujFJwoiP6EoyKXx0aMSN9pDezT4V62vE607c92Ahf3gcn1mQYXkCq7qYY63EEzKO95xTQcjyww6ZugglHajVqV8OVhSQPsodEllZW%2fAHj5o2KZMI8K2l3iZzeiKoZq5UfO3MN2Keqh9bw1Px%2fmIBoO89s5lfS8W5FAVwdJrLsISx1h29S5dLiOhWgQ%2bC85WG%2fP2f8ybNJ%2fh8OxpJP6DSc5e94HOXGhH%2bcAAAA%3d$http-refferer=http://linkprotect.xmtvplayer.com
-#EXTINF:-1,Rete4
-httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/5wAAAB%2bLCAAAAAAABAANw8mOgjAAANAPaghOl7QcOKiRRUQHSsBwowPFAYelihTDxzsveWGhZ9BmDQn0CSYXgHpyng6tP%2fB8%2f546zh00dWH0e1TlPWv867BUVuo%2b7rrbKqSgsJZdj5jbPEtI6PIlEOhNruR4kxvWJaF3mb20Mv063rdF9s2eZqvp2SIBh9QjQX%2brf%2f6iEJ0kBck48OQR5S7TtW2vsWbdciVzEiHjmO7GFZe4YlhSw8JUGpiSjSEkEwYtywLD%2f1LAVUwK93nlvsC7ng8v7gyxo7a2%2fQGg7AFt5wAAAA%3d%3d$http-refferer=http://linkprotect.xmtvplayer.com
-#EXTINF:-1,Mediaset20
-httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/5wAAAB%2bLCAAAAAAABAANw9uOQ0AYAOAHEnHIPw4XLtY69GAGtWG4M8YoQrTarBUPv%2f2SL1W%2bzxcB7YO%2fcEPR0GRjtxp8Ci5b4ZJVW%2fC7jdOrS%2bN7lT%2fKjODcziLy1NhQRp0BOLGfeapn8dggr6YqxycbvbJCSvpAVaCaFTE1JI68K5eWOf%2fFfsCSrlRXHnFq7NrCBiQZt0Cboh6SXgLr50Q7xznubN98XNzsMCRf1awdwKG1QJiyDaaQwUSqzITFZJPzGvRPwfTDT97nCln6QLw6%2fKPtGG%2b7mzrOP7hwL6TnAAAA$http-refferer=http://linkprotect.xmtvplayer.com
-#EXTINF:-1,La5
-httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/5wAAAB%2bLCAAAAAAABAANzMuOgkAQAMAPMgQZm4U5eNhEVNAVpwPCchtsEBUdUZ6Gj9dDXSus0Y0M3S8YTva94TbKTjf1tqL3ZiXdHacAy%2fXiqq%2bKYBGS6gLl34VCF7m5h%2fOMqwvBkBemvNhnUMdfNvA%2bFvBTEfpGTX8w81phJkMGwgslPdbTxCn7OP3vttDdHdhh25gxg%2bzmB4%2fKeE8Uk62Yz0dPUnRom%2bOhORFipEYgyGzILY2DlWtgmVMtze1Us4gksK88ZSO%2b2viZyeX15SSuL3BplE%2f9230ASvQSgucAAAA%3d$http-refferer=http://linkprotect.xmtvplayer.com
-#EXTINF:-1,Italia2
-httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/5wAAAB%2bLCAAAAAAABAANw9tugjAAANAPIoSLLYUHHjRWdCAKuAq8UWrLRMZqIyDh491JjjXX6fxihsWnPrEFVXUaXQcOWbM9vrtIrORFjJvTSALYRCQZnLI5SGc0iNq1SlVdofWaCF6reFe8m7pBBM8zovjZ8cefgP10yrGI8%2figFY53SfNJXk2yr4IoZLEKa9JF6qve%2f94gXbfnxzE%2fb7JsdITvL7S4l%2ffn2qzC1MNWyxfAwM0FHOkeQFwHCJo65S7VEWMVsP9zai%2foe6tKz6h%2bAJc4dLNS2oOR%2bP4HSm9coecAAAA%3d$http-refferer=http://linkprotect.xmtvplayer.com
-#EXTINF:-1,mediasetextra
-httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/5wAAAB%2bLCAAAAAAABAANw9tyQ0AAANAPMoa1q8uDhzUk07gtstF4W3GLYoVS7fj49sychJgZW9Adi6sK2lBsn3R9SVsATul4gufGKxiBQ3TuokyVsi%2bvT00mfcDeGPdczzFd%2bdLMe7hBt9N%2bHbpp0TBtc1IQ2yH99G7TEUrcV306XTqxJI97uizhpcI5cUKbBqLSOehSymqnDV5KbBvNj8FjyzoCwK%2bwffS3G%2fBdb307UIkqA9VYNhGuZYR1VS5qo5BxWXKk%2fa8L7YieLYiH3iX7NCn%2b7IhnorBvy%2foDvL1raecAAAA%3d$http-refferer=http://linkprotect.xmtvplayer.com
-#EXTINF:-1,topcrime
-httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/5wAAAB%2bLCAAAAAAABAANzDtugzAAANADRSgEm9%2bQoRAHUhAF1aXBG8aGiPJxC6YYcfhkeOtLerkqj9%2fAcYORsLw%2bLJEvCm%2fzSI%2f444i%2bVmuxDgaIRCX%2bxQGmROGEjEi%2fpO0wpChK5mJomi1Guc8dJyAgwyGQ4ua2xbae8Hb3LL873c1oXMilGY3pumZV674lao6XyYS6KB06diln1melkoyYf835vI8YBwEIY9DkHzSkcocMcgfWtuZCu9agbeoarR2q2YyV0HipqbHnCufzt5G%2fTz%2byY0hS8iuzV%2fcEjHX4MucAAAA%3d$http-refferer=http://linkprotect.xmtvplayer.com
-#EXTINF:-1,iris
-httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/5wAAAB%2bLCAAAAAAABAANw91ugjAYANAHIiQKha9ccKECKiI%2fk6F4J9YipEg32EddePjtJKd5qte4Idv36dlhL%2bDur5siOA00lCjjILztI%2b845P63IVtouCg7W%2bHyQY8wqeHgCMl61ZnVqDTmM7kuksK%2b%2fFSsvF9zxM%2fsYCls4r5G3DPhp2%2bRJo3KnF1hb2EjUGYi%2fw2XwqzNmI7JCLTdQSpXrjvTMsDVB71e2nPaWQOdCSMPSjjoDgGuE7AWesVppQNjN2L855UxDwvwPDJpX7YPvLSiqEatnlz3Dz14unrnAAAA$http-refferer=http://linkprotect.xmtvplayer.com
-#EXTINF:-1,tgcom
-httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/5wAAAB%2bLCAAAAAAABAANzEtygjAAANADMYw0CQ0sXBSwgJYGUT66IyYRLUJEA8Jw%2bLp428dPuRNoxZeXm%2bH9Yj5AnvaDT9bnsN67HcGvJ6aa0%2fxCcnT7awyL7klu8raZVtWwPzt52W%2bsDOKfrQLgg%2ftuBQIvqcZjGRv3MOot%2bw%2blj09uHGTLI24EzUraZAoFyBgzOZQo9RSYuqTeaWu8AzHIRjcZlst5Ww2TjDPSquuJuRc6I4a4hQTWbYSFjrBp6FRYVMeMlQi8CQpmfljAAiZ5otRibKL6u%2fWh9%2b7%2bAS5g%2fannAAAA$http-refferer=http://linkprotect.xmtvplayer.com
+
+#EXTINF:-1,IT: INTER MILAN
+http://iptv2017.ddns.net:8100/live/IPtvFull/yx77yonb/2837.ts
+#EXTINF:-1,IT_SUPER_HD
+http://iptv2017.ddns.net:8100/live/IPtvFull/yx77yonb/1943.ts
+#EXTINF:-1,IT_SUPER-Tennis_HD
+http://iptv2017.ddns.net:8100/live/IPtvFull/yx77yonb/1942.ts
+#EXTINF:-1,IT: SPORT ITALIA
+http://iptv2017.ddns.net:8100/live/IPtvFull/yx77yonb/1924.ts
+#EXTINF:-1,IT: Sky Uno
+http://iptv2017.ddns.net:8100/live/IPtvFull/yx77yonb/1628.ts
+#EXTINF:-1,IT_sky_syper-calcio_HD
+http://iptv2017.ddns.net:8100/live/IPtvFull/yx77yonb/1922.ts
+#EXTINF:-1,IT: SKY Sport Moto GP
+http://iptv2017.ddns.net:8100/live/IPtvFull/yx77yonb/1974.ts
+#EXTINF:-1,IT: Sky Sport 24
+http://iptv2017.ddns.net:8100/live/IPtvFull/yx77yonb/1964.ts
+#EXTINF:-1,IT: SKY Classic
+http://iptv2017.ddns.net:8100/live/IPtvFull/yx77yonb/1916.ts
+#EXTINF:-1,IT: Sky Cinema Max
+http://iptv2017.ddns.net:8100/live/IPtvFull/yx77yonb/1627.ts
+#EXTINF:-1,IT: Sky Cinema Hits
+http://iptv2017.ddns.net:8100/live/IPtvFull/yx77yonb/1626.ts
+#EXTINF:-1,IT: Sky Cinema Family
+http://iptv2017.ddns.net:8100/live/IPtvFull/yx77yonb/1541.ts
+#EXTINF:-1,IT: Sky Cinema1 HD
+http://iptv2017.ddns.net:8100/live/IPtvFull/yx77yonb/1546.ts
+#EXTINF:-1,IT: SKY Calcio 2
+http://iptv2017.ddns.net:8100/live/IPtvFull/yx77yonb/1961.ts
+#EXTINF:-1,IT: SKY Calcio 1
+http://iptv2017.ddns.net:8100/live/IPtvFull/yx77yonb/1960.ts
+#EXTINF:-1,IT: Sky SportF1
+http://iptv2017.ddns.net:8100/live/IPtvFull/yx77yonb/1533.ts
+#EXTINF:-1,IT: Sky Sport 3
+http://iptv2017.ddns.net:8100/live/IPtvFull/yx77yonb/1534.ts
+#EXTINF:-1,IT: Sky Sport 2
+http://iptv2017.ddns.net:8100/live/IPtvFull/yx77yonb/1535.ts
+#EXTINF:-1,IT: Sky Sport 1
+http://iptv2017.ddns.net:8100/live/IPtvFull/yx77yonb/1536.ts
+#EXTINF:-1,IT: Sky Disney Junior
+http://iptv2017.ddns.net:8100/live/IPtvFull/yx77yonb/1537.ts
+#EXTINF:-1,IT: SKY Cinema Passion
+http://iptv2017.ddns.net:8100/live/IPtvFull/yx77yonb/1538.ts
+#EXTINF:-1,IT: Sky Cinema 24
+http://iptv2017.ddns.net:8100/live/IPtvFull/yx77yonb/1619.ts
+#EXTINF:-1,IT: Sky Cinema Cult
+http://iptv2017.ddns.net:8100/live/IPtvFull/yx77yonb/1640.ts
+#EXTINF:-1,IT: RSI LA 2
+http://iptv2017.ddns.net:8100/live/IPtvFull/yx77yonb/1963.ts
+#EXTINF:-1,IT: RSI LA 1
+http://iptv2017.ddns.net:8100/live/IPtvFull/yx77yonb/1962.ts
+#EXTINF:-1,IT_Rete_4_HD
+http://iptv2017.ddns.net:8100/live/IPtvFull/yx77yonb/1850.ts
+#EXTINF:-1,IT: Rai Storia
+http://iptv2017.ddns.net:8100/live/IPtvFull/yx77yonb/494.ts
+#EXTINF:-1,IT_Rai_Sport1_HD
+http://iptv2017.ddns.net:8100/live/IPtvFull/yx77yonb/1632.ts
+#EXTINF:-1,IT: Rai Premium
+http://iptv2017.ddns.net:8100/live/IPtvFull/yx77yonb/1846.ts
+#EXTINF:-1,IT_Rai_News_HD
+http://iptv2017.ddns.net:8100/live/IPtvFull/yx77yonb/1849.ts
+#EXTINF:-1,IT_Rai_Movie
+http://iptv2017.ddns.net:8100/live/IPtvFull/yx77yonb/1845.ts
+#EXTINF:-1,IT: RAI GULP
+http://iptv2017.ddns.net:8100/live/IPtvFull/yx77yonb/1968.ts
+#EXTINF:-1,IT: RAI Cinema
+http://iptv2017.ddns.net:8100/live/IPtvFull/yx77yonb/1630.ts
+#EXTINF:-1,IT: Rai 3
+http://iptv2017.ddns.net:8100/live/IPtvFull/yx77yonb/1842.ts
+#EXTINF:-1,IT: Rai1 HD
+http://iptv2017.ddns.net:8100/live/IPtvFull/yx77yonb/1840.ts
+#EXTINF:-1,IT_Rai5_HD
+http://iptv2017.ddns.net:8100/live/IPtvFull/yx77yonb/1844.ts
+#EXTINF:-1,IT_Rai4_HD
+http://iptv2017.ddns.net:8100/live/IPtvFull/yx77yonb/1843.ts
+#EXTINF:-1,IT_Rai2_HD
+http://iptv2017.ddns.net:8100/live/IPtvFull/yx77yonb/1841.ts
+#EXTINF:-1,IT_Primafila_ 5_HD
+http://iptv2017.ddns.net:8100/live/IPtvFull/yx77yonb/1851.ts
+#EXTINF:-1,IT: PRIMA FILA 9HD
+http://iptv2017.ddns.net:8100/live/IPtvFull/yx77yonb/1928.ts
+#EXTINF:-1,IT: Prima Fila 7
+http://iptv2017.ddns.net:8100/live/IPtvFull/yx77yonb/1853.ts
+#EXTINF:-1,IT_Prima-fila_6_HD
+http://iptv2017.ddns.net:8100/live/IPtvFull/yx77yonb/1852.ts
+#EXTINF:-1,IT: Prima Fila4
+http://iptv2017.ddns.net:8100/live/IPtvFull/yx77yonb/1617.ts
+#EXTINF:-1,IT_Prima-fila_3_HD
+http://iptv2017.ddns.net:8100/live/IPtvFull/yx77yonb/1616.ts
+#EXTINF:-1,IT_Prima-fila_2_HD
+http://iptv2017.ddns.net:8100/live/IPtvFull/yx77yonb/1615.ts
+#EXTINF:-1,IT: Prima fila1
+http://iptv2017.ddns.net:8100/live/IPtvFull/yx77yonb/1614.ts
+#EXTINF:-1,IT: PRIMA FILA 10
+http://iptv2017.ddns.net:8100/live/IPtvFull/yx77yonb/1929.ts
+#EXTINF:-1,IT_Prima-fila_ 8_HD
+http://iptv2017.ddns.net:8100/live/IPtvFull/yx77yonb/1854.ts
+#EXTINF:-1,IT: Premium Stories
+http://iptv2017.ddns.net:8100/live/IPtvFull/yx77yonb/1939.ts
+#EXTINF:-1,IT: Premium Energy
+http://iptv2017.ddns.net:8100/live/IPtvFull/yx77yonb/1946.ts
+#EXTINF:-1,IT: Premium Emotion
+http://iptv2017.ddns.net:8100/live/IPtvFull/yx77yonb/1528.ts
+#EXTINF:-1,IT_Premium_Crime_HD
+http://iptv2017.ddns.net:8100/live/IPtvFull/yx77yonb/1529.ts
+#EXTINF:-1,IT_Premium_CRIME+24_HD
+http://iptv2017.ddns.net:8100/live/IPtvFull/yx77yonb/1941.ts
+#EXTINF:-1,IT: Premium Cinema
+http://iptv2017.ddns.net:8100/live/IPtvFull/yx77yonb/1530.ts
+#EXTINF:-1,IT:  Premium Cinema 2
+http://iptv2017.ddns.net:8100/live/IPtvFull/yx77yonb/1944.ts
+#EXTINF:-1,IT: Premium cartoon network
+http://iptv2017.ddns.net:8100/live/IPtvFull/yx77yonb/1930.ts
+#EXTINF:-1,IT: Premium Calcio 1
+http://iptv2017.ddns.net:8100/live/IPtvFull/yx77yonb/1917.ts
+#EXTINF:-1,IT: Premium Action
+http://iptv2017.ddns.net:8100/live/IPtvFull/yx77yonb/1532.ts
+#EXTINF:-1,IT: Premium Sport 2
+http://iptv2017.ddns.net:8100/live/IPtvFull/yx77yonb/1526.ts
+#EXTINF:-1,IT: Premium.Calcio 2
+http://iptv2017.ddns.net:8100/live/IPtvFull/yx77yonb/1531.ts
+#EXTINF:-1,IT: Premium Sport
+http://iptv2017.ddns.net:8100/live/IPtvFull/yx77yonb/1625.ts
+#EXTINF:-1,IT: NATIONAL GEOGRAPHIC
+http://iptv2017.ddns.net:8100/live/IPtvFull/yx77yonb/1926.ts
+#EXTINF:-1,IT_NAT-GEO_PEOPLE_HD
+http://iptv2017.ddns.net:8100/live/IPtvFull/yx77yonb/1934.ts
+#EXTINF:-1,IT: LA 7
+http://iptv2017.ddns.net:8100/live/IPtvFull/yx77yonb/1635.ts
+#EXTINF:-1,IT: ITALIA 2
+http://iptv2017.ddns.net:8100/live/IPtvFull/yx77yonb/1965.ts
+#EXTINF:-1,IT_Italia1_HD
+http://iptv2017.ddns.net:8100/live/IPtvFull/yx77yonb/1847.ts
+#EXTINF:-1,IT_HISTORY_HD
+http://iptv2017.ddns.net:8100/live/IPtvFull/yx77yonb/1935.ts
+#EXTINF:-1,IT_FOX_life_HD
+http://iptv2017.ddns.net:8100/live/IPtvFull/yx77yonb/1915.ts
+#EXTINF:-1,IT: FOX
+http://iptv2017.ddns.net:8100/live/IPtvFull/yx77yonb/1931.ts
+#EXTINF:-1,IT: FOX CRIME
+http://iptv2017.ddns.net:8100/live/IPtvFull/yx77yonb/1940.ts
+#EXTINF:-1,IT: FOX COMEDY
+http://iptv2017.ddns.net:8100/live/IPtvFull/yx77yonb/1945.ts
+#EXTINF:-1,IT: FOX animation
+http://iptv2017.ddns.net:8100/live/IPtvFull/yx77yonb/1938.ts
+#EXTINF:-1,IT: FOX SPORTS
+http://iptv2017.ddns.net:8100/live/IPtvFull/yx77yonb/1618.ts
+#EXTINF:-1,IT_FOCUS_HD
+http://iptv2017.ddns.net:8100/live/IPtvFull/yx77yonb/1932.ts
+#EXTINF:-1,IT_EUROSPORT2_HD
+http://iptv2017.ddns.net:8100/live/IPtvFull/yx77yonb/1923.ts
+#EXTINF:-1,IT: EUROSPORT 1
+http://iptv2017.ddns.net:8100/live/IPtvFull/yx77yonb/1925.ts
+#EXTINF:-1,IT: DMAX
+http://iptv2017.ddns.net:8100/live/IPtvFull/yx77yonb/1967.ts
+#EXTINF:-1,IT: DISCOVRY Travel Living
+http://iptv2017.ddns.net:8100/live/IPtvFull/yx77yonb/1973.ts
+#EXTINF:-1,IT: DISCOVRY SCIENCE
+http://iptv2017.ddns.net:8100/live/IPtvFull/yx77yonb/1972.ts
+#EXTINF:-1,IT_DISCOVRY_HD
+http://iptv2017.ddns.net:8100/live/IPtvFull/yx77yonb/1933.ts
+#EXTINF:-1,IT_CARTONITO_HD
+http://iptv2017.ddns.net:8100/live/IPtvFull/yx77yonb/1936.ts
+#EXTINF:-1,IT_Canale_5_HD
+http://iptv2017.ddns.net:8100/live/IPtvFull/yx77yonb/1848.ts
+#EXTINF:-1,IT: BOING
+http://iptv2017.ddns.net:8100/live/IPtvFull/yx77yonb/1937.ts
+#EXTINF:-1,IT_ANIMAL_planet
+http://iptv2017.ddns.net:8100/live/IPtvFull/yx77yonb/1927.ts
+#EXTINF:-1,IT.Rai.YoYo
+http://iptv2017.ddns.net:8100/live/IPtvFull/yx77yonb/493.ts
+#EXTINF:-1,IT: Animal Planet HD
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/1355.ts
+#EXTINF:-1,IT: Boing
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/1336.ts
+#EXTINF:-1,IT: Caccia & Pesca
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/27.ts
+#EXTINF:-1,IT: Canale 5 HD
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/22.ts
+#EXTINF:-1,IT: Cielo
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/41.ts
+#EXTINF:-1,IT: Discovery HD
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/73.ts
+#EXTINF:-1,IT: Discovery Travel Living HD
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/1346.ts
+#EXTINF:-1,IT: Dmax HD
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/1352.ts
+#EXTINF:-1,IT: Eurosport 1 HD
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/1341.ts
+#EXTINF:-1,IT: Fox Crime HD
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/45.ts
+#EXTINF:-1,IT: Fox HD
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/43.ts
+#EXTINF:-1,IT: Fox Life HD
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/44.ts
+#EXTINF:-1,IT: Fox Sports 1 HD
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/52.ts
+#EXTINF:-1,IT: Gambero Rosso HD
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/46.ts
+#EXTINF:-1,IT: Iris
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/1329.ts
+#EXTINF:-1,IT: italia 1HD
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/997.ts
+#EXTINF:-1,IT: La 5
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/1351.ts
+#EXTINF:-1,IT: La 7d
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/1348.ts
+#EXTINF:-1,IT: Mediaset Extra
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/1350.ts
+#EXTINF:-1,IT: Mediaset Italia 2
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/1345.ts
+#EXTINF:-1,IT: NatGeo People HD
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/77.ts
+#EXTINF:-1,IT: NatGeo Wild HD
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/76.ts
+#EXTINF:-1,IT: National Geo HD
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/75.ts
+#EXTINF:-1,IT: Premium Action +24
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/1328.ts
+#EXTINF:-1,IT: Premium Action HD
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/84.ts
+#EXTINF:-1,IT: Premium Cinema 2 HD
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/80.ts
+#EXTINF:-1,IT: Premium Cinema 24 HD
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/81.ts
+#EXTINF:-1,IT: Premium Cinema HD
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/79.ts
+#EXTINF:-1,IT: Premium Comedy HD
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/85.ts
+#EXTINF:-1,IT: Premium Crime
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/82.ts
+#EXTINF:-1,IT: Premium Crime +24
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/1327.ts
+#EXTINF:-1,IT: Premium Cinema Emotion HD
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/90.ts
+#EXTINF:-1,IT: Premium Energy HD
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/89.ts
+#EXTINF:-1,IT: Premium Joy
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/88.ts
+#EXTINF:-1,IT: Premium Sport HD
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/96.ts
+#EXTINF:-1,IT: Premium Studio Universal
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/91.ts
+#EXTINF:-1,IT: Rai 1
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/9.ts
+#EXTINF:-1,IT: Rai 2
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/10.ts
+#EXTINF:-1,IT: Rai 3
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/11.ts
+#EXTINF:-1,IT: Rai 4 HD
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/12.ts
+#EXTINF:-1,IT: Rai Gulp
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/1343.ts
+#EXTINF:-1,IT: Rai Movie
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/13.ts
+#EXTINF:-1,IT: Rai Premium
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/14.ts
+#EXTINF:-1,IT: Rai Sport 1 HD
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/66.ts
+#EXTINF:-1,IT: Rai yoyo
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/1344.ts
+#EXTINF:-1,IT: RealTime HD
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/1349.ts
+#EXTINF:-1,IT: Rete 4 HD
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/1249.ts
+#EXTINF:-1,IT: RSI La1 HD
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/16.ts
+#EXTINF:-1,IT: RSI La2 HD
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/17.ts
+#EXTINF:-1,IT: Sky Atlantic HD
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/48.ts
+#EXTINF:-1,IT: Sky Calcio 1
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/3112.ts
+#EXTINF:-1,IT: Sky Calcio 2
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/3113.ts
+#EXTINF:-1,IT: Sky Calcio 3
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/3114.ts
+#EXTINF:-1,IT: Sky Cinema +24 HD
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/38.ts
+#EXTINF:-1,IT: SKY CINEMA 1 HD
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/1368.ts
+#EXTINF:-1,IT: Sky Cinema Classic HD
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/37.ts
+#EXTINF:-1,IT: Sky Cinema Comedy HD
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/36.ts
+#EXTINF:-1,IT: Sky Cinema Cult HD
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/33.ts
+#EXTINF:-1,IT: SKY CINEMA FAMILY HD
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/1014.ts
+#EXTINF:-1,IT: Sky Cinema Hits HD
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/32.ts
+#EXTINF:-1,IT: Sky Cinema Max HD
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/34.ts
+#EXTINF:-1,IT: Sky Cinema Passion HD
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/35.ts
+#EXTINF:-1,IT: Sky Disney XD
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/1338.ts
+#EXTINF:-1,IT: Sky Moto GP HD
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/58.ts
+#EXTINF:-1,IT: Sky Prima fila 1 HD
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/105.ts
+#EXTINF:-1,IT: Sky Prima fila 10 HD
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/114.ts
+#EXTINF:-1,IT: Sky Prima fila 2 HD
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/106.ts
+#EXTINF:-1,IT: Sky Prima fila 3 HD
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/107.ts
+#EXTINF:-1,IT: Sky Prima fila 4 HD
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/108.ts
+#EXTINF:-1,IT: Sky Prima fila 5 HD
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/109.ts
+#EXTINF:-1,IT: Sky Prima fila 6 HD
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/110.ts
+#EXTINF:-1,IT: Sky Prima fila 7 HD
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/111.ts
+#EXTINF:-1,IT: Sky Prima fila 8 HD
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/112.ts
+#EXTINF:-1,IT: Sky Prima fila 9 HD
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/113.ts
+#EXTINF:-1,IT: Sky Sport 1 HD
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/53.ts
+#EXTINF:-1,IT: Sky Sport 2 HD
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/54.ts
+#EXTINF:-1,IT: Sky Sport 24 HD
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/56.ts
+#EXTINF:-1,IT: Sky Sport 3 HD
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/736.ts
+#EXTINF:-1,IT: Sky Sport F1 HD
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/1155.ts
+#EXTINF:-1,IT: Sky TG 24
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/72.ts
+#EXTINF:-1,IT: Sky UNO HD
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/711.ts
+#EXTINF:-1,IT: Sport Italia
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/1326.ts
+#EXTINF:-1,IT: Aldo Giovanni e Giacomo-Ammutta Muddica
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/4102.ts
+#EXTINF:-1,IT: Alice
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/4104.ts
+#EXTINF:-1,IT: Alpa Uno TV
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/4111.ts
+#EXTINF:-1,IT: Alto Adige
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/4110.ts
+#EXTINF:-1,IT: Antenna 3 TV
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/4108.ts
+#EXTINF:-1,IT: Antenna Sicilia TV
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/4112.ts
+#EXTINF:-1,IT: AutoMoto TV
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/4103.ts
+#EXTINF:-1,IT: AXN HD
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/4101.ts
+#EXTINF:-1,IT: BABY TV
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/4098.ts
+#EXTINF:-1,IT: Barca TV
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/4100.ts
+#EXTINF:-1,IT: BIKE CHANNEL HD
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/4097.ts
+#EXTINF:-1,IT: Caffe TV 24
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/4091.ts
+#EXTINF:-1,IT: Canale 10
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/4086.ts
+#EXTINF:-1,IT: Canale 21 Campania
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/4090.ts
+#EXTINF:-1,IT: Canale 21 Lazio
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/4089.ts
+#EXTINF:-1,IT: Canale 46
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/4088.ts
+#EXTINF:-1,IT: Canale 7 Ita
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/4087.ts
+#EXTINF:-1,IT: Canale 8
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/4085.ts
+#EXTINF:-1,IT: CARTOON NETWORK HD
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/4084.ts
+#EXTINF:-1,IT: Cartoonito
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/4083.ts
+#EXTINF:-1,IT: CI Crime Investigation HD
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/3933.ts
+#EXTINF:-1,IT: Cremona 1
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/4082.ts
+#EXTINF:-1,IT: CTS TV
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/4081.ts
+#EXTINF:-1,IT: Di TV 1
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/4080.ts
+#EXTINF:-1,IT: Di TV 2
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/4079.ts
+#EXTINF:-1,IT: Di TV 3
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/4078.ts
+#EXTINF:-1,IT: Discovery Channel HD
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/4077.ts
+#EXTINF:-1,IT: Discovery focus
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/4093.ts
+#EXTINF:-1,IT: Discovery Science HD
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/3932.ts
+#EXTINF:-1,IT: Discovery Travel & Living HD
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/4076.ts
+#EXTINF:-1,IT: Disney Channel HD
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/4075.ts
+#EXTINF:-1,IT: Disney JR
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/4074.ts
+#EXTINF:-1,IT: Disney XD HD
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/4073.ts
+#EXTINF:-1,IT: DMAX 1 HD
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/4072.ts
+#EXTINF:-1,IT: E20 Sicilia
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/4071.ts
+#EXTINF:-1,IT: Eden TV
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/4070.ts
+#EXTINF:-1,IT: Esperia TV
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/4069.ts
+#EXTINF:-1,IT: Eurosport 2 HD
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/4068.ts
+#EXTINF:-1,IT: Fano TV
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/4067.ts
+#EXTINF:-1,IT: Fine Living
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/4094.ts
+#EXTINF:-1,IT: Fishing TV
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/4066.ts
+#EXTINF:-1,IT: Fox Animation HD
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/3931.ts
+#EXTINF:-1,IT: Fox Comedy HD
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/4065.ts
+#EXTINF:-1,IT: Fox Sport HD
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/4064.ts
+#EXTINF:-1,IT: Frisbee
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/4063.ts
+#EXTINF:-1,IT: Giallo
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/4092.ts
+#EXTINF:-1,IT: HERCULES 1
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/4062.ts
+#EXTINF:-1,IT: HERCULES 2
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/4061.ts
+#EXTINF:-1,IT: HERCULES 3
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/4060.ts
+#EXTINF:-1,IT: History HD
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/4059.ts
+#EXTINF:-1,IT: HISTORY LAB
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/4095.ts
+#EXTINF:-1,IT: Italia 1 HD
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/4058.ts
+#EXTINF:-1,IT: Italia 2 HD
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/4057.ts
+#EXTINF:-1,IT: Juventus Channel
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/4056.ts
+#EXTINF:-1,IT: K2
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/4055.ts
+#EXTINF:-1,IT: LA5
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/4052.ts
+#EXTINF:-1,IT: LA7 HD
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/4054.ts
+#EXTINF:-1,IT: LA7D HD
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/4053.ts
+#EXTINF:-1,IT: Lucania TV
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/4051.ts
+#EXTINF:-1,IT: Luna TV Sport
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/4050.ts
+#EXTINF:-1,IT: m2o (musica)
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/4049.ts
+#EXTINF:-1,IT: Manga
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/4048.ts
+#EXTINF:-1,IT: Marcopolo
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/4047.ts
+#EXTINF:-1,IT: Masha and Bear
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/4046.ts
+#EXTINF:-1,IT: Masha e Orso Channel
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/4045.ts
+#EXTINF:-1,IT: Napoli Canale 21 TV
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/4044.ts
+#EXTINF:-1,IT: NAT GEO People HD
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/4043.ts
+#EXTINF:-1,IT: NAT GEO Wild HD
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/4042.ts
+#EXTINF:-1,IT: Onda TV
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/4041.ts
+#EXTINF:-1,IT: Paramount Channel Ita HD
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/4040.ts
+#EXTINF:-1,IT: PREMIUM ACTION  24 HD
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/4039.ts
+#EXTINF:-1,IT: Premium Calcio 1 HD
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/4038.ts
+#EXTINF:-1,IT: Premium Calcio 2 HD
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/4037.ts
+#EXTINF:-1,IT: Premium Calcio 3 HD
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/4036.ts
+#EXTINF:-1,IT: Premium Calcio 4 HD
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/4035.ts
+#EXTINF:-1,IT: Premium Calcio 5 HD
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/4034.ts
+#EXTINF:-1,IT: Premium Calcio 6 HD
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/4033.ts
+#EXTINF:-1,IT: Premium Cartoon Network
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/4032.ts
+#EXTINF:-1,IT: Premium Cinema 1 HD
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/4031.ts
+#EXTINF:-1,IT: Premium Cinema 2 24 HD
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/4030.ts
+#EXTINF:-1,IT: Premium Cinema HD (ENG)
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/4029.ts
+#EXTINF:-1,IT: Premium Crime 24 HD
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/4027.ts
+#EXTINF:-1,IT: Premium Crime HD
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/4028.ts
+#EXTINF:-1,IT: Premium Discovery HD
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/4026.ts
+#EXTINF:-1,IT: Premium Emotion HD
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/4025.ts
+#EXTINF:-1,IT: Premium Energy 1
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/4024.ts
+#EXTINF:-1,IT: Premium Joy 24
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/4022.ts
+#EXTINF:-1,IT: Premium Joy HD
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/4023.ts
+#EXTINF:-1,IT: Premium Sport 1 HD
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/4021.ts
+#EXTINF:-1,IT: Premium Sport 2 HD
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/4020.ts
+#EXTINF:-1,IT: Premium Stories HD
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/4019.ts
+#EXTINF:-1,IT: Primarete Lombardia
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/4018.ts
+#EXTINF:-1,IT: Primocanale TV
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/4017.ts
+#EXTINF:-1,IT: Quarta Rete Blu TV
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/4016.ts
+#EXTINF:-1,IT: Quarta Rete TV
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/4015.ts
+#EXTINF:-1,IT: QVC Italia
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/4014.ts
+#EXTINF:-1,IT: Radio Bruno TV
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/4013.ts
+#EXTINF:-1,IT: Radio Bruno TV (musica)
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/4012.ts
+#EXTINF:-1,IT: Radio Norba TV
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/4011.ts
+#EXTINF:-1,IT: Radio Radicale Camera TV
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/4010.ts
+#EXTINF:-1,IT: Radio Radicale Senato TV
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/4009.ts
+#EXTINF:-1,IT: Radio Radicale TV
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/4008.ts
+#EXTINF:-1,IT: Radio Taormina TV (musica)
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/4007.ts
+#EXTINF:-1,IT: Radio TV Azzura
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/4006.ts
+#EXTINF:-1,IT: Radio Universal TV
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/4005.ts
+#EXTINF:-1,IT: RadioMonteCarlo
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/4004.ts
+#EXTINF:-1,IT: Rai Nettuno
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/4003.ts
+#EXTINF:-1,IT: Rai News 24
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/4002.ts
+#EXTINF:-1,IT: Rai Scuola
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/4001.ts
+#EXTINF:-1,IT: Rai Storia
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/4000.ts
+#EXTINF:-1,IT: Real Time 1
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/3999.ts
+#EXTINF:-1,IT: ReteBiella TV
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/3998.ts
+#EXTINF:-1,IT: ReteSole Lazio
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/3997.ts
+#EXTINF:-1,IT: ReteSole Umbria
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/3996.ts
+#EXTINF:-1,IT: ROMA CHANNEL
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/3995.ts
+#EXTINF:-1,IT: RTL 102.5 TV
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/3994.ts
+#EXTINF:-1,IT: RtpTV
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/3993.ts
+#EXTINF:-1,IT: RTV 105
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/3992.ts
+#EXTINF:-1,IT: Sardegna Uno TV
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/3991.ts
+#EXTINF:-1,IT: Sky Calcio 1 HD
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/3990.ts
+#EXTINF:-1,IT: Sky Calcio 2 HD
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/3989.ts
+#EXTINF:-1,IT: Sky Calcio 3 HD
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/3988.ts
+#EXTINF:-1,IT: Sky Calcio 4 HD
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/3987.ts
+#EXTINF:-1,IT: Sky Calcio 5 HD
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/3986.ts
+#EXTINF:-1,IT: Sky Calcio 6 HD
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/3985.ts
+#EXTINF:-1,IT: Sky Cinema 1 24 HD
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/3984.ts
+#EXTINF:-1,IT: Sky Cinema 3D
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/3983.ts
+#EXTINF:-1,IT: Sky Sports 1 HD
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/3982.ts
+#EXTINF:-1,IT: Sky Sports 2 HD
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/3981.ts
+#EXTINF:-1,IT: Sky Sports 24 HD
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/3980.ts
+#EXTINF:-1,IT: Sky Sports 3 HD
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/3979.ts
+#EXTINF:-1,IT: Sky Sports F1 HD
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/3978.ts
+#EXTINF:-1,IT: Sky Sports Moto GP
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/4096.ts
+#EXTINF:-1,IT: SKY TG24 HD
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/3977.ts
+#EXTINF:-1,IT: Studio 1
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/3976.ts
+#EXTINF:-1,IT: Studio 100
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/3975.ts
+#EXTINF:-1,IT: Super Tennis HD
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/3974.ts
+#EXTINF:-1,IT: Super TV
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/3973.ts
+#EXTINF:-1,IT: TcsTV
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/3972.ts
+#EXTINF:-1,IT: Tele Arena Siena
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/3971.ts
+#EXTINF:-1,IT: Tele Boario
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/3970.ts
+#EXTINF:-1,IT: Tele Chiara
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/3969.ts
+#EXTINF:-1,IT: Tele Diogene
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/3968.ts
+#EXTINF:-1,IT: Tele Milano
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/3967.ts
+#EXTINF:-1,IT: Tele Padova Telecitt
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/3966.ts
+#EXTINF:-1,IT: Tele Pordenone
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/3965.ts
+#EXTINF:-1,IT: Tele Video Agrigento
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/3964.ts
+#EXTINF:-1,IT: TeleBari TV
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/3963.ts
+#EXTINF:-1,IT: TeleColor
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/3962.ts
+#EXTINF:-1,IT: Telecolor Lombardia
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/3961.ts
+#EXTINF:-1,IT: TeleDehonTV
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/3960.ts
+#EXTINF:-1,IT: Teleliguria Sud
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/3959.ts
+#EXTINF:-1,IT: TeleMIa
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/3958.ts
+#EXTINF:-1,IT: TeleMonteNeve
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/3957.ts
+#EXTINF:-1,IT: TeleMonteNeve 3
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/3956.ts
+#EXTINF:-1,IT: TeleNorba TV
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/3955.ts
+#EXTINF:-1,IT: TelePace TV
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/3954.ts
+#EXTINF:-1,IT: TeleRadioSciacca
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/3953.ts
+#EXTINF:-1,IT: TeleRoma 56 Lazio
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/3952.ts
+#EXTINF:-1,IT: Teleromagna
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/3951.ts
+#EXTINF:-1,IT: Teleromagna Lifestyle
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/3950.ts
+#EXTINF:-1,IT: Teleromagna News
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/3949.ts
+#EXTINF:-1,IT: TeleSondrio Livigno
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/3948.ts
+#EXTINF:-1,IT: TeleSondrioNews
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/3947.ts
+#EXTINF:-1,IT: TeleStar1
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/3946.ts
+#EXTINF:-1,IT: TeleTicino
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/3945.ts
+#EXTINF:-1,IT: Televaldarno RTV38
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/3944.ts
+#EXTINF:-1,IT: TeleVenezia
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/3943.ts
+#EXTINF:-1,IT: TG Com 24 Premium
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/3942.ts
+#EXTINF:-1,IT: TG Norba 24
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/3941.ts
+#EXTINF:-1,IT: TOP Crime Mediaset
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/3940.ts
+#EXTINF:-1,IT: Topolino Cip e Ciop Paperino
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/3939.ts
+#EXTINF:-1,IT: Trentino TV
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/3938.ts
+#EXTINF:-1,IT: TRM TV
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/3937.ts
+#EXTINF:-1,IT: TV Avicenza
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/3936.ts
+#EXTINF:-1,IT: TV Luna
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/3935.ts
+#EXTINF:-1,IT: TV2000 HD
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/3934.ts
+#EXTINF:-1,IT: TVRS
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/4115.ts
+#EXTINF:-1,IT: Umbria TV
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/4116.ts
+#EXTINF:-1,IT: Vera TV
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/4109.ts
+#EXTINF:-1,IT: Video 33 TV
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/4107.ts
+#EXTINF:-1,IT: Video Brescia
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/4114.ts
+#EXTINF:-1,IT: Video Calabria
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/4105.ts
+#EXTINF:-1,IT: Video Tolento
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/4106.ts
+#EXTINF:-1,IT: VideoLina
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/4117.ts
+#EXTINF:-1,IT: Videostar TV
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/4113.ts
+#EXTINF:-1,IT: Virgin TV
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/4099.ts
+#EXTINF:-1,IT: Sky Supercalcio HD
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/1340.ts
+#EXTINF:-1,IT: Top Crime
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/1358.ts
+
+#EXTINF:-1,Rete 4 HD
+http://world-ipsat.com:1155/live/sultan/sultan2018/209.ts
+#EXTINF:-1,Canale 5 HD
+http://world-ipsat.com:1155/live/sultan/sultan2018/210.ts
+#EXTINF:-1,Italia 1 HD
+http://world-ipsat.com:1155/live/sultan/sultan2018/211.ts
+#EXTINF:-1,IT:Sky_Cinema_1_HD
+http://world-ipsat.com:1155/live/sultan/sultan2018/677.ts
+#EXTINF:-1,IT:Sky Cinema+1HD
+http://world-ipsat.com:1155/live/sultan/sultan2018/743.ts
+#EXTINF:-1,IT:Sky_Cinema_Comedy_HD
+http://world-ipsat.com:1155/live/sultan/sultan2018/680.ts
+#EXTINF:-1,IT_Cinema-hit-HD
+http://world-ipsat.com:1155/live/sultan/sultan2018/679.ts
+#EXTINF:-1,IT: Sky_Cinema_MAX_HD
+http://world-ipsat.com:1155/live/sultan/sultan2018/678.ts
+#EXTINF:-1,IT:Sky-Cinema-Max +1HD
+http://world-ipsat.com:1155/live/sultan/sultan2018/745.ts
+#EXTINF:-1,IT: SKY CINEMA PASSION HD
+http://world-ipsat.com:1155/live/sultan/sultan2018/681.ts
+#EXTINF:-1,IT:SKY_CINEMA_24HD
+http://world-ipsat.com:1155/live/sultan/sultan2018/683.ts
+#EXTINF:-1,IT:Sky-Cinema-Classics
+http://world-ipsat.com:1155/live/sultan/sultan2018/684.ts
+#EXTINF:-1,IT:SKY-CINEMA-FAMILY-HD
+http://world-ipsat.com:1155/live/sultan/sultan2018/682.ts
+#EXTINF:-1,IT:Sky_Atlantic_HD
+http://world-ipsat.com:1155/live/sultan/sultan2018/1399.ts
+#EXTINF:-1,Sky-it-Cinema-Cult-HD
+http://world-ipsat.com:1155/live/sultan/sultan2018/1398.ts
+#EXTINF:-1,===RAI_CHANNEL===
+http://world-ipsat.com:1155/live/sultan/sultan2018/1493.ts
+#EXTINF:-1,IT:Rai_1_HD
+http://world-ipsat.com:1155/live/sultan/sultan2018/1494.ts
+#EXTINF:-1,IT:Rai_2_HD
+http://world-ipsat.com:1155/live/sultan/sultan2018/1495.ts
+#EXTINF:-1,IT:Rai_3_HD
+http://world-ipsat.com:1155/live/sultan/sultan2018/1496.ts
+#EXTINF:-1,IT:Rai_4 HD
+http://world-ipsat.com:1155/live/sultan/sultan2018/1497.ts
+#EXTINF:-1,Rai_Premium
+http://world-ipsat.com:1155/live/sultan/sultan2018/1498.ts
+#EXTINF:-1,•●★Premium_IT_Cinema ★●•
+http://world-ipsat.com:1155/live/sultan/sultan2018/685.ts
+#EXTINF:-1,IT_PREMUIM_CINEMAHD
+http://world-ipsat.com:1155/live/sultan/sultan2018/686.ts
+#EXTINF:-1,IT-Premium-Action-HD
+http://world-ipsat.com:1155/live/sultan/sultan2018/688.ts
+#EXTINF:-1,IT:Premium-Cinema+24
+http://world-ipsat.com:1155/live/sultan/sultan2018/751.ts
+#EXTINF:-1,IT:Premium-Action-24
+http://world-ipsat.com:1155/live/sultan/sultan2018/1344.ts
+#EXTINF:-1,IT:Premium-Cinema2-24
+http://world-ipsat.com:1155/live/sultan/sultan2018/1341.ts
+#EXTINF:-1,IT:Premium-Cinema-2HD
+http://world-ipsat.com:1155/live/sultan/sultan2018/1340.ts
+#EXTINF:-1,IT:PREMIUM-CINEMA-COMEDY
+http://world-ipsat.com:1155/live/sultan/sultan2018/1347.ts
+#EXTINF:-1,IT: PREMIUM-CINEMA-EMOTION
+http://world-ipsat.com:1155/live/sultan/sultan2018/1345.ts
+#EXTINF:-1,IT:Premium-Cinema-Energy
+http://world-ipsat.com:1155/live/sultan/sultan2018/1346.ts
+#EXTINF:-1,IT:Premium-CrimeHD
+http://world-ipsat.com:1155/live/sultan/sultan2018/1343.ts
+#EXTINF:-1,IT:Premium-Crime+24HD
+http://world-ipsat.com:1155/live/sultan/sultan2018/1342.ts
+#EXTINF:-1,IT:RSi_LA_1
+http://world-ipsat.com:1155/live/sultan/sultan2018/2150.ts
+#EXTINF:-1,IT:RSi_LA_2
+http://world-ipsat.com:1155/live/sultan/sultan2018/190.ts
+#EXTINF:-1,sky it Cinema Uno HD
+http://world-ipsat.com:1155/live/sultan/sultan2018/219.ts
+#EXTINF:-1,IT: Alto Adige TV
+http://world-ipsat.com:1155/live/sultan/sultan2018/217.ts
+#EXTINF:-1,IT: Canale 7
+http://world-ipsat.com:1155/live/sultan/sultan2018/220.ts
+#EXTINF:-1,IT: Sky HISTORY HD
+http://world-ipsat.com:1155/live/sultan/sultan2018/1092.ts
+#EXTINF:-1,IT:Sky_Sport24
+http://world-ipsat.com:1155/live/sultan/sultan2018/153.ts
+#EXTINF:-1,Premium Calcio_1HD
+http://world-ipsat.com:1155/live/sultan/sultan2018/753.ts
+#EXTINF:-1,Premium-Sport-2HD
+http://world-ipsat.com:1155/live/sultan/sultan2018/1400.ts
+#EXTINF:-1,IT:SKYSport1HD
+http://world-ipsat.com:1155/live/sultan/sultan2018/1350.ts
+#EXTINF:-1,IT:SKY-Sport-2HD
+http://world-ipsat.com:1155/live/sultan/sultan2018/1351.ts
+#EXTINF:-1,IT:SKYSport3HD
+http://world-ipsat.com:1155/live/sultan/sultan2018/1352.ts
+#EXTINF:-1,IT:-Sky-Calcio1HD
+http://world-ipsat.com:1155/live/sultan/sultan2018/1353.ts
+#EXTINF:-1,IT: Sky Calcio 1
+http://world-ipsat.com:1155/live/sultan/sultan2018/2687.ts
+#EXTINF:-1,Sky.Calcio.2HD
+http://world-ipsat.com:1155/live/sultan/sultan2018/1354.ts
+#EXTINF:-1,IT: Sky Calcio 2
+http://world-ipsat.com:1155/live/sultan/sultan2018/2688.ts
+#EXTINF:-1,IT: Sky Calcio 4
+http://world-ipsat.com:1155/live/sultan/sultan2018/2681.ts
+#EXTINF:-1,IT: Sky Calcio 3
+http://world-ipsat.com:1155/live/sultan/sultan2018/2083.ts
+#EXTINF:-1,IT:Sky-Sport-MotoGP-HD
+http://world-ipsat.com:1155/live/sultan/sultan2018/1348.ts
+#EXTINF:-1,IT:Sport F1HD
+http://world-ipsat.com:1155/live/sultan/sultan2018/1349.ts
+#EXTINF:-1,IT: JUVENTUS CHANNEL
+http://world-ipsat.com:1155/live/sultan/sultan2018/2689.ts
+#EXTINF:-1,IT:Rai_Sport1
+http://world-ipsat.com:1155/live/sultan/sultan2018/2674.ts
+#EXTINF:-1,IT:Rai_Sport2
+http://world-ipsat.com:1155/live/sultan/sultan2018/2678.ts
+#EXTINF:-1,IT:Premium_Calcio_1
+http://world-ipsat.com:1155/live/sultan/sultan2018/2676.ts
+#EXTINF:-1,IT:Premium_Calcio_2
+http://world-ipsat.com:1155/live/sultan/sultan2018/2675.ts
+#EXTINF:-1,IT:Premium_Calcio
+http://world-ipsat.com:1155/live/sultan/sultan2018/2684.ts
+#EXTINF:-1,IT:Premium_Sport
+http://world-ipsat.com:1155/live/sultan/sultan2018/2682.ts
+#EXTINF:-1,IT:Premium_Sport2
+http://world-ipsat.com:1155/live/sultan/sultan2018/2683.ts
+#EXTINF:-1,•●★--PRIMA_FILA----★●•
+http://world-ipsat.com:1155/live/sultan/sultan2018/620.ts
+#EXTINF:-1,IT:Sky_Primafila_1_HD
+http://world-ipsat.com:1155/live/sultan/sultan2018/1379.ts
+#EXTINF:-1,IT:Sky_Primafila_2_HD
+http://world-ipsat.com:1155/live/sultan/sultan2018/1380.ts
+#EXTINF:-1,IT:Sky_Primafila_3_HD
+http://world-ipsat.com:1155/live/sultan/sultan2018/1381.ts
+#EXTINF:-1,IT:Sky_Primafila_4_HD
+http://world-ipsat.com:1155/live/sultan/sultan2018/1382.ts
+#EXTINF:-1,IT:Sky_Primafila_5_HD
+http://world-ipsat.com:1155/live/sultan/sultan2018/1383.ts
+#EXTINF:-1,IT:Sky_Primafila_6_HD
+http://world-ipsat.com:1155/live/sultan/sultan2018/1384.ts
+#EXTINF:-1,IT:Sky_Primafila_7_HD
+http://world-ipsat.com:1155/live/sultan/sultan2018/1385.ts
+#EXTINF:-1,IT:Sky_Primafila_8_HD
+http://world-ipsat.com:1155/live/sultan/sultan2018/1386.ts
+#EXTINF:-1,IT:Sky_Primafila_9_HD
+http://world-ipsat.com:1155/live/sultan/sultan2018/1387.ts
+#EXTINF:-1,IT:Sky_Primafila_10_HD
+http://world-ipsat.com:1155/live/sultan/sultan2018/1388.ts
+#EXTINF:-1,IT:Sky-Primafila-11HD.
+http://world-ipsat.com:1155/live/sultan/sultan2018/1474.ts
+#EXTINF:-1,IT:Sky-Primafila-12HD.
+http://world-ipsat.com:1155/live/sultan/sultan2018/1473.ts
+#EXTINF:-1,IT:Sky-Primafila-13HD
+http://world-ipsat.com:1155/live/sultan/sultan2018/1470.ts
+#EXTINF:-1,IT:Sky-Primafila-14HD
+http://world-ipsat.com:1155/live/sultan/sultan2018/1469.ts
+#EXTINF:-1,IT:Sky-Primafila-15HD.
+http://world-ipsat.com:1155/live/sultan/sultan2018/1484.ts
+#EXTINF:-1,IT:Sky-Primafila-16HD.
+http://world-ipsat.com:1155/live/sultan/sultan2018/1466.ts
+#EXTINF:-1,IT:Sky-Primafila-17HD.
+http://world-ipsat.com:1155/live/sultan/sultan2018/1464.ts
+#EXTINF:-1,IT:Sky-Primafila-18HD.
+http://world-ipsat.com:1155/live/sultan/sultan2018/1463.ts
+#EXTINF:-1,IT:Sky-Primafila-19-HD.
+http://world-ipsat.com:1155/live/sultan/sultan2018/1587.ts
+
 #EXTM3U
 #EXTINF:-1,Animal Planet
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/824.m3u8$http-refferer=http://localhost
