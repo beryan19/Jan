@@ -57,6 +57,103 @@ http://538hls.lswcdn.triple-it.nl/content/538tv/538tv_0.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Xitelogo.jpg/266px-Xitelogo.jpg" group-title="NETHERLANDS",Xite Music
 http://highvolume03.streampartner.nl:1935/vleugels_hd4/livestream/playlist.m3u8
+
+
+#EXTM3U
+
+
+#EXTINF:-1,NL: AT5 HD
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/1480.ts
+#EXTINF:-1,NL: Boomerang
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/2324.ts
+#EXTINF:-1,NL: Comedy Central
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/309.ts
+#EXTINF:-1,NL: Crime & Investigation
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/1784.ts
+#EXTINF:-1,NL: Discovery HD
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/722.ts
+#EXTINF:-1,NL: Discovery Showcase HD
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/1481.ts
+#EXTINF:-1,NL: Edge Sport HD
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/719.ts
+#EXTINF:-1,NL: Eurosport HD
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/1795.ts
+#EXTINF:-1,NL: Film1 Action
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/314.ts
+#EXTINF:-1,NL: Film1 Comedy Kids
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/1482.ts
+#EXTINF:-1,NL: Film1 Premiere HD
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/313.ts
+#EXTINF:-1,NL: Film1 Sundance
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/1478.ts
+#EXTINF:-1,NL: FOX Channel
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/1794.ts
+#EXTINF:-1,NL: Fox sport 1 HD
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/331.ts
+#EXTINF:-1,NL: Fox sport 2 HD
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/332.ts
+#EXTINF:-1,NL: Fox sport 3
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/333.ts
+#EXTINF:-1,NL: Fox sport 4
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/334.ts
+#EXTINF:-1,NL: Fox sport 5
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/335.ts
+#EXTINF:-1,NL: Fox Sports 6
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/1483.ts
+#EXTINF:-1,NL: History HD
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/2337.ts
+#EXTINF:-1,NL: Motors TV
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/2336.ts
+#EXTINF:-1,NL: MTV live
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/2320.ts
+#EXTINF:-1,NL: NatGeo Channel HD
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/1792.ts
+#EXTINF:-1,NL: Net 5
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/1473.ts
+#EXTINF:-1,NL: Nick Toons
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/2327.ts
+#EXTINF:-1,NL: NICKELODEON
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/1788.ts
+#EXTINF:-1,NL: NPO 1 HD
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/315.ts
+#EXTINF:-1,NL: NPO 2 HD
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/316.ts
+#EXTINF:-1,NL: NPO 3 HD
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/1471.ts
+#EXTINF:-1,NL: NPO Zapp Xtra/NPO Best
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/2323.ts
+#EXTINF:-1,NL: RTL 5
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/318.ts
+#EXTINF:-1,NL: RTL 8 HD
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/2113.ts
+#EXTINF:-1,NL: RTL Crime
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/2317.ts
+#EXTINF:-1,NL: RTL Z HD
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/1782.ts
+#EXTINF:-1,NL: RTL4
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/317.ts
+#EXTINF:-1,NL: RTL7 HD
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/2112.ts
+#EXTINF:-1,NL: SBS 6 HD
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/1474.ts
+#EXTINF:-1,NL: SBS 9 HD
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/1475.ts
+#EXTINF:-1,NL: TLC
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/1796.ts
+#EXTINF:-1,NL: Veronica/Disney XD
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/1781.ts
+#EXTINF:-1,NL: Ziggo Sport eXtra 2
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/2318.ts
+#EXTINF:-1,NL: Ziggo Sport Golf
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/720.ts
+#EXTINF:-1,NL: Ziggo Sport Racing
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/2971.ts
+#EXTINF:-1,NL: Ziggo Sport Select HD
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/310.ts
+#EXTINF:-1,NL: Ziggo Sport Voetbal
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/718.ts
+#EXTINF:-1,NL: Ziggo Sport1 extra
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/721.ts
 #EXTM3U
 #EXTINF:-1,Film1 Premiere FHD 1080
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/762.m3u8$http-refferer=http://localhost
