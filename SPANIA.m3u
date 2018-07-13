@@ -265,4 +265,713 @@ http://vaughantv.streaming-pro.com:1935/live/vaughantv/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.televisionvegabaja.es/wp-content/uploads/2016/11/favicon-150x150.png" group-title="SPAIN",Vega Baja TV
 http://185.29.68.24/tvb.m3u8
 
+#EXTM3U
 
+#EXTINF:-1,ES: LA1 HD
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/751.ts
+#EXTINF:-1,ES: LA2
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/752.ts
+#EXTINF:-1,ES: MOVISTAR F1 FHD
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/744.ts
+#EXTINF:-1,ES: #0
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/3633.ts
+#EXTINF:-1,ES: #0 FHD
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/2897.ts
+#EXTINF:-1,ES: 24 HORAS
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/2898.ts
+#EXTINF:-1,ES: 3/24
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/1647.ts
+#EXTINF:-1,ES: 8Tv
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/3644.ts
+#EXTINF:-1,ES: A&E ESPAÑA
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/755.ts
+#EXTINF:-1,ES: A3SERIES
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/1654.ts
+#EXTINF:-1,ES: ALQUILER 1
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/1646.ts
+#EXTINF:-1,ES: ALQUILER 2
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/1642.ts
+#EXTINF:-1,ES: ALQUILER 3
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/1643.ts
+#EXTINF:-1,ES: ALQUILER 4
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/1644.ts
+#EXTINF:-1,ES: ALQUILER 5
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/1645.ts
+#EXTINF:-1,ES: AMC
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/3651.ts
+#EXTINF:-1,ES: AMC FHD
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/1824.ts
+#EXTINF:-1,ES: ANTENA 3
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/3659.ts
+#EXTINF:-1,ES: ANTENA3 FHD
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/756.ts
+#EXTINF:-1,ES: AXN
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/3653.ts
+#EXTINF:-1,ES: AXN HD
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/966.ts
+#EXTINF:-1,ES: AXN WHITE
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/3652.ts
+#EXTINF:-1,ES: AXN White FHD
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/1059.ts
+#EXTINF:-1,ES: BABY TV
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/3433.ts
+#EXTINF:-1,ES: Barca TV
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/971.ts
+#EXTINF:-1,ES: BEIN  LALIGA
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/3549.ts
+#EXTINF:-1,ES: BEIN LALIGA FHD
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/3621.ts
+#EXTINF:-1,ES: BEIN MAX 1
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/3604.ts
+#EXTINF:-1,ES: BEIN MAX 2
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/3603.ts
+#EXTINF:-1,ES: BEIN MAX 3
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/3602.ts
+#EXTINF:-1,ES: BEIN MAX 4
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/3601.ts
+#EXTINF:-1,ES: BEIN MAX 5
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/3600.ts
+#EXTINF:-1,ES: BEIN MAX 6
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/3599.ts
+#EXTINF:-1,ES: BEIN MAX 7
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/3598.ts
+#EXTINF:-1,ES: BEIN MAX 8
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/3597.ts
+#EXTINF:-1,ES: BEIN SPORT ES
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/973.ts
+#EXTINF:-1,ES: BEIN SPORT ESPAÑA FHD
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/3620.ts
+#EXTINF:-1,ES: BEINLALIGA1
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/3612.ts
+#EXTINF:-1,ES: BEINLALIGA2
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/3611.ts
+#EXTINF:-1,ES: BEINLALIGA3
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/3610.ts
+#EXTINF:-1,ES: BEINLALIGA4
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/3609.ts
+#EXTINF:-1,ES: BEINLALIGA5
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/3608.ts
+#EXTINF:-1,ES: BEINLALIGA6
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/3607.ts
+#EXTINF:-1,ES: BEINLALIGA7
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/3606.ts
+#EXTINF:-1,ES: BEINLALIGA8
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/3605.ts
+#EXTINF:-1,ES: Boing
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/2901.ts
+#EXTINF:-1,ES: CALLE 13
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/3650.ts
+#EXTINF:-1,ES: CALLE 13 FHD
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/965.ts
+#EXTINF:-1,ES: CANAL COCINA
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/1649.ts
+#EXTINF:-1,ES: CAZA y PESCA HD
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/3637.ts
+#EXTINF:-1,ES: CI
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/1047.ts
+#EXTINF:-1,ES: CLAN TVE
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/3434.ts
+#EXTINF:-1,ES: CLASSICA
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/1063.ts
+#EXTINF:-1,ES: COMEDY CENTRAL
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/3648.ts
+#EXTINF:-1,ES: COMEDY CENTRAL HD
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/963.ts
+#EXTINF:-1,ES: COSMO
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/1064.ts
+#EXTINF:-1,ES:COSMOPOLITAN  FHD
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/3641.ts
+#EXTINF:-1,ES: CUATRO
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/3658.ts
+#EXTINF:-1,ES: CUATRO FHD
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/1130.ts
+#EXTINF:-1,ES: DISCOVERY
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/1828.ts
+#EXTINF:-1,ES: Disney Channel
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/969.ts
+#EXTINF:-1,ES: Disney Junior
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/1061.ts
+#EXTINF:-1,ES: DISNEY XD
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/3435.ts
+#EXTINF:-1,ES: DIVINITY
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/2903.ts
+#EXTINF:-1,ES: ENERGY
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/3429.ts
+#EXTINF:-1,ES: EUROSPORT 1 HD
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/3615.ts
+#EXTINF:-1,ES: Eurosport  2
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/3849.ts
+#EXTINF:-1,ES: FDF
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/3430.ts
+#EXTINF:-1,ES: MOVISTAR  F1
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/3613.ts
+#EXTINF:-1,ES: FOX
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/3655.ts
+#EXTINF:-1,ES: FOX HD
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/960.ts
+#EXTINF:-1,ES: FOX LIFE
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/3654.ts
+#EXTINF:-1,ES: FOX LIFE FHD
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/1051.ts
+#EXTINF:-1,ES: GOL
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/1655.ts
+#EXTINF:-1,ES: Historia
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/968.ts
+#EXTINF:-1,ES: HOLLYWOOD
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/3647.ts
+#EXTINF:-1,ES: Hot Music
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/3836.ts
+#EXTINF:-1,ES: IBERALIA TV
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/3634.ts
+#EXTINF:-1,ES: LA 1
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/3660.ts
+#EXTINF:-1,ES: LA LIGA 123
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/3584.ts
+#EXTINF:-1,ES: La Liga BAR HD
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/1046.ts
+#EXTINF:-1,ES: LA SEXTA
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/3656.ts
+#EXTINF:-1,ES: LA SEXTA FHD
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/759.ts
+#EXTINF:-1,ES: LALIGATV BAR
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/3619.ts
+#EXTINF:-1,ES: M  Estrenos
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/970.ts
+#EXTINF:-1,ES: M accion FHD
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/747.ts
+#EXTINF:-1,ES: M Comedia
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/742.ts
+#EXTINF:-1,ES: M DCINE
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/3629.ts
+#EXTINF:-1,ES: M DCINE FHD
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/746.ts
+#EXTINF:-1,ES: M Deportes 1 FHD
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/867.ts
+#EXTINF:-1,ES: MOVISTAR DEPORTE 2 FHD
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/3617.ts
+#EXTINF:-1,ES:MOVISTAR ESTRENOS FHD
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/3632.ts
+#EXTINF:-1,ES: M Futboll FHD
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/869.ts
+#EXTINF:-1,ES: M GOLF
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/1057.ts
+#EXTINF:-1,ES: MOVISTAR GOLF FHD
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/3616.ts
+#EXTINF:-1,ES: M MOTOGP FHD
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/2767.ts
+#EXTINF:-1,ES: M Series
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/749.ts
+#EXTINF:-1,ES: M SERIES FHD
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/3627.ts
+#EXTINF:-1,ES:MOVISTAR SERIES XTRA FHD
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/3626.ts
+#EXTINF:-1,ES: M XTRA
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/1056.ts
+#EXTINF:-1,ES:MOVISTAR XTRA FHD
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/3628.ts
+#EXTINF:-1,ES: M. ACCION
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/3631.ts
+#EXTINF:-1,ES: M. DCINE  Ñ
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/2904.ts
+#EXTINF:-1,ES: M. ESPORT
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/3581.ts
+#EXTINF:-1,ES: M. FUTBOL
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/3622.ts
+#EXTINF:-1,ES: M. MOTOGP
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/3614.ts
+#EXTINF:-1,ES: M.Partidazo
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/3623.ts
+#EXTINF:-1,ES: M.Partidazo HD
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/3548.ts
+#EXTINF:-1,ES: MEGA
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/1060.ts
+#EXTINF:-1,ES: MEZZO
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/3636.ts
+#EXTINF:-1,ES: MULTIDEP.1
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/3595.ts
+#EXTINF:-1,ES: MULTIDEP.2
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/3594.ts
+#EXTINF:-1,ES: MULTIDEP.3
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/3593.ts
+#EXTINF:-1,ES: MULTIDEP.4
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/3592.ts
+#EXTINF:-1,ES: MULTIFUT. 1
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/3591.ts
+#EXTINF:-1,ES: MULTIFUT. 2
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/3590.ts
+#EXTINF:-1,ES: MULTIFUT. 3
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/3589.ts
+#EXTINF:-1,ES: NAG GEO WILD FHD
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/3638.ts
+#EXTINF:-1,ES: NAT GEO
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/1050.ts
+#EXTINF:-1,ES: NAT GEO WILD FHD
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/1367.ts
+#EXTINF:-1,ES: National Geographic FHD
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/3639.ts
+#EXTINF:-1,ES: NEOX
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/1653.ts
+#EXTINF:-1,ES: Nick Jr
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/3437.ts
+#EXTINF:-1,ES: Nickelodeon HD
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/3436.ts
+#EXTINF:-1,ES: NOVA
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/1055.ts
+#EXTINF:-1,ES: ODISEA
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/1827.ts
+#EXTINF:-1,ES: PARAMOUNT
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/758.ts
+#EXTINF:-1,ES: RADIO 105  TV
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/3837.ts
+#EXTINF:-1,ES: RADIO MONTE  CARLO TV
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/3838.ts
+#EXTINF:-1,ES: REAL MADRID TV
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/2906.ts
+#EXTINF:-1,ES: SYFY
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/3649.ts
+#EXTINF:-1,ES: SYFY FHD
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/962.ts
+#EXTINF:-1,ES: TCM
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/1048.ts
+#EXTINF:-1,ES: TCM FHD
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/3646.ts
+#EXTINF:-1,ES: TELECINCO
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/3657.ts
+#EXTINF:-1,ES: TELECINCO HD
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/1131.ts
+#EXTINF:-1,ES: TELEDEPORTE
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/1650.ts
+#EXTINF:-1,ES: TNT
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/1825.ts
+#EXTINF:-1,ES: TOROS TV FHD
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/3624.ts
+#EXTINF:-1,ES: VIAJAR
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/753.ts
+#EXTINF:-1,ES: VIAJAR FHD
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/3640.ts
+#EXTINF:-1,ES: XTRM
+http://hd.buyiptv-server.tv:8010/live/xruGNE0Ymk/cdrrwGQTDj/3432.ts
+
+
+#EXTINF:-1,ES:LA 1
+http://54.37.255.204:9977/live/696/iptv/28847.ts
+#EXTINF:-1,ES:LA 1 FHD
+http://54.37.255.204:9977/live/696/iptv/28846.ts
+#EXTINF:-1,ES:LA 2
+http://54.37.255.204:9977/live/696/iptv/28845.ts
+#EXTINF:-1,ES:La 2 FHD
+http://54.37.255.204:9977/live/696/iptv/28844.ts
+#EXTINF:-1,ES:ANTENA 3
+http://54.37.255.204:9977/live/696/iptv/28843.ts
+#EXTINF:-1,ES:ANTENA 3 FHD
+http://54.37.255.204:9977/live/696/iptv/28842.ts
+#EXTINF:-1,ES:CUATRO
+http://54.37.255.204:9977/live/696/iptv/28841.ts
+#EXTINF:-1,ES:CUATRO FHD
+http://54.37.255.204:9977/live/696/iptv/28840.ts
+#EXTINF:-1,ES:TELECINCO
+http://54.37.255.204:9977/live/696/iptv/28839.ts
+#EXTINF:-1,ES:TELECINCO FHD
+http://54.37.255.204:9977/live/696/iptv/28838.ts
+#EXTINF:-1,ES:LA SEXTA
+http://54.37.255.204:9977/live/696/iptv/28837.ts
+#EXTINF:-1,ES:LA SEXTA  FHD
+http://54.37.255.204:9977/live/696/iptv/28836.ts
+#EXTINF:-1,ES:CLAN
+http://54.37.255.204:9977/live/696/iptv/28765.ts
+#EXTINF:-1,ES:CLAN HD
+http://54.37.255.204:9977/live/696/iptv/28638.ts
+#EXTINF:-1,ES:24 HORAS
+http://54.37.255.204:9977/live/696/iptv/28739.ts
+#EXTINF:-1,ES:NEOX
+http://54.37.255.204:9977/live/696/iptv/28803.ts
+#EXTINF:-1,ES:TELEDEPORTE
+http://54.37.255.204:9977/live/696/iptv/28678.ts
+#EXTINF:-1,ES:TELEMADRID FHD
+http://54.37.255.204:9977/live/696/iptv/28715.ts
+#EXTINF:-1,ES:FOX
+http://54.37.255.204:9977/live/696/iptv/28826.ts
+#EXTINF:-1,ES:FOX HD
+http://54.37.255.204:9977/live/696/iptv/28825.ts
+#EXTINF:-1,ES:FOX FHD
+http://54.37.255.204:9977/live/696/iptv/28824.ts
+#EXTINF:-1,ES:FOX LIFE
+http://54.37.255.204:9977/live/696/iptv/28823.ts
+#EXTINF:-1,ES:FOX LIVE HD
+http://54.37.255.204:9977/live/696/iptv/28822.ts
+#EXTINF:-1,ES:FOX LIFE FHD
+http://54.37.255.204:9977/live/696/iptv/28821.ts
+#EXTINF:-1,ES:AXN
+http://54.37.255.204:9977/live/696/iptv/28835.ts
+#EXTINF:-1,ES:AXN HD
+http://54.37.255.204:9977/live/696/iptv/28834.ts
+#EXTINF:-1,ES:AXN  WHITE
+http://54.37.255.204:9977/live/696/iptv/28832.ts
+#EXTINF:-1,ES:AXN  WHITE FHD
+http://54.37.255.204:9977/live/696/iptv/28830.ts
+#EXTINF:-1,ES:AXN  WHITE HD
+http://54.37.255.204:9977/live/696/iptv/28831.ts
+#EXTINF:-1,ES:AXN FULL HD
+http://54.37.255.204:9977/live/696/iptv/28833.ts
+#EXTINF:-1,ES:TCM FHD
+http://54.37.255.204:9977/live/696/iptv/28807.ts
+#EXTINF:-1,ES:TNT FHD
+http://54.37.255.204:9977/live/696/iptv/28819.ts
+#EXTINF:-1,ES:CALLE 13 FHD
+http://54.37.255.204:9977/live/696/iptv/28815.ts
+#EXTINF:-1,ES: HOLLYWOOD FHD
+http://54.37.255.204:9977/live/696/iptv/28817.ts
+#EXTINF:-1,ES:A3SERIES
+http://54.37.255.204:9977/live/696/iptv/28804.ts
+#EXTINF:-1,ES:SYFY FHD
+http://54.37.255.204:9977/live/696/iptv/28813.ts
+#EXTINF:-1,ES:MOVISTAR 0# FHD
+http://54.37.255.204:9977/live/696/iptv/28791.ts
+#EXTINF:-1,ES:MOVISTAR 0# HD
+http://54.37.255.204:9977/live/696/iptv/28792.ts
+#EXTINF:-1,ES:MOVISTAR  ACCION
+http://54.37.255.204:9977/live/696/iptv/28787.ts
+#EXTINF:-1,ES:MOVISTAR ACCION FHD
+http://54.37.255.204:9977/live/696/iptv/28786.ts
+#EXTINF:-1,ES:MOVISTAR COMEDIA
+http://54.37.255.204:9977/live/696/iptv/28785.ts
+#EXTINF:-1,ES:MOVISTAR COMEDIA FHD
+http://54.37.255.204:9977/live/696/iptv/28784.ts
+#EXTINF:-1,ES:MOVISTAR DCINE  Ñ
+http://54.37.255.204:9977/live/696/iptv/28781.ts
+#EXTINF:-1,ES:MOVISTAR DCINE
+http://54.37.255.204:9977/live/696/iptv/28783.ts
+#EXTINF:-1,ES:MOVISTAR DCINE FHD
+http://54.37.255.204:9977/live/696/iptv/28782.ts
+#EXTINF:-1,ES:MOVISTAR ESTRENOS
+http://54.37.255.204:9977/live/696/iptv/28789.ts
+#EXTINF:-1,ES:MOVISTAR ESTRENOS FHD
+http://54.37.255.204:9977/live/696/iptv/28788.ts
+#EXTINF:-1,ES:MOVISTAR SERIES FHD
+http://54.37.255.204:9977/live/696/iptv/28777.ts
+#EXTINF:-1,ES:MOVISTAR SERIES XTRA FHD
+http://54.37.255.204:9977/live/696/iptv/28775.ts
+#EXTINF:-1,ES:MOVISTAR XTRA FHD
+http://54.37.255.204:9977/live/696/iptv/28779.ts
+#EXTINF:-1,ES:CAZA Y PESCA HD
+http://54.37.255.204:9977/live/696/iptv/28749.ts
+#EXTINF:-1,ES:NAT GEO  WILD
+http://54.37.255.204:9977/live/696/iptv/28757.ts
+#EXTINF:-1,ES:NAT GEO
+http://54.37.255.204:9977/live/696/iptv/28759.ts
+#EXTINF:-1,ES:NAT GEO FULLHD
+http://54.37.255.204:9977/live/696/iptv/28760.ts
+#EXTINF:-1,ES:NAT GEO WILD FHD
+http://54.37.255.204:9977/live/696/iptv/28758.ts
+#EXTINF:-1,ES:VIAJAR FULLHD
+http://54.37.255.204:9977/live/696/iptv/28751.ts
+#EXTINF:-1,ES:BARCA TV
+http://54.37.255.204:9977/live/696/iptv/28772.ts
+#EXTINF:-1,ES:REAL MADRID TV
+http://54.37.255.204:9977/live/696/iptv/28679.ts
+#EXTINF:-1,ES:TELEDEPORTE FHD
+http://54.37.255.204:9977/live/696/iptv/28677.ts
+#EXTINF:-1,ES:LIGATV FULL HD
+http://54.37.255.204:9977/live/696/iptv/28694.ts
+#EXTINF:-1,ES:LAFTV BAR 1
+http://54.37.255.204:9977/live/696/iptv/28695.ts
+#EXTINF:-1,ES:Liga 123 SD
+http://54.37.255.204:9977/live/696/iptv/28693.ts
+#EXTINF:-1,ES:LIGATV SD
+http://54.37.255.204:9977/live/696/iptv/28639.ts
+#EXTINF:-1,ES:GOL TV
+http://54.37.255.204:9977/live/696/iptv/28692.ts
+#EXTINF:-1,ES:BEIN LALIGA FHD
+http://54.37.255.204:9977/live/696/iptv/28699.ts
+#EXTINF:-1,ES:BEIN SPORT ESPAÑA FHD
+http://54.37.255.204:9977/live/696/iptv/28696.ts
+#EXTINF:-1,ES:BEIN SPORT ESPAÑA HD
+http://54.37.255.204:9977/live/696/iptv/28697.ts
+#EXTINF:-1,ES:MOVISTAR FUTBOL HD
+http://54.37.255.204:9977/live/696/iptv/28702.ts
+#EXTINF:-1,ES:PARTIDAZOS HD
+http://54.37.255.204:9977/live/696/iptv/28711.ts
+#EXTINF:-1,ES:MOVISTAR DEPORTE 1 FHD
+http://54.37.255.204:9977/live/696/iptv/28708.ts
+#EXTINF:-1,ES:MOVISTAR DEPORTE 2 FHD
+http://54.37.255.204:9977/live/696/iptv/28705.ts
+#EXTINF:-1,ES:MOVISTAR  DEPORTE 2
+http://54.37.255.204:9977/live/696/iptv/28707.ts
+#EXTINF:-1,ES:MOVISTAR DEPORTE 2 HD
+http://54.37.255.204:9977/live/696/iptv/28706.ts
+#EXTINF:-1,ES:MOVISTAR  DEPORTE
+http://54.37.255.204:9977/live/696/iptv/28710.ts
+#EXTINF:-1,ES:MOVISTAR DEPORTE HD
+http://54.37.255.204:9977/live/696/iptv/28709.ts
+#EXTINF:-1,ES:MOVISTAR ESPORTS
+http://54.37.255.204:9977/live/696/iptv/28730.ts
+#EXTINF:-1,ES:MOVISTAR  F1
+http://54.37.255.204:9977/live/696/iptv/28691.ts
+#EXTINF:-1,ES:MOVISTAR F1 HD
+http://54.37.255.204:9977/live/696/iptv/28690.ts
+#EXTINF:-1,ES:MOVISTAR F1 FHD
+http://54.37.255.204:9977/live/696/iptv/28689.ts
+#EXTINF:-1,ES:MOVISTAR FUTBOLL FHD
+http://54.37.255.204:9977/live/696/iptv/28701.ts
+#EXTINF:-1,ES:MOVISTAR GOLF FHD
+http://54.37.255.204:9977/live/696/iptv/28684.ts
+#EXTINF:-1,ES:MOVISTAR  MOTO GP
+http://54.37.255.204:9977/live/696/iptv/28688.ts
+#EXTINF:-1,ES:MOVISTAR MOTO GP HD
+http://54.37.255.204:9977/live/696/iptv/28687.ts
+#EXTINF:-1,ES:MOVISTAR MOTO GP FHD
+http://54.37.255.204:9977/live/696/iptv/28686.ts
+#EXTINF:-1,ES:BEIN LALIGA 1 HD
+http://54.37.255.204:9977/live/696/iptv/28675.ts
+#EXTINF:-1,ES:BEIN LALIGA 1
+http://54.37.255.204:9977/live/696/iptv/28676.ts
+#EXTINF:-1,ES:BEIN LALIGA 2 HD
+http://54.37.255.204:9977/live/696/iptv/28673.ts
+#EXTINF:-1,ES:BEIN  LALIGA 2
+http://54.37.255.204:9977/live/696/iptv/28674.ts
+#EXTINF:-1,ES:BEIN LALIGA
+http://54.37.255.204:9977/live/696/iptv/28700.ts
+#EXTINF:-1,ES:BEIN LALIGA 6
+http://54.37.255.204:9977/live/696/iptv/28669.ts
+#EXTINF:-1,ES:BEIN LALIGA 7
+http://54.37.255.204:9977/live/696/iptv/28668.ts
+#EXTINF:-1,ES:BEIN LALIGA 8
+http://54.37.255.204:9977/live/696/iptv/28667.ts
+#EXTINF:-1,ES:BEIN MAX 1 HD
+http://54.37.255.204:9977/live/696/iptv/28666.ts
+#EXTINF:-1,ES:BEIN MAX 2 HD
+http://54.37.255.204:9977/live/696/iptv/28664.ts
+#EXTINF:-1,ES:Bein Sports MAX 1  España
+http://54.37.255.204:9977/live/696/iptv/28665.ts
+#EXTINF:-1,ES:Bein Sports MAX 2  España
+http://54.37.255.204:9977/live/696/iptv/28663.ts
+#EXTINF:-1,ES:Bein Sports MAX 3  España
+http://54.37.255.204:9977/live/696/iptv/28662.ts
+#EXTINF:-1,ES:Bein Sports MAX 4  España
+http://54.37.255.204:9977/live/696/iptv/28661.ts
+#EXTINF:-1,ES:Bein Sports MAX 5  España
+http://54.37.255.204:9977/live/696/iptv/28660.ts
+#EXTINF:-1,ES:Bein Sports MAX 6  España
+http://54.37.255.204:9977/live/696/iptv/28659.ts
+#EXTINF:-1,ES:Bein Sports MAX 7  España
+http://54.37.255.204:9977/live/696/iptv/28658.ts
+#EXTINF:-1,ES:Bein Sports MAX 8 ESPAÑA
+http://54.37.255.204:9977/live/696/iptv/28657.ts
+#EXTINF:-1,ES: BEIN  LALIGA 3
+http://54.37.255.204:9977/live/696/iptv/28672.ts
+#EXTINF:-1,ES: BEIN  LALIGA 4
+http://54.37.255.204:9977/live/696/iptv/28671.ts
+#EXTINF:-1,ES: BEIN LALIGA 5
+http://54.37.255.204:9977/live/696/iptv/28670.ts
+#EXTINF:-1,ES:Bein Sport ESPAÑA
+http://54.37.255.204:9977/live/696/iptv/28698.ts
+#EXTINF:-1,ES:MULTI DEPORTE  2
+http://54.37.255.204:9977/live/696/iptv/28655.ts
+#EXTINF:-1,ES:MULTI FUTBOL
+http://54.37.255.204:9977/live/696/iptv/28649.ts
+#EXTINF:-1,ES:MULTIDEPORTE
+http://54.37.255.204:9977/live/696/iptv/28704.ts
+#EXTINF:-1,ES:MULTIDEPORTE  1
+http://54.37.255.204:9977/live/696/iptv/28656.ts
+#EXTINF:-1,ES:MULTIDEPORTE  3
+http://54.37.255.204:9977/live/696/iptv/28654.ts
+#EXTINF:-1,ES:MULTIDEPORTE  4
+http://54.37.255.204:9977/live/696/iptv/28653.ts
+#EXTINF:-1,ES:MULTIDEPORTE  5
+http://54.37.255.204:9977/live/696/iptv/28652.ts
+#EXTINF:-1,ES:MULTIDEPORTE  6
+http://54.37.255.204:9977/live/696/iptv/28651.ts
+#EXTINF:-1,ES:MULTIDEPORTE  7
+http://54.37.255.204:9977/live/696/iptv/28650.ts
+#EXTINF:-1,ES:MULTIFUTBOL  1
+http://54.37.255.204:9977/live/696/iptv/28648.ts
+#EXTINF:-1,ES:MULTIFUTBOL  2
+http://54.37.255.204:9977/live/696/iptv/28647.ts
+#EXTINF:-1,ES:MULTIFUTBOL  3
+http://54.37.255.204:9977/live/696/iptv/28646.ts
+#EXTINF:-1,ES:MULTIFUTBOL  4
+http://54.37.255.204:9977/live/696/iptv/28645.ts
+#EXTINF:-1,ES:MULTIFUTBOL  5
+http://54.37.255.204:9977/live/696/iptv/28644.ts
+#EXTINF:-1,ES:MULTIFUTBOL  6
+http://54.37.255.204:9977/live/696/iptv/28643.ts
+#EXTINF:-1,ES:MULTIFUTBOL  7
+http://54.37.255.204:9977/live/696/iptv/28642.ts
+#EXTINF:-1,ES:MULTIFUTBOL  8
+http://54.37.255.204:9977/live/696/iptv/28641.ts
+#EXTINF:-1,ES:EUROSPORT 1 HD
+http://54.37.255.204:9977/live/696/iptv/28682.ts
+#EXTINF:-1,ES:Eurosport  2
+http://54.37.255.204:9977/live/696/iptv/28681.ts
+#EXTINF:-1,ES:EUROSPORT  ES
+http://54.37.255.204:9977/live/696/iptv/28683.ts
+#EXTINF:-1,ES: BOING
+http://54.37.255.204:9977/live/696/iptv/28770.ts
+#EXTINF:-1,ES:NICK JR
+http://54.37.255.204:9977/live/696/iptv/28761.ts
+#EXTINF:-1,ES:NICKELODEON
+http://54.37.255.204:9977/live/696/iptv/28762.ts
+#EXTINF:-1,ES:NICKELODEON HD
+http://54.37.255.204:9977/live/696/iptv/28763.ts
+#EXTINF:-1,ES:DISNEY  JUNIOR
+http://54.37.255.204:9977/live/696/iptv/28768.ts
+#EXTINF:-1,ES:DISNEY  XD
+http://54.37.255.204:9977/live/696/iptv/28769.ts
+#EXTINF:-1,ES:DISNEY CHANNEL
+http://54.37.255.204:9977/live/696/iptv/28766.ts
+#EXTINF:-1,ES:DISNEY CHANNEL HD
+http://54.37.255.204:9977/live/696/iptv/28767.ts
+#EXTINF:-1,ES:BABY  TV
+http://54.37.255.204:9977/live/696/iptv/28764.ts
+#EXTINF:-1,ES:PANDA
+http://54.37.255.204:9977/live/696/iptv/28771.ts
+#EXTINF:-1,ES: NOVA
+http://54.37.255.204:9977/live/696/iptv/28802.ts
+#EXTINF:-1,ES:13 TV
+http://54.37.255.204:9977/live/696/iptv/28724.ts
+#EXTINF:-1,ES:24H
+http://54.37.255.204:9977/live/696/iptv/28723.ts
+#EXTINF:-1,ES:3/24
+http://54.37.255.204:9977/live/696/iptv/28729.ts
+#EXTINF:-1,ES:7RM
+http://54.37.255.204:9977/live/696/iptv/28722.ts
+#EXTINF:-1,ES:8Tv
+http://54.37.255.204:9977/live/696/iptv/28738.ts
+#EXTINF:-1,ES:A&E
+http://54.37.255.204:9977/live/696/iptv/28754.ts
+#EXTINF:-1,ES:AMC
+http://54.37.255.204:9977/live/696/iptv/28829.ts
+#EXTINF:-1,ES:AMC FHD
+http://54.37.255.204:9977/live/696/iptv/28827.ts
+#EXTINF:-1,ES:AMC HD
+http://54.37.255.204:9977/live/696/iptv/28828.ts
+#EXTINF:-1,ES:ANDALUCIA TV
+http://54.37.255.204:9977/live/696/iptv/28737.ts
+#EXTINF:-1,ES:ARAGON TV
+http://54.37.255.204:9977/live/696/iptv/28736.ts
+#EXTINF:-1,ES:BE MAD FHD
+http://54.37.255.204:9977/live/696/iptv/28742.ts
+#EXTINF:-1,ES:BLAZE
+http://54.37.255.204:9977/live/696/iptv/28725.ts
+#EXTINF:-1,ES:CALLE 13
+http://54.37.255.204:9977/live/696/iptv/28816.ts
+#EXTINF:-1,ES:CANAL ORBE21
+http://54.37.255.204:9977/live/696/iptv/28726.ts
+#EXTINF:-1,ES:CANAL SUR FHD
+http://54.37.255.204:9977/live/696/iptv/28721.ts
+#EXTINF:-1,ES:CAZA  Y PESCA
+http://54.37.255.204:9977/live/696/iptv/28750.ts
+#EXTINF:-1,ES:CI
+http://54.37.255.204:9977/live/696/iptv/28753.ts
+#EXTINF:-1,ES:CMM HD
+http://54.37.255.204:9977/live/696/iptv/28720.ts
+#EXTINF:-1,ES:COCINA
+http://54.37.255.204:9977/live/696/iptv/28746.ts
+#EXTINF:-1,ES:COMEDY  CENTRAL
+http://54.37.255.204:9977/live/696/iptv/28810.ts
+#EXTINF:-1,ES:COMEDY CENTRAL HD
+http://54.37.255.204:9977/live/696/iptv/28809.ts
+#EXTINF:-1,ES:COSMOPOLITAN  FHD
+http://54.37.255.204:9977/live/696/iptv/28811.ts
+#EXTINF:-1,ES:COSMOS
+http://54.37.255.204:9977/live/696/iptv/28812.ts
+#EXTINF:-1,ES:DARK
+http://54.37.255.204:9977/live/696/iptv/28797.ts
+#EXTINF:-1,ES:DECASA
+http://54.37.255.204:9977/live/696/iptv/28745.ts
+#EXTINF:-1,ES:DISCOVERY  CHANNEL
+http://54.37.255.204:9977/live/696/iptv/28748.ts
+#EXTINF:-1,ES:DIVINITY
+http://54.37.255.204:9977/live/696/iptv/28805.ts
+#EXTINF:-1,ES:DKISS
+http://54.37.255.204:9977/live/696/iptv/28735.ts
+#EXTINF:-1,ES:DMAX
+http://54.37.255.204:9977/live/696/iptv/28741.ts
+#EXTINF:-1,ES:ENERGY
+http://54.37.255.204:9977/live/696/iptv/28799.ts
+#EXTINF:-1,ES:ESPORT 3
+http://54.37.255.204:9977/live/696/iptv/28637.ts
+#EXTINF:-1,ES:ESPORTS
+http://54.37.255.204:9977/live/696/iptv/28640.ts
+#EXTINF:-1,ES:ETB 1
+http://54.37.255.204:9977/live/696/iptv/28719.ts
+#EXTINF:-1,ES:EXTREMADURA TV
+http://54.37.255.204:9977/live/696/iptv/28718.ts
+#EXTINF:-1,ES:Extreme EMEA
+http://54.37.255.204:9977/live/696/iptv/28636.ts
+#EXTINF:-1,ES:FDF
+http://54.37.255.204:9977/live/696/iptv/28800.ts
+#EXTINF:-1,ES:HISTORIA
+http://54.37.255.204:9977/live/696/iptv/28756.ts
+#EXTINF:-1,ES:HISTORIA HD
+http://54.37.255.204:9977/live/696/iptv/28755.ts
+#EXTINF:-1,ES:HIT TV
+http://54.37.255.204:9977/live/696/iptv/28743.ts
+#EXTINF:-1,ES:HOLLYWOOD
+http://54.37.255.204:9977/live/696/iptv/28818.ts
+#EXTINF:-1,ES:Iberalia
+http://54.37.255.204:9977/live/696/iptv/28680.ts
+#EXTINF:-1,ES:INTERECONOMIA
+http://54.37.255.204:9977/live/696/iptv/28717.ts
+#EXTINF:-1,ES:LA OTRA
+http://54.37.255.204:9977/live/696/iptv/28716.ts
+#EXTINF:-1,ES:MEGA
+http://54.37.255.204:9977/live/696/iptv/28798.ts
+#EXTINF:-1,ES:MEZZO LIVE
+http://54.37.255.204:9977/live/696/iptv/28732.ts
+#EXTINF:-1,ES:MEZZO LIVE FULL HD
+http://54.37.255.204:9977/live/696/iptv/28731.ts
+#EXTINF:-1,ES:MOVISTAR  0#
+http://54.37.255.204:9977/live/696/iptv/28793.ts
+#EXTINF:-1,ES:MOVISTAR  DISNEY
+http://54.37.255.204:9977/live/696/iptv/28790.ts
+#EXTINF:-1,ES:MOVISTAR  FUTBOL
+http://54.37.255.204:9977/live/696/iptv/28703.ts
+#EXTINF:-1,ES:MOVISTAR  TOROS TV
+http://54.37.255.204:9977/live/696/iptv/28774.ts
+#EXTINF:-1,ES:MOVISTAR FAMA
+http://54.37.255.204:9977/live/696/iptv/28794.ts
+#EXTINF:-1,ES:MOVISTAR GOLF
+http://54.37.255.204:9977/live/696/iptv/28685.ts
+#EXTINF:-1,ES:MOVISTAR SERIES
+http://54.37.255.204:9977/live/696/iptv/28778.ts
+#EXTINF:-1,ES:MOVISTAR SERIES XTRA
+http://54.37.255.204:9977/live/696/iptv/28776.ts
+#EXTINF:-1,ES:MOVISTAR TOROS HD
+http://54.37.255.204:9977/live/696/iptv/28773.ts
+#EXTINF:-1,ES:MOVISTAR XTRA
+http://54.37.255.204:9977/live/696/iptv/28780.ts
+#EXTINF:-1,ES:MTV
+http://54.37.255.204:9977/live/696/iptv/28744.ts
+#EXTINF:-1,ES:ODISEA
+http://54.37.255.204:9977/live/696/iptv/28747.ts
+#EXTINF:-1,ES:PARAMOUNT CHANNEL
+http://54.37.255.204:9977/live/696/iptv/28808.ts
+#EXTINF:-1,ES:Partidazo 720p
+http://54.37.255.204:9977/live/696/iptv/28712.ts
+#EXTINF:-1,ES:PARTIDAZOS
+http://54.37.255.204:9977/live/696/iptv/28713.ts
+#EXTINF:-1,ES:SOL Music
+http://54.37.255.204:9977/live/696/iptv/28734.ts
+#EXTINF:-1,ES:SOMOS
+http://54.37.255.204:9977/live/696/iptv/28795.ts
+#EXTINF:-1,ES:SUNDANCE
+http://54.37.255.204:9977/live/696/iptv/28733.ts
+#EXTINF:-1,ES:Super 3
+http://54.37.255.204:9977/live/696/iptv/28728.ts
+#EXTINF:-1,ES:SYFY
+http://54.37.255.204:9977/live/696/iptv/28814.ts
+#EXTINF:-1,ES:TCM
+http://54.37.255.204:9977/live/696/iptv/28806.ts
+#EXTINF:-1,ES:TEN
+http://54.37.255.204:9977/live/696/iptv/28740.ts
+#EXTINF:-1,ES:TNT
+http://54.37.255.204:9977/live/696/iptv/28820.ts
+#EXTINF:-1,ES:TV 13
+http://54.37.255.204:9977/live/696/iptv/28801.ts
+#EXTINF:-1,ES:TV 3
+http://54.37.255.204:9977/live/696/iptv/28727.ts
+#EXTINF:-1,ES:Viajar
+http://54.37.255.204:9977/live/696/iptv/28752.ts
+#EXTINF:-1,ES:XTRM
+http://54.37.255.204:9977/live/696/iptv/28796.ts
