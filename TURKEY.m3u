@@ -2,7 +2,7 @@
 
 
 
-#EXTINF:-1 tvg-logo="https://openclipart.org/image/300px/svg_to_png/157219/tr.png" group-title="LABEL",======TURKEY  coming soon=======
+#EXTINF:-1 tvg-logo="https://openclipart.org/image/300px/svg_to_png/157219/tr.png" group-title="LABEL",======TURKEY =======
 http://www.lengua.com/anthems/Turkey.mp3
 
 
@@ -194,4 +194,256 @@ httphost://$http-raw=http://163.172.89.151:1234/live/1/2/293.m3u8$http-refferer=
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/294.m3u8$http-refferer=http://localhost
 #EXTINF:-1,YABAN TV
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/295.m3u8$http-refferer=http://localhost
+#EXTM3U
+#EXTINF:-1,|TR| 24 CANLI YAYIN
+http://world-ipsat.com:1155/live/sultan/sultan2018/5290.ts
+#EXTINF:-1,|TR| A2 HD
+http://world-ipsat.com:1155/live/sultan/sultan2018/5289.ts
+#EXTINF:-1,|TR| BEYAZ TV
+http://world-ipsat.com:1155/live/sultan/sultan2018/5286.ts
+#EXTINF:-1,|TR| Kanal D
+http://world-ipsat.com:1155/live/sultan/sultan2018/5288.ts
+#EXTINF:-1,|TR| Kanal D alt.
+http://world-ipsat.com:1155/live/sultan/sultan2018/5287.ts
+#EXTINF:-1,|TR| RT 1 HD
+http://world-ipsat.com:1155/live/sultan/sultan2018/5278.ts
+#EXTINF:-1,|TR| STAR TV HD
+http://world-ipsat.com:1155/live/sultan/sultan2018/5291.ts
+#EXTINF:-1,|TR| TGRT HABER
+http://world-ipsat.com:1155/live/sultan/sultan2018/5279.ts
+#EXTINF:-1,|TR| TRT ARAPCA
+http://world-ipsat.com:1155/live/sultan/sultan2018/5277.ts
+#EXTINF:-1,|TR| TRT AVAZ
+http://world-ipsat.com:1155/live/sultan/sultan2018/5276.ts
+#EXTINF:-1,|TR| TRT HABER
+http://world-ipsat.com:1155/live/sultan/sultan2018/5274.ts
+#EXTINF:-1,|TR| TRT TURK
+http://world-ipsat.com:1155/live/sultan/sultan2018/5269.ts
+#EXTINF:-1,|TR| TRT WORLD
+http://world-ipsat.com:1155/live/sultan/sultan2018/5268.ts
+#EXTINF:-1,|TR| ULKE TV HD
+http://world-ipsat.com:1155/live/sultan/sultan2018/5285.ts
+#EXTINF:-1,|TR|CNN TURK
+http://world-ipsat.com:1155/live/sultan/sultan2018/5284.ts
+#EXTINF:-1,|TR|DOST TV
+http://world-ipsat.com:1155/live/sultan/sultan2018/5283.ts
+#EXTINF:-1,|TR|LALEGUL TV
+http://world-ipsat.com:1155/live/sultan/sultan2018/5282.ts
+#EXTINF:-1,|TR|TGRT AVRUPA
+http://world-ipsat.com:1155/live/sultan/sultan2018/5280.ts
+#EXTINF:-1,|TR|TGRT BELGESEL
+http://world-ipsat.com:1155/live/sultan/sultan2018/5281.ts
+#EXTINF:-1,|TR|TRT DIYANET
+http://world-ipsat.com:1155/live/sultan/sultan2018/5275.ts
+#EXTINF:-1,|TR|TRT KURDI
+http://world-ipsat.com:1155/live/sultan/sultan2018/5273.ts
+#EXTINF:-1,|TR|TRT MUZIK
+http://world-ipsat.com:1155/live/sultan/sultan2018/5272.ts
+#EXTINF:-1,|TR|TRT OKUL
+http://world-ipsat.com:1155/live/sultan/sultan2018/5271.ts
+#EXTINF:-1,|TR|TRT SPOR
+http://world-ipsat.com:1155/live/sultan/sultan2018/5270.ts
+#EXTINF:-1,TR TV8
+http://world-ipsat.com:1155/live/sultan/sultan2018/1477.ts
+#EXTINF:-1,TR TGRT
+http://world-ipsat.com:1155/live/sultan/sultan2018/1480.ts
+#EXTINF:-1,TR:Kanal__7
+http://world-ipsat.com:1155/live/sultan/sultan2018/1479.ts
+#EXTINF:-1,TR:Show TV
+http://world-ipsat.com:1155/live/sultan/sultan2018/1478.ts
+#EXTINF:-1,TR FB TV
+http://world-ipsat.com:1155/live/sultan/sultan2018/1476.ts
+#EXTINF:-1,TR:360
+http://world-ipsat.com:1155/live/sultan/sultan2018/1475.ts
+#EXTINF:-1,TR:ATV-HD
+http://world-ipsat.com:1155/live/sultan/sultan2018/1022.ts
+#EXTINF:-1,TR:FOX-HD
+http://world-ipsat.com:1155/live/sultan/sultan2018/1026.ts
+#EXTINF:-1,TR:KANAL-D-HD
+http://world-ipsat.com:1155/live/sultan/sultan2018/1025.ts
+#EXTINF:-1,TR: SHOW-TV-HD
+http://world-ipsat.com:1155/live/sultan/sultan2018/1024.ts
+#EXTINF:-1,TR:STAR-TV-HD
+http://world-ipsat.com:1155/live/sultan/sultan2018/1023.ts
+#EXTINF:-1,TR:TRT-1HD
+http://world-ipsat.com:1155/live/sultan/sultan2018/1021.ts
+#EXTINF:-1,TR:TRT-HABER-HD
+http://world-ipsat.com:1155/live/sultan/sultan2018/1027.ts
+#EXTINF:-1,TR:CNN-HD
+http://world-ipsat.com:1155/live/sultan/sultan2018/2146.ts
+#EXTINF:-1,TR:HABER-TURK
+http://world-ipsat.com:1155/live/sultan/sultan2018/2145.ts
+#EXTINF:-1,TR:DREAM-TÜRK
+http://world-ipsat.com:1155/live/sultan/sultan2018/2144.ts
+#EXTINF:-1,TR Beyaz TV
+http://world-ipsat.com:1155/live/sultan/sultan2018/2334.ts
+#EXTINF:-1,|TR| DIZI TV
+http://world-ipsat.com:1155/live/sultan/sultan2018/2345.ts
+#EXTINF:-1,[TR]:  TV 8.5 HD
+http://world-ipsat.com:1155/live/sultan/sultan2018/1667.ts
+#EXTINF:-1,TR  Fil TV
+http://world-ipsat.com:1155/live/sultan/sultan2018/2344.ts
+#EXTINF:-1,TR:_Flash_TV
+http://world-ipsat.com:1155/live/sultan/sultan2018/2339.ts
+#EXTINF:-1,TR:_FX
+http://world-ipsat.com:1155/live/sultan/sultan2018/2343.ts
+#EXTINF:-1,TR:_Halk TV
+http://world-ipsat.com:1155/live/sultan/sultan2018/2338.ts
+#EXTINF:-1,TR BEiN iZ HD
+http://world-ipsat.com:1155/live/sultan/sultan2018/2337.ts
+#EXTINF:-1,TR:_NR1_Turk
+http://world-ipsat.com:1155/live/sultan/sultan2018/2336.ts
+#EXTINF:-1,TR:_TRT_WORLD
+http://world-ipsat.com:1155/live/sultan/sultan2018/2333.ts
+#EXTINF:-1,TR   Beyaz Tv HD
+http://world-ipsat.com:1155/live/sultan/sultan2018/1527.ts
+#EXTINF:-1,TR:_KRAL_POP
+http://world-ipsat.com:1155/live/sultan/sultan2018/2335.ts
+#EXTINF:-1,|TR|++++ENFANTS++++|TR|
+http://world-ipsat.com:1155/live/sultan/sultan2018/1729.ts
+#EXTINF:-1,|TR| TRT COCUK HD
+http://world-ipsat.com:1155/live/sultan/sultan2018/5267.ts
+#EXTINF:-1,TR: TRT Cocuk
+http://world-ipsat.com:1155/live/sultan/sultan2018/5255.ts
+#EXTINF:-1,TR  Cartoon Network
+http://world-ipsat.com:1155/live/sultan/sultan2018/1528.ts
+#EXTINF:-1,TR:_Minika GO
+http://world-ipsat.com:1155/live/sultan/sultan2018/2340.ts
+#EXTINF:-1,TR:_Cartoon_Network
+http://world-ipsat.com:1155/live/sultan/sultan2018/2342.ts
+#EXTINF:-1,TR:_Minika_Cocuk
+http://world-ipsat.com:1155/live/sultan/sultan2018/2341.ts
+#EXTINF:-1,|TR|+++CULTURE+++|TR|
+http://world-ipsat.com:1155/live/sultan/sultan2018/1417.ts
+#EXTINF:-1,TR:NAT-GEO-PEOPLE-HD
+http://world-ipsat.com:1155/live/sultan/sultan2018/1586.ts
+#EXTINF:-1,TR DISCOVERY
+http://world-ipsat.com:1155/live/sultan/sultan2018/2348.ts
+#EXTINF:-1,TR:_DISCOVERY_SCIENCE
+http://world-ipsat.com:1155/live/sultan/sultan2018/2347.ts
+#EXTINF:-1,TR:DISCOVERY-CHANEL-HD
+http://world-ipsat.com:1155/live/sultan/sultan2018/1465.ts
+#EXTINF:-1,TR:_NATIONAL__GEOGRAPHIC_PEOPLE
+http://world-ipsat.com:1155/live/sultan/sultan2018/2350.ts
+#EXTINF:-1,|TR| NATIONAL GEOGRAPHIC WILD
+http://world-ipsat.com:1155/live/sultan/sultan2018/2351.ts
+#EXTINF:-1,|TR| National Geographie HD
+http://world-ipsat.com:1155/live/sultan/sultan2018/2352.ts
+#EXTINF:-1,TR:_HISTORY HD
+http://world-ipsat.com:1155/live/sultan/sultan2018/2349.ts
+#EXTINF:-1,TR:_ANIMAL_PLANET
+http://world-ipsat.com:1155/live/sultan/sultan2018/2346.ts
+#EXTINF:-1,|TR|++++CINEMA++++|TR|
+http://world-ipsat.com:1155/live/sultan/sultan2018/1028.ts
+#EXTINF:-1,TR: LOCA 1
+http://world-ipsat.com:1155/live/sultan/sultan2018/5220.ts
+#EXTINF:-1,TR: LOCA 2
+http://world-ipsat.com:1155/live/sultan/sultan2018/5219.ts
+#EXTINF:-1,TR: LOCA 3
+http://world-ipsat.com:1155/live/sultan/sultan2018/5218.ts
+#EXTINF:-1,[TR]:  Loca 1 HD
+http://world-ipsat.com:1155/live/sultan/sultan2018/2147.ts
+#EXTINF:-1,|TR|MOVIESINEMA_VIZYON_HD
+http://world-ipsat.com:1155/live/sultan/sultan2018/5217.ts
+#EXTINF:-1,|TR|MOVIESINEMA_YESILCAM_HD
+http://world-ipsat.com:1155/live/sultan/sultan2018/5216.ts
+#EXTINF:-1,TR: MOVIESMART ACTION HD
+http://world-ipsat.com:1155/live/sultan/sultan2018/5226.ts
+#EXTINF:-1,TR: MOVIESMART GOLD HD
+http://world-ipsat.com:1155/live/sultan/sultan2018/5225.ts
+#EXTINF:-1,TR: MOVIESMART PLATIN 2 HD
+http://world-ipsat.com:1155/live/sultan/sultan2018/5223.ts
+#EXTINF:-1,TR: MOVIESMART PLATIN HD
+http://world-ipsat.com:1155/live/sultan/sultan2018/5224.ts
+#EXTINF:-1,TR: MOVIESMART PREMIUM 2 HD
+http://world-ipsat.com:1155/live/sultan/sultan2018/5222.ts
+#EXTINF:-1,TR: MOVIESMART PREMIUM HD
+http://world-ipsat.com:1155/live/sultan/sultan2018/5221.ts
+#EXTINF:-1,TR:MOVIE_SMART_PREMIUM_HD
+http://world-ipsat.com:1155/live/sultan/sultan2018/2303.ts
+#EXTINF:-1,[TR]: Moviesmart Premium HD
+http://world-ipsat.com:1155/live/sultan/sultan2018/2298.ts
+#EXTINF:-1,TR:MOVIE_SMART_PREMIUM_2HD
+http://world-ipsat.com:1155/live/sultan/sultan2018/2309.ts
+#EXTINF:-1,TR: TURKMAX GURME
+http://world-ipsat.com:1155/live/sultan/sultan2018/1666.ts
+#EXTINF:-1,TR Beln Movıes Famıly HD
+http://world-ipsat.com:1155/live/sultan/sultan2018/2299.ts
+#EXTINF:-1,TR Bein Movies premier
+http://world-ipsat.com:1155/live/sultan/sultan2018/2300.ts
+#EXTINF:-1,TR FOX LIFE HD
+http://world-ipsat.com:1155/live/sultan/sultan2018/2301.ts
+#EXTINF:-1,TR FOX CRIME HD
+http://world-ipsat.com:1155/live/sultan/sultan2018/2302.ts
+#EXTINF:-1,TR: Axn Spin HD
+http://world-ipsat.com:1155/live/sultan/sultan2018/1665.ts
+#EXTINF:-1,TR Sinema TV 1 HD
+http://world-ipsat.com:1155/live/sultan/sultan2018/2304.ts
+#EXTINF:-1,TR  SiNEMAX COMEDY HD
+http://world-ipsat.com:1155/live/sultan/sultan2018/2305.ts
+#EXTINF:-1,Sinetivi karnaval 2 HD
+http://world-ipsat.com:1155/live/sultan/sultan2018/2308.ts
+#EXTINF:-1,TR BEIN BOX OFFICE 1HD
+http://world-ipsat.com:1155/live/sultan/sultan2018/2307.ts
+#EXTINF:-1,TR BEIN BOX OFFICE 2HD
+http://world-ipsat.com:1155/live/sultan/sultan2018/2306.ts
+#EXTINF:-1,TR:MOVIESMART_GOLD_HD
+http://world-ipsat.com:1155/live/sultan/sultan2018/2310.ts
+#EXTINF:-1,TR:Bein Movies Stars
+http://world-ipsat.com:1155/live/sultan/sultan2018/2311.ts
+#EXTINF:-1,TR:BEIN_IZ_TV_HD
+http://world-ipsat.com:1155/live/sultan/sultan2018/2315.ts
+#EXTINF:-1,[TR] VIASAT HISTORY HD
+http://world-ipsat.com:1155/live/sultan/sultan2018/2322.ts
+#EXTINF:-1,[TR]: Hallmark Channel HD
+http://world-ipsat.com:1155/live/sultan/sultan2018/2153.ts
+#EXTINF:-1,TR:Bein Movies Festival
+http://world-ipsat.com:1155/live/sultan/sultan2018/2323.ts
+#EXTINF:-1,TR DISCOVERY SHOWCASE HD
+http://world-ipsat.com:1155/live/sultan/sultan2018/2321.ts
+#EXTINF:-1,TR Bein Movies Family
+http://world-ipsat.com:1155/live/sultan/sultan2018/2320.ts
+#EXTINF:-1,[TR]: Sinetivi karnaval HD
+http://world-ipsat.com:1155/live/sultan/sultan2018/2316.ts
+#EXTINF:-1,TR Fox Tv HD
+http://world-ipsat.com:1155/live/sultan/sultan2018/1529.ts
+#EXTINF:-1,[TR]: SINEMA TV 1001 HD
+http://world-ipsat.com:1155/live/sultan/sultan2018/2158.ts
+#EXTINF:-1,|TR|*****SPORT*****|TR|
+http://world-ipsat.com:1155/live/sultan/sultan2018/532.ts
+#EXTINF:-1,|TR| S SPORT
+http://world-ipsat.com:1155/live/sultan/sultan2018/5508.ts
+#EXTINF:-1,TR: BeIN Sports 1 HD.H265
+http://world-ipsat.com:1155/live/sultan/sultan2018/5256.ts
+#EXTINF:-1,TR:bein-liga-1hd
+http://world-ipsat.com:1155/live/sultan/sultan2018/533.ts
+#EXTINF:-1,TR: Bein Sport 2 HD
+http://world-ipsat.com:1155/live/sultan/sultan2018/5266.ts
+#EXTINF:-1,TR: BeIN Sports 2 HD
+http://world-ipsat.com:1155/live/sultan/sultan2018/534.ts
+#EXTINF:-1,TR: Bein Sport 3 HD
+http://world-ipsat.com:1155/live/sultan/sultan2018/5265.ts
+#EXTINF:-1,TR BeIN Sports 3 HD
+http://world-ipsat.com:1155/live/sultan/sultan2018/535.ts
+#EXTINF:-1,|TR| TIVIBU_SPOR_1HD
+http://world-ipsat.com:1155/live/sultan/sultan2018/5229.ts
+#EXTINF:-1,|TR| TIVIBU_SPOR_2HD
+http://world-ipsat.com:1155/live/sultan/sultan2018/5228.ts
+#EXTINF:-1,|TR|TIVIBU_SPOR_3HD
+http://world-ipsat.com:1155/live/sultan/sultan2018/5227.ts
+#EXTINF:-1,|TR| SMART SPORT 1 HD
+http://world-ipsat.com:1155/live/sultan/sultan2018/2368.ts
+#EXTINF:-1,[TR] BURSA SPOR
+http://world-ipsat.com:1155/live/sultan/sultan2018/2151.ts
+#EXTINF:-1,TR NTV SPORT
+http://world-ipsat.com:1155/live/sultan/sultan2018/536.ts
+#EXTINF:-1,TR TRT SPORT HD
+http://world-ipsat.com:1155/live/sultan/sultan2018/537.ts
+#EXTINF:-1,TR:TURK-BURSASPORT
+http://world-ipsat.com:1155/live/sultan/sultan2018/161.ts
+#EXTINF:-1,TR:TURK-SPORTS
+http://world-ipsat.com:1155/live/sultan/sultan2018/163.ts
+#EXTINF:-1,TR:TURK-SPORTSTV
+http://world-ipsat.com:1155/live/sultan/sultan2018/162.ts
+
 
