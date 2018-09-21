@@ -4,28 +4,28 @@ http://ustreams.info/vod2/syria/youmiat-mo5tar/
 #EXTINF:-1,===عوالم خفية===
 http://ustreams.info/vod/msr
 #EXTINF:-1,الحلقة 1
-http://s2.ustreams.info/vod/3walm-5fya/01.mp4
+http://flv2.alarab.com:8080/new/iphone/120496.mp4
 #EXTVLCOPT:http-user-agent=stagefright/1.2 (Linux;Android 4.4.2)
 #EXTINF:-1,الحلقة 2
-http://s2.ustreams.info/vod/3walm-5fya/02.mp4
+http://flv2.alarab.com:8080/new/hd/120586.mp4
 #EXTVLCOPT:http-user-agent=stagefright/1.2 (Linux;Android 4.4.2)
 #EXTINF:-1,الحلقة 3
-http://s2.ustreams.info/vod/3walm-5fya/03.mp4
+http://88.202.231.147:8080/new147/iphone/120656.mp4
 #EXTVLCOPT:http-user-agent=stagefright/1.2 (Linux;Android 4.4.2)
 #EXTINF:-1,الحلقة 4
-http://s2.ustreams.info/vod/3walm-5fya/04.mp4
+http://flv2.alarab.com:8080/new/hd/120789.mp4
 #EXTVLCOPT:http-user-agent=stagefright/1.2 (Linux;Android 4.4.2)
 #EXTINF:-1,الحلقة 5
-http://s2.ustreams.info/vod/3walm-5fya/05.mp4
+http://flv2.alarab.com:8080/new/iphone/120874.mp4
 #EXTVLCOPT:http-user-agent=stagefright/1.2 (Linux;Android 4.4.2)
 #EXTINF:-1,الحلقة 6
-http://s2.ustreams.info/vod/3walm-5fya/06.mp4
+http://flv2.alarab.com:8080/new/iphone/120960.mp4
 #EXTINF:-1,الحلقة 7
-http://s2.ustreams.info/vod/3walm-5fya/07.mp4
+http://flv2.alarab.com:8080/new/iphone/121032.mp4
 #EXTINF:-1,الحلقة 8
-http://s2.ustreams.info/vod/3walm-5fya/08.mp4
+http://flv2.alarab.com:8080/new/iphone/121123.mp4
 #EXTINF:-1,الحلقة 9
-http://s2.ustreams.info/vod/3walm-5fya/09.mp4
+http://myvideo5.ddns.me:8081/1vod5n/3awalem-9.mp4
 #EXTINF:-1,الحلقة 10
 http://s2.ustreams.info/vod/3walm-5fya/10.mp4
 #EXTINF:-1,الحلقة 11
@@ -226,73 +226,67 @@ http://s2.ustreams.info/vod/msr7-msr/31.mp4
 
 #EXTINF:-1,===نسر الصعيد===
 http://ustreams.info/vod/msr
-#EXTINF:-1,الحلقة 1
-http://s2.ustreams.info/vod/nisr-els3ed/01.mp4
-#EXTVLCOPT:http-user-agent=stagefright/1.2 (Linux;Android 4.4.2)
-#EXTINF:-1,الحلقة 2
-http://s2.ustreams.info/vod/nisr-els3ed/02.mp4
-#EXTVLCOPT:http-user-agent=stagefright/1.2 (Linux;Android 4.4.2)
-#EXTINF:-1,الحلقة 3
-http://s2.ustreams.info/vod/nisr-els3ed/03.mp4
-#EXTVLCOPT:http-user-agent=stagefright/1.2 (Linux;Android 4.4.2)
-#EXTINF:-1,الحلقة 4
-http://s2.ustreams.info/vod/nisr-els3ed/04.mp4
-#EXTVLCOPT:http-user-agent=stagefright/1.2 (Linux;Android 4.4.2)
-#EXTINF:-1,الحلقة 5
-http://s2.ustreams.info/vod/nisr-els3ed/05.mp4
-#EXTVLCOPT:http-user-agent=stagefright/1.2 (Linux;Android 4.4.2)
-#EXTINF:-1,الحلقة 6
-http://s2.ustreams.info/vod/nisr-els3ed/06.mp4
-#EXTINF:-1,الحلقة 7
-http://s2.ustreams.info/vod/nisr-els3ed/07.mp4
-#EXTINF:-1,الحلقة 8
-http://s2.ustreams.info/vod/nisr-els3ed/08.mp4
-#EXTINF:-1,الحلقة 9
-http://s2.ustreams.info/vod/nisr-els3ed/09.mp4
-#EXTINF:-1,الحلقة 10
-http://s2.ustreams.info/vod/nisr-els3ed/10.mp4
-#EXTINF:-1,الحلقة 11
-http://s2.ustreams.info/vod/nisr-els3ed/11.mp4
-#EXTINF:-1,الحلقة 12
-http://s2.ustreams.info/vod/nisr-els3ed/12.mp4
-#EXTINF:-1,الحلقة 13
-http://s2.ustreams.info/vod/nisr-els3ed/13.mp4
-#EXTINF:-1,الحلقة 14
-http://s2.ustreams.info/vod/nisr-els3ed/14.mp4
-#EXTINF:-1,الحلقة 15
-http://s2.ustreams.info/vod/nisr-els3ed/15.mp4
-#EXTINF:-1,الحلقة 16
-http://s2.ustreams.info/vod/nisr-els3ed/16.mp4
-#EXTINF:-1,الحلقة 17
-http://s2.ustreams.info/vod/nisr-els3ed/17.mp4
-#EXTINF:-1,الحلقة 18
-http://s2.ustreams.info/vod/nisr-els3ed/18.mp4
-#EXTINF:-1,الحلقة 19
-http://s2.ustreams.info/vod/nisr-els3ed/19.mp4
-#EXTINF:-1,الحلقة 20
-http://s2.ustreams.info/vod/nisr-els3ed/20.mp4
-#EXTINF:-1,الحلقة 21
-http://s2.ustreams.info/vod/nisr-els3ed/21.mp4
-#EXTINF:-1,الحلقة 22
-http://s2.ustreams.info/vod/nisr-els3ed/22.mp4
-#EXTINF:-1,الحلقة 23
-http://s2.ustreams.info/vod/nisr-els3ed/23.mp4
-#EXTINF:-1,الحلقة 24
-http://s2.ustreams.info/vod/nisr-els3ed/24.mp4
-#EXTINF:-1,الحلقة 25
-http://s2.ustreams.info/vod/nisr-els3ed/25.mp4
-#EXTINF:-1,الحلقة 26
-http://s2.ustreams.info/vod/nisr-els3ed/26.mp4
-#EXTINF:-1,الحلقة 27
-http://s2.ustreams.info/vod/nisr-els3ed/27.mp4
-#EXTINF:-1,الحلقة 28
-http://s2.ustreams.info/vod/nisr-els3ed/28.mp4
-#EXTINF:-1,الحلقة 29
-http://s2.ustreams.info/vod/nisr-els3ed/29.mp4
-#EXTINF:-1,الحلقة 30
-http://s2.ustreams.info/vod/nisr-els3ed/30.mp4
-#EXTINF:-1,الحلقة 31
-http://s2.ustreams.info/vod/nisr-els3ed/31.mp4
+#EXTM3U
+#EXTINF:-1,الحلقة_30
+http://88.202.231.147:8080/iphone/122986.mp4
+#EXTINF:-1,الحلقة_29
+http://88.202.231.147:8080/iphone/122879.mp4
+#EXTINF:-1,الحلقة_28
+http://88.202.231.147:8080/iphone/122801.mp4
+#EXTINF:-1,الحلقة_27
+http://88.202.231.147:8080/iphone/122733.mp4
+#EXTINF:-1,الحلقة_26
+http://88.202.231.147:8080/iphone/122643.mp4
+#EXTINF:-1,الحلقة_25
+http://88.202.231.147:8080/iphone/122568.mp4
+#EXTINF:-1,الحلقة_24
+http://88.202.231.147:8080/iphone/122496.mp4
+#EXTINF:-1,الحلقة_23
+http://88.202.231.147:8080/iphone/122398.mp4
+#EXTINF:-1,الحلقة_22
+http://88.202.231.147:8080/iphone/122337.mp4
+#EXTINF:-1,الحلقة_21
+http://88.202.231.147:8080/iphone/122239.mp4
+#EXTINF:-1,الحلقة_20
+http://flv2.alarab.com:8080/new/iphone/122160.mp4
+#EXTINF:-1,الحلقة_19
+http://88.202.231.147:8080/new147/iphone/122060.mp4
+#EXTINF:-1,الحلقة_18
+http://88.202.231.147:8080/new147/iphone/121975.mp4
+#EXTINF:-1,الحلقة_17
+http://flv2.alarab.com:8080/new/iphone/121910.mp4
+#EXTINF:-1,الحلقة_16
+http://videocenter.hela.co.il/publichela/MEDIA/Moslslat/2018/ramdan2018/nasr-als3ed/16.mp4
+#EXTINF:-1,الحلقة_15
+http://flv2.alarab.com:8080/new/iphone/121724.mp4
+#EXTINF:-1,الحلقة_14
+http://flv2.alarab.com:8080/new/iphone/121626.mp4
+#EXTINF:-1,الحلقة_13
+http://flv2.alarab.com:8080/new/iphone/121532.mp4
+#EXTINF:-1,الحلقة_12
+http://flv2.alarab.com:8080/new/iphone/121436.mp4
+#EXTINF:-1,الحلقة_11
+http://flv2.alarab.com:8080/new/iphone/121356.mp4
+#EXTINF:-1,الحلقة_10
+http://flv2.alarab.com:8080/new/iphone/121253.mp4
+#EXTINF:-1,الحلقة_9
+http://flv2.alarab.com:8080/new/iphone/121174.mp4
+#EXTINF:-1,الحلقة_8
+http://flv2.alarab.com:8080/new/iphone/121097.mp4
+#EXTINF:-1,الحلقة_7
+http://flv2.alarab.com:8080/new/iphone/121013.mp4
+#EXTINF:-1,الحلقة_6
+http://flv2.alarab.com:8080/new/iphone/120936.mp4
+#EXTINF:-1,الحلقة_5
+http://flv2.alarab.com:8080/new/iphone/120855.mp4
+#EXTINF:-1,الحلقة_4
+http://88.202.231.147:8080/new147/iphone/120741.mp4
+#EXTINF:-1,الحلقة_3
+http://flv2.alarab.com:8080/new/hd/120633.mp4
+#EXTINF:-1,الحلقة_2
+http://flv2.alarab.com:8080/new/iphone/120543.mp4
+#EXTINF:-1,الحلقة_1
+http://88.202.231.147:8080/new147/iphone/120478.mp4
 
 
 
